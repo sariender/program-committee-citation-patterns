@@ -1,1 +1,17 @@
+# Data
+data/
+*.parquet
+*.csv
+*.csv.gz
+*.json
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv
