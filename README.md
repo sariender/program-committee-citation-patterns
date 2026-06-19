@@ -111,15 +111,15 @@ This project asks whether researchers are cited differently around the years whe
 
 | Step | File | Rows | Why it matters |
 |---|---|---:|---|
-| Step 1 | `step_1_data/prepared/pc_members.parquet` | 2,180 | Cleaned PC service rows. |
-| Step 1 | `step_1_data/prepared/pc_first_service_evidence.parquet` | 1,496 | Earlier service history evidence. |
-| Step 2 | `step_2_data/prepared/all_papers/all_papers_filtered.parquet` | 2,528 | Accepted papers used for citation counting. |
-| Step 2 | `step_2_data/intermediate/references/reference_edges.parquet` | 110,167 | Reference edges from accepted papers to OpenAlex works. |
-| Step 2 | `step_2_data/prepared/all_papers/all_ref_authors_exploded.parquet` | 355,366 | Reference edges expanded to cited authors. |
-| Step 3 | `step_3_data/prepared/panel.parquet` | 37,128 | Final researcher-conference-year panel. |
-| Step 3 | `step_3_data/prepared/panel_features.parquet` | 37,128 | Service history and analysis features. |
-| Step 4 | `step_4_data/prepared/t_minus_2_reference_event_window_rows.parquet` | 2,015 | RQ1 event study rows. |
-| Step 4 | `step_4_data/prepared/citation_source_shift_event_rows.parquet` | 1,500 | RQ2 citation source rows. |
+|  1 | `step_1_data/prepared/pc_members.parquet` | 2,180 | Cleaned PC service rows. |
+|  1 | `step_1_data/prepared/pc_first_service_evidence.parquet` | 1,496 | Earlier service history evidence. |
+|  2 | `step_2_data/prepared/all_papers/all_papers_filtered.parquet` | 2,528 | Accepted papers used for citation counting. |
+|  2 | `step_2_data/intermediate/references/reference_edges.parquet` | 110,167 | Reference edges from accepted papers to OpenAlex works. |
+|  2 | `step_2_data/prepared/all_papers/all_ref_authors_exploded.parquet` | 355,366 | Reference edges expanded to cited authors. |
+|  3 | `step_3_data/prepared/panel.parquet` | 37,128 | Final researcher-conference-year panel. |
+|  3 | `step_3_data/prepared/panel_features.parquet` | 37,128 | Service history and analysis features. |
+|  4 | `step_4_data/prepared/t_minus_2_reference_event_window_rows.parquet` | 2,015 | RQ1 event study rows. |
+|  4 | `step_4_data/prepared/citation_source_shift_event_rows.parquet` | 1,500 | RQ2 citation source rows. |
 
 
 ## Final Panel Data Dictionary
