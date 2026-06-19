@@ -1,0 +1,4 @@
+check,filter,included_conferences,all_event_units,no_earlier_broad_service_event_units
+citation_source_shift,balanced window + exactly one observed same-conference PC-service year,ICFP; POPL; PLDI 2021 onward,263,87
+t_minus_citation_count_companion,balanced event window,ICFP; POPL; PLDI 2021 onward,349,101
+t_minus_citation_count_if_source_shift_filter_applied,balanced event window + exactly one observed same-conference PC-service year,ICFP; POPL; PLDI 2021 onward,263,87

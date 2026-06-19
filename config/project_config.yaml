@@ -1,0 +1,23 @@
+# Cached artifact-reproduction mode: use existing data and refresh outputs.
+run_mode: fast
+
+inputs:
+  allow_network: false
+  use_existing_data: true
+
+outputs:
+  overwrite_data: false
+  overwrite_artifacts: true
+
+openalex:
+  # Empty means no sample limit. Set to a small integer only for testing
+  # expensive OpenAlex rebuild steps.
+  sample_limit:
+  sample_include_work_ids: []
+  fetch_workers: 8
+
+external_validation:
+  # Empty means validate all researchers. Set to a small integer only for
+  # testing ORCID.org and Researchr DOI validation.
+  sample_limit:
+  max_dois_per_researcher:

@@ -1,0 +1,496 @@
+panel_row_id,conference,year,name,researcher_id,citation_count,citation_match_basis,match_confidence,panel_identity_status
+alexandrasilva|ICFP|2017,ICFP,2017,Alexandra Silva,alexandrasilva,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+kathrynegray|ICFP|2017,ICFP,2017,Kathryn E. Gray,kathrynegray,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+lindseykuper|ICFP|2017,ICFP,2017,Lindsey Kuper,lindseykuper,0.0,openalex_author_id,GREEN,automatic_openalex_id
+martinerwig|ICFP|2017,ICFP,2017,Martin Erwig,martinerwig,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+alejandrorusso|ICFP|2018,ICFP,2018,Alejandro Russo,alejandrorusso,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+katsuhiroueno|ICFP|2018,ICFP,2018,Katsuhiro Ueno,katsuhiroueno,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+marcogaboardi|ICFP|2018,ICFP,2018,Marco Gaboardi,marcogaboardi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sandrineblazy|ICFP|2018,ICFP,2018,Sandrine Blazy,sandrineblazy,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jenniferpaykin|ICFP|2019,ICFP,2019,Jennifer Paykin,jenniferpaykin,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+lauramcastro|ICFP|2019,ICFP,2019,Laura M. Castro,lauramcastro,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+geoffreymainland|ICFP|2020,ICFP,2020,Geoffrey Mainland,geoffreymainland,0.0,openalex_author_id,GREEN,automatic_openalex_id
+cyrusomar|ICFP|2021,ICFP,2021,Cyrus Omar,cyrusomar,0.0,openalex_author_id,GREEN,automatic_openalex_id
+eijirosumii|ICFP|2021,ICFP,2021,Eijiro Sumii,eijirosumii,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+ekaterinakomendantskaya|ICFP|2021,ICFP,2021,Ekaterina Komendantskaya,ekaterinakomendantskaya,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kazutakamatsuda|ICFP|2021,ICFP,2021,Kazutaka Matsuda,kazutakamatsuda,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kuenbanghoufavonia|ICFP|2021,ICFP,2021,Kuen-Bang Hou (Favonia),kuenbanghoufavonia,0.0,name_only_match,RED,name_only_sensitivity
+alexandrasilva|ICFP|2022,ICFP,2022,Alexandra Silva,alexandrasilva,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+assiamahboubi|ICFP|2022,ICFP,2022,Assia Mahboubi,assiamahboubi,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+azalearaad|ICFP|2022,ICFP,2022,Azalea Raad,azalearaad,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kokomuroya|ICFP|2022,ICFP,2022,Koko Muroya,kokomuroya,0.0,openalex_author_id,GREEN,automatic_openalex_id
+maribelfernandez|ICFP|2022,ICFP,2022,Maribel Fernandez,maribelfernandez,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+maryshe|ICFP|2022,ICFP,2022,Mary Sheeran,maryshe,0.0,openalex_author_id,GREEN,automatic_openalex_id
+matiastoro|ICFP|2022,ICFP,2022,Matías Toro,matiastoro,0.0,openalex_author_id,GREEN,automatic_openalex_id
+normandanner|ICFP|2022,ICFP,2022,Norman Danner,normandanner,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+williamjbowman|ICFP|2022,ICFP,2022,William J. Bowman,williamjbowman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+amosrobinson|ICFP|2023,ICFP,2023,Amos Robinson,amosrobinson,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+armandosolarlezama|ICFP|2023,ICFP,2023,Armando Solar-Lezama,armandosolarlezama,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+arnaudspiwack|ICFP|2023,ICFP,2023,Arnaud Spiwack,arnaudspiwack,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+deliakesner|ICFP|2023,ICFP,2023,Delia Kesner,deliakesner,0.0,openalex_author_id,GREEN,automatic_openalex_id
+hannahgommerstadt|ICFP|2023,ICFP,2023,Hannah Gommerstadt,hannahgommerstadt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jameschapman1|ICFP|2023,ICFP,2023,James Chapman,jameschapman1,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+joshberdine|ICFP|2023,ICFP,2023,Josh Berdine,joshberdine,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kathrinstark|ICFP|2023,ICFP,2023,Kathrin Stark,kathrinstark,0.0,openalex_author_id,GREEN,automatic_openalex_id
+liangtingchen|ICFP|2023,ICFP,2023,Liang-Ting Chen,liangtingchen,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+marcosviera|ICFP|2023,ICFP,2023,Marcos Viera,marcosviera,0.0,openalex_author_id,GREEN,automatic_openalex_id
+michaeldadams|ICFP|2023,ICFP,2023,Michael D. Adams,michaeldadams,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+pauldownen|ICFP|2023,ICFP,2023,Paul Downen,pauldownen,0.0,openalex_author_id,GREEN,automatic_openalex_id
+seanmoss|ICFP|2023,ICFP,2023,Sean Moss,seanmoss,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+soniamarin|ICFP|2023,ICFP,2023,Sonia Marin,soniamarin,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stephendolan|ICFP|2023,ICFP,2023,Stephen Dolan,stephendolan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+alejandrorusso|ICFP|2024,ICFP,2024,Alejandro Russo,alejandrorusso,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+brentyorgey|ICFP|2024,ICFP,2024,Brent Yorgey,brentyorgey,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+ekaterinakomendantskaya|ICFP|2024,ICFP,2024,Ekaterina Komendantskaya,ekaterinakomendantskaya,0.0,openalex_author_id,GREEN,automatic_openalex_id
+evelyncontejean|ICFP|2024,ICFP,2024,Evelyne Contejean,evelyncontejean,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+francescogavazzo|ICFP|2024,ICFP,2024,Francesco Gavazzo,francescogavazzo,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jacquesgarrigue|ICFP|2024,ICFP,2024,Jacques Garrigue,jacquesgarrigue,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+katsuhiroueno|ICFP|2024,ICFP,2024,Katsuhiro Ueno,katsuhiroueno,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+keshahietala|ICFP|2024,ICFP,2024,Kesha Hietala,keshahietala,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+lauramcastro|ICFP|2024,ICFP,2024,Laura M. Castro,lauramcastro,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+lindseykuper|ICFP|2024,ICFP,2024,Lindsey Kuper,lindseykuper,0.0,openalex_author_id,GREEN,automatic_openalex_id
+michaelsperber|ICFP|2024,ICFP,2024,Michael Sperber,michaelsperber,0.0,openalex_author_id,GREEN,automatic_openalex_id
+ryosukesato|ICFP|2024,ICFP,2024,Ryosuke Sato,ryosukesato,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+zoeparaskevopoulou|ICFP|2024,ICFP,2024,Zoe Paraskevopoulou,zoeparaskevopoulou,0.0,openalex_author_id,GREEN,automatic_openalex_id
+andrzejfilinski|ICFP|2025,ICFP,2025,Andrzej Filinski,andrzejfilinski,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+anupamdas|ICFP|2025,ICFP,2025,Anupam Das,anupamdas,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+aurelebarriere|ICFP|2025,ICFP,2025,Aurèle Barrière,aurelebarriere,0.0,openalex_author_id,GREEN,automatic_openalex_id
+christinetasson|ICFP|2025,ICFP,2025,Christine Tasson,christinetasson,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+damianomazza|ICFP|2025,ICFP,2025,Damiano Mazza,damianomazza,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+farzanehderakhshan|ICFP|2025,ICFP,2025,Farzaneh Derakhshan,farzanehderakhshan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+fritzhenglein|ICFP|2025,ICFP,2025,Fritz Henglein,fritzhenglein,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hiroshiunno|ICFP|2025,ICFP,2025,Hiroshi Unno,hiroshiunno,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+janhoffmann|ICFP|2025,ICFP,2025,Jan Hoffmann,janhoffmann,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+julesjacobs|ICFP|2025,ICFP,2025,Jules Jacobs,julesjacobs,0.0,openalex_author_id,GREEN,automatic_openalex_id
+liamoconnor|ICFP|2025,ICFP,2025,Liam O'Connor,liamoconnor,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sandrineblazy|ICFP|2025,ICFP,2025,Sandrine Blazy,sandrineblazy,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+williamebyrd|ICFP|2025,ICFP,2025,William E. Byrd,williamebyrd,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+yahuisong1|ICFP|2025,ICFP,2025,Yahui Song,yahuisong1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+douglea|OOPSLA|2017,OOPSLA,2017,Doug Lea,douglea,0.0,openalex_author_id,GREEN,automatic_openalex_id
+elisagonzalezboix|OOPSLA|2017,OOPSLA,2017,Elisa Gonzalez Boix,elisagonzalezboix,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gabrieldosreis|OOPSLA|2017,OOPSLA,2017,Gabriel Dos Reis,gabrieldosreis,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+heathermiller|OOPSLA|2017,OOPSLA,2017,Heather Miller,heathermiller,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+irenefinocchi|OOPSLA|2017,OOPSLA,2017,Irene Finocchi,irenefinocchi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jensdietrich|OOPSLA|2017,OOPSLA,2017,Jens Dietrich,jensdietrich,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pengwu|OOPSLA|2017,OOPSLA,2017,Peng Wu,pengwu,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+colingordon|OOPSLA|2018,OOPSLA,2018,Colin Gordon,colingordon,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+maxschaefer|OOPSLA|2018,OOPSLA,2018,Max Schaefer,maxschaefer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+ninanarodytska|OOPSLA|2018,OOPSLA,2018,Nina Narodytska,ninanarodytska,0.0,openalex_author_id,GREEN,automatic_openalex_id
+ericvanwyk|OOPSLA|2019,OOPSLA,2019,Eric Van Wyk,ericvanwyk,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nobukoyoshida|OOPSLA|2019,OOPSLA,2019,Nobuko Yoshida,nobukoyoshida,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+aritrasengupta|OOPSLA|2020,OOPSLA,2020,Aritra Sengupta,aritrasengupta,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+josesantos|OOPSLA|2020,OOPSLA,2020,José Fragoso Santos,josesantos,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+roberthirschfeld|OOPSLA|2020,OOPSLA,2020,Robert Hirschfeld,roberthirschfeld,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+andrewmyers|OOPSLA|2021,OOPSLA,2021,Andrew Myers,andrewmyers,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+aritrasengupta|OOPSLA|2021,OOPSLA,2021,Aritra Sengupta,aritrasengupta,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+cristalopes|OOPSLA|2021,OOPSLA,2021,Crista Lopes,cristalopes,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+erikaabraham|OOPSLA|2021,OOPSLA,2021,Erika Abraham,erikaabraham,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+justingottschlich|OOPSLA|2021,OOPSLA,2021,Justin Gottschlich,justingottschlich,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+mariekehuisman|OOPSLA|2021,OOPSLA,2021,Marieke Huisman,mariekehuisman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+michaelcarbin|OOPSLA|2021,OOPSLA,2021,Michael Carbin,michaelcarbin,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+michaelbond|OOPSLA|2021,OOPSLA,2021,Michael D. Bond,michaelbond,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+weihangwang|OOPSLA|2021,OOPSLA,2021,Weihang Wang,weihangwang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+christosdimoulas1|OOPSLA1|2022,OOPSLA1,2022,Christos Dimoulas,christosdimoulas1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+cristalopes|OOPSLA1|2022,OOPSLA1,2022,Crista Lopes,cristalopes,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+gailkaiser|OOPSLA1|2022,OOPSLA1,2022,Gail Kaiser,gailkaiser,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+gowthamkaki|OOPSLA1|2022,OOPSLA1,2022,Gowtham Kaki,gowthamkaki,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hezhu|OOPSLA1|2022,OOPSLA1,2022,He Zhu,hezhu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kathrynsmckinley|OOPSLA1|2022,OOPSLA1,2022,Kathryn S McKinley,kathrynsmckinley,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kihongheo|OOPSLA1|2022,OOPSLA1,2022,Kihong Heo,kihongheo,0.0,openalex_author_id,GREEN,automatic_openalex_id
+louisnoelpouchet|OOPSLA1|2022,OOPSLA1,2022,Louis-Noël Pouchet,louisnoelpouchet,0.0,openalex_author_id,GREEN,automatic_openalex_id
+mandanavaziri|OOPSLA1|2022,OOPSLA1,2022,Mandana Vaziri,mandanavaziri,0.0,openalex_author_id,GREEN,automatic_openalex_id
+milindkulkarni|OOPSLA1|2022,OOPSLA1,2022,Milind Kulkarni,milindkulkarni,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nikivazou|OOPSLA1|2022,OOPSLA1,2022,Niki Vazou,nikivazou,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+patrickeugster|OOPSLA1|2022,OOPSLA1,2022,Patrick Eugster,patrickeugster,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sophiadrossopoulou|OOPSLA1|2022,OOPSLA1,2022,Sophia Drossopoulou,sophiadrossopoulou,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stefanmarr|OOPSLA1|2022,OOPSLA1,2022,Stefan Marr,stefanmarr,0.0,openalex_author_id,GREEN,automatic_openalex_id
+stephenkell|OOPSLA1|2022,OOPSLA1,2022,Stephen Kell,stephenkell,0.0,openalex_author_id,GREEN,automatic_openalex_id
+albertcohen|OOPSLA1|2023,OOPSLA1,2023,Albert Cohen,albertcohen,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+anamilanova|OOPSLA1|2023,OOPSLA1,2023,Ana Milanova,anamilanova,0.0,openalex_author_id,GREEN,automatic_openalex_id
+andersmoller|OOPSLA1|2023,OOPSLA1,2023,Anders Møller,andersmoller,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+anithagollamudi|OOPSLA1|2023,OOPSLA1,2023,Anitha Gollamudi,anithagollamudi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+annettebieniusa|OOPSLA1|2023,OOPSLA1,2023,Annette Bieniusa,annettebieniusa,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+arjunguha|OOPSLA1|2023,OOPSLA1,2023,Arjun Guha,arjunguha,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+atsushiigarashi|OOPSLA1|2023,OOPSLA1,2023,Atsushi Igarashi,atsushiigarashi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+bernardotoninho|OOPSLA1|2023,OOPSLA1,2023,Bernardo Toninho,bernardotoninho,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+brunooliveira|OOPSLA1|2023,OOPSLA1,2023,Bruno C. d. S. Oliveira,brunooliveira,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+charlessutton|OOPSLA1|2023,OOPSLA1,2023,Charles Sutton,charlessutton,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+cindyrubiogonzalez|OOPSLA1|2023,OOPSLA1,2023,Cindy Rubio-González,cindyrubiogonzalez,0.0,openalex_author_id,GREEN,automatic_openalex_id
+conradwatt|OOPSLA1|2023,OOPSLA1,2023,Conrad Watt,conradwatt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+dangrossman|OOPSLA1|2023,OOPSLA1,2023,Dan Grossman,dangrossman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+dominiquedevriese|OOPSLA1|2023,OOPSLA1,2023,Dominique Devriese,dominiquedevriese,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+elisagonzalezboix|OOPSLA1|2023,OOPSLA1,2023,Elisa Gonzalez Boix,elisagonzalezboix,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gorelhedin|OOPSLA1|2023,OOPSLA1,2023,Gorel Hedin,gorelhedin,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gowthamkaki|OOPSLA1|2023,OOPSLA1,2023,Gowtham Kaki,gowthamkaki,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+guidosalvaneschi|OOPSLA1|2023,OOPSLA1,2023,Guido Salvaneschi,guidosalvaneschi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+hidehikomasuhara|OOPSLA1|2023,OOPSLA1,2023,Hidehiko Masuhara,hidehikomasuhara,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jamescheney|OOPSLA1|2023,OOPSLA1,2023,James Cheney,jamescheney,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jamesnoble|OOPSLA1|2023,OOPSLA1,2023,James Noble,jamesnoble,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+janvitek|OOPSLA1|2023,OOPSLA1,2023,Jan Vitek,janvitek,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jeremygibbons|OOPSLA1|2023,OOPSLA1,2023,Jeremy Gibbons,jeremygibbons,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+justinhsu|OOPSLA1|2023,OOPSLA1,2023,Justin Hsu,justinhsu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+karimali|OOPSLA1|2023,OOPSLA1,2023,Karim Ali,karimali,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+manusridharan|OOPSLA1|2023,OOPSLA1,2023,Manu Sridharan,manusridharan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+marksantolucito|OOPSLA1|2023,OOPSLA1,2023,Mark Santolucito,marksantolucito,0.0,openalex_author_id,GREEN,automatic_openalex_id
+miramezini|OOPSLA1|2023,OOPSLA1,2023,Mira Mezini,miramezini,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+neelakantankrishnaswami|OOPSLA1|2023,OOPSLA1,2023,Neel Krishnaswami,neelakantankrishnaswami,0.0,openalex_author_id,GREEN,automatic_openalex_id
+pascalweisenburger|OOPSLA1|2023,OOPSLA1,2023,Pascal Weisenburger,pascalweisenburger,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pavelchuprikov|OOPSLA1|2023,OOPSLA1,2023,Pavel Chuprikov,pavelchuprikov,0.0,openalex_author_id,GREEN,automatic_openalex_id
+philipphaller|OOPSLA1|2023,OOPSLA1,2023,Philipp Haller,philipphaller,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+phitchayamangpophothilimthana|OOPSLA1|2023,OOPSLA1,2023,Phitchaya Mangpo Phothilimthana,phitchayamangpophothilimthana,0.0,openalex_author_id,GREEN,automatic_openalex_id
+ragnarmogk|OOPSLA1|2023,OOPSLA1,2023,Ragnar Mogk,ragnarmogk,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+rosstate|OOPSLA1|2023,OOPSLA1,2023,Ross Tate,rosstate,0.0,openalex_author_id,GREEN,automatic_openalex_id
+sarahnadi|OOPSLA1|2023,OOPSLA1,2023,Sarah Nadi,sarahnadi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sophiadrossopoulou|OOPSLA1|2023,OOPSLA1,2023,Sophia Drossopoulou,sophiadrossopoulou,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sukyoungryu|OOPSLA1|2023,OOPSLA1,2023,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+wolfgangdemeuter|OOPSLA1|2023,OOPSLA1,2023,Wolfgang De Meuter,wolfgangdemeuter,0.0,openalex_author_id,GREEN,automatic_openalex_id
+alexanderjsummers|OOPSLA1|2024,OOPSLA1,2024,Alexander J. Summers,alexanderjsummers,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+alexandrabugariu|OOPSLA1|2024,OOPSLA1,2024,Alexandra Bugariu,alexandrabugariu,0.0,openalex_author_id,GREEN,automatic_openalex_id
+anithagollamudi|OOPSLA1|2024,OOPSLA1,2024,Anitha Gollamudi,anithagollamudi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+benltitzer|OOPSLA1|2024,OOPSLA1,2024,Ben L. Titzer,benltitzer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+burcukulahciogluozkan|OOPSLA1|2024,OOPSLA1,2024,Burcu Kulahcioglu Ozkan,burcukulahciogluozkan,0.0,openalex_author_id,GREEN,automatic_openalex_id
+casperbach|OOPSLA1|2024,OOPSLA1,2024,Casper Bach,casperbach,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+cezaradragoi|OOPSLA1|2024,OOPSLA1,2024,Cezara Drăgoi,cezaradragoi,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+cyrusomar|OOPSLA1|2024,OOPSLA1,2024,Cyrus Omar,cyrusomar,0.0,openalex_author_id,GREEN,automatic_openalex_id
+damienzufferey|OOPSLA1|2024,OOPSLA1,2024,Damien Zufferey,damienzufferey,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+emmasoderberg|OOPSLA1|2024,OOPSLA1,2024,Emma Söderberg,emmasoderberg,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+emmatosch|OOPSLA1|2024,OOPSLA1,2024,Emma Tosch,emmatosch,0.0,openalex_author_id,GREEN,automatic_openalex_id
+filipniksic|OOPSLA1|2024,OOPSLA1,2024,Filip Niksic,filipniksic,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jiasishen|OOPSLA1|2024,OOPSLA1,2024,Jiasi Shen,jiasishen,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jonathanbell|OOPSLA1|2024,OOPSLA1,2024,Jonathan Bell,jonathanbell,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+julianafranco|OOPSLA1|2024,OOPSLA1,2024,Juliana Franco,julianafranco,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kcsivaramakrishnan|OOPSLA1|2024,OOPSLA1,2024,KC Sivaramakrishnan,kcsivaramakrishnan,0.0,openalex_author_id,GREEN,automatic_openalex_id
+karineevenmendoza|OOPSLA1|2024,OOPSLA1,2024,Karine Even-Mendoza,karineevenmendoza,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kenjimaillard|OOPSLA1|2024,OOPSLA1,2024,Kenji Maillard,kenjimaillard,0.0,openalex_author_id,GREEN,automatic_openalex_id
+liyili1|OOPSLA1|2024,OOPSLA1,2024,Liyi Li,liyili1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+maxschaefer|OOPSLA1|2024,OOPSLA1,2024,Max Schaefer,maxschaefer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+michaelcoblenz|OOPSLA1|2024,OOPSLA1,2024,Michael Coblenz,michaelcoblenz,0.0,openalex_author_id,GREEN,automatic_openalex_id
+orilahav|OOPSLA1|2024,OOPSLA1,2024,Ori Lahav,orilahav,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+owolabilegunsen|OOPSLA1|2024,OOPSLA1,2024,Owolabi Legunsen,owolabilegunsen,0.0,openalex_author_id,GREEN,automatic_openalex_id
+pamelazave|OOPSLA1|2024,OOPSLA1,2024,Pamela Zave,pamelazave,0.0,openalex_author_id,GREEN,automatic_openalex_id
+santoshpande1|OOPSLA1|2024,OOPSLA1,2024,Santosh Pande,santoshpande1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+seantreichler|OOPSLA1|2024,OOPSLA1,2024,Sean Treichler,seantreichler,0.0,openalex_author_id,GREEN,automatic_openalex_id
+sebastianhack|OOPSLA1|2024,OOPSLA1,2024,Sebastian Hack,sebastianhack,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+shacharitzhaky|OOPSLA1|2024,OOPSLA1,2024,Shachar Itzhaky,shacharitzhaky,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+shengchen1|OOPSLA1|2024,OOPSLA1,2024,Sheng Chen,shengchen1,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+shigeruchiba|OOPSLA1|2024,OOPSLA1,2024,Shigeru Chiba,shigeruchiba,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sreepathipai|OOPSLA1|2024,OOPSLA1,2024,Sreepathi Pai,sreepathipai,0.0,openalex_author_id,GREEN,automatic_openalex_id
+stefanbrunthaler|OOPSLA1|2024,OOPSLA1,2024,Stefan Brunthaler,stefanbrunthaler,0.0,openalex_author_id,GREEN,automatic_openalex_id
+swarnendubiswas|OOPSLA1|2024,OOPSLA1,2024,Swarnendu Biswas,swarnendubiswas,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tamasszabo1|OOPSLA1|2024,OOPSLA1,2024,Tamás Szabó,tamasszabo1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tobiasgrosser|OOPSLA1|2024,OOPSLA1,2024,Tobias Grosser,tobiasgrosser,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+walterbinder|OOPSLA1|2024,OOPSLA1,2024,Walter Binder,walterbinder,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+weizhang|OOPSLA1|2024,OOPSLA1,2024,Wei Zhang,weizhang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+xiaokangqiu|OOPSLA1|2024,OOPSLA1,2024,Xiaokang Qiu,xiaokangqiu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+youyoucong|OOPSLA1|2024,OOPSLA1,2024,Youyou Cong,youyoucong,0.0,openalex_author_id,GREEN,automatic_openalex_id
+yudavidliu|OOPSLA1|2024,OOPSLA1,2024,Yu David Liu,yudavidliu,0.0,openalex_author_id,GREEN,automatic_openalex_id
+baberrehman|OOPSLA1|2025,OOPSLA1,2025,Baber Rehman,baberrehman,0.0,openalex_author_id,GREEN,automatic_openalex_id
+bengreenman|OOPSLA1|2025,OOPSLA1,2025,Ben Greenman,bengreenman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+benjaminchung|OOPSLA1|2025,OOPSLA1,2025,Benjamin Chung,benjaminchung,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+calebstanford|OOPSLA1|2025,OOPSLA1,2025,Caleb Stanford,calebstanford,0.0,openalex_author_id,GREEN,automatic_openalex_id
+carolinelemieux|OOPSLA1|2025,OOPSLA1,2025,Caroline Lemieux,carolinelemieux,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+charliemurphy1|OOPSLA1|2025,OOPSLA1,2025,Charlie Murphy,charliemurphy1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+chrismartens|OOPSLA1|2025,OOPSLA1,2025,Chris Martens,chrismartens,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+conradwatt|OOPSLA1|2025,OOPSLA1,2025,Conrad Watt,conradwatt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+coskuacay1|OOPSLA1|2025,OOPSLA1,2025,Coşku Acay,coskuacay1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danbarowy|OOPSLA1|2025,OOPSLA1,2025,Dan Barowy,danbarowy,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+davidpichardie|OOPSLA1|2025,OOPSLA1,2025,David Pichardie,davidpichardie,0.0,openalex_author_id,GREEN,automatic_openalex_id
+dorrabenkhalifa|OOPSLA1|2025,OOPSLA1,2025,Dorra Ben Khalifa,dorrabenkhalifa,0.0,openalex_author_id,GREEN,automatic_openalex_id
+edwardaftandilian|OOPSLA1|2025,OOPSLA1,2025,Eddie Aftandilian,edwardaftandilian,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+eunsukkang|OOPSLA1|2025,OOPSLA1,2025,Eunsuk Kang,eunsukkang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+francoisgauthier|OOPSLA1|2025,OOPSLA1,2025,François Gauthier,francoisgauthier,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+gangtan|OOPSLA1|2025,OOPSLA1,2025,Gang (Gary) Tan,gangtan,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+guannanwei|OOPSLA1|2025,OOPSLA1,2025,Guannan Wei,guannanwei,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hanjunkim1|OOPSLA1|2025,OOPSLA1,2025,Hanjun Kim,hanjunkim1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hidehikomasuhara|OOPSLA1|2025,OOPSLA1,2025,Hidehiko Masuhara,hidehikomasuhara,0.0,openalex_author_id,GREEN,automatic_openalex_id
+hoannguyen1|OOPSLA1|2025,OOPSLA1,2025,Hoan Nguyen,hoannguyen1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jasminblanchette1|OOPSLA1|2025,OOPSLA1,2025,Jasmin Blanchette,jasminblanchette1,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+jiasishen|OOPSLA1|2025,OOPSLA1,2025,Jiasi Shen,jiasishen,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jihyeokpark1|OOPSLA1|2025,OOPSLA1,2025,Jihyeok Park,jihyeokpark1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jingmeihu1|OOPSLA1|2025,OOPSLA1,2025,Jingmei Hu,jingmeihu1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+juliabelyakova|OOPSLA1|2025,OOPSLA1,2025,Julia Belyakova,juliabelyakova,0.0,openalex_author_id,GREEN,automatic_openalex_id
+juneyounglee2|OOPSLA1|2025,OOPSLA1,2025,Juneyoung Lee,juneyounglee2,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+karineevenmendoza|OOPSLA1|2025,OOPSLA1,2025,Karine Even-Mendoza,karineevenmendoza,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+matthiashauswirth|OOPSLA1|2025,OOPSLA1,2025,Matthias Hauswirth,matthiashauswirth,0.0,openalex_author_id,GREEN,automatic_openalex_id
+michaelmarcozzi1|OOPSLA1|2025,OOPSLA1,2025,Michaël Marcozzi,michaelmarcozzi1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+michelechiari|OOPSLA1|2025,OOPSLA1,2025,Michele Chiari,michelechiari,0.0,openalex_author_id,GREEN,automatic_openalex_id
+milijanasurbatovich1|OOPSLA1|2025,OOPSLA1,2025,Milijana Surbatovich,milijanasurbatovich1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nikitakoval|OOPSLA1|2025,OOPSLA1,2025,Nikita Koval,nikitakoval,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+ningluo1|OOPSLA1|2025,OOPSLA1,2025,Ning Luo,ningluo1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pavelparizek|OOPSLA1|2025,OOPSLA1,2025,Pavel Parizek,pavelparizek,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+pinjiahe|OOPSLA1|2025,OOPSLA1,2025,Pinjia He,pinjiahe,0.0,openalex_author_id,GREEN,automatic_openalex_id
+rohanbavishi|OOPSLA1|2025,OOPSLA1,2025,Rohan Bavishi,rohanbavishi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+shriramkrishnamurthi|OOPSLA1|2025,OOPSLA1,2025,Shriram Krishnamurthi,shriramkrishnamurthi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sooyoungcha1|OOPSLA1|2025,OOPSLA1,2025,Sooyoung Cha,sooyoungcha1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stefanmarr|OOPSLA1|2025,OOPSLA1,2025,Stefan Marr,stefanmarr,0.0,openalex_author_id,GREEN,automatic_openalex_id
+sukyoungryu|OOPSLA1|2025,OOPSLA1,2025,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tiagocogumbreiro|OOPSLA1|2025,OOPSLA1,2025,Tiago Cogumbreiro,tiagocogumbreiro,0.0,openalex_author_id,GREEN,automatic_openalex_id
+tobiaswrigstad|OOPSLA1|2025,OOPSLA1,2025,Tobias Wrigstad,tobiaswrigstad,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+xiaoningdu|OOPSLA1|2025,OOPSLA1,2025,Xiaoning Du,xiaoningdu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+yakirvizel|OOPSLA1|2025,OOPSLA1,2025,Yakir Vizel,yakirvizel,0.0,openalex_author_id,GREEN,automatic_openalex_id
+yanjuchen|OOPSLA1|2025,OOPSLA1,2025,Yanju Chen,yanjuchen,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+cristalopes|OOPSLA2|2022,OOPSLA2,2022,Crista Lopes,cristalopes,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+delphinedemange|OOPSLA2|2022,OOPSLA2,2022,Delphine Demange,delphinedemange,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gailkaiser|OOPSLA2|2022,OOPSLA2,2022,Gail Kaiser,gailkaiser,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+hakjoooh|OOPSLA2|2022,OOPSLA2,2022,Hakjoo Oh,hakjoooh,0.0,openalex_author_id,GREEN,automatic_openalex_id
+anithagollamudi|OOPSLA2|2023,OOPSLA2,2023,Anitha Gollamudi,anithagollamudi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+bernardotoninho|OOPSLA2|2023,OOPSLA2,2023,Bernardo Toninho,bernardotoninho,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+burcukulahciogluozkan|OOPSLA2|2023,OOPSLA2,2023,Burcu Kulahcioglu Ozkan,burcukulahciogluozkan,0.0,openalex_author_id,GREEN,automatic_openalex_id
+cristalopes|OOPSLA2|2023,OOPSLA2,2023,Crista Lopes,cristalopes,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+elisagonzalezboix|OOPSLA2|2023,OOPSLA2,2023,Elisa Gonzalez Boix,elisagonzalezboix,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gowthamkaki|OOPSLA2|2023,OOPSLA2,2023,Gowtham Kaki,gowthamkaki,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hongjinliang|OOPSLA2|2023,OOPSLA2,2023,Hongjin Liang,hongjinliang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+pavelchuprikov|OOPSLA2|2023,OOPSLA2,2023,Pavel Chuprikov,pavelchuprikov,0.0,openalex_author_id,GREEN,automatic_openalex_id
+phitchayamangpophothilimthana|OOPSLA2|2023,OOPSLA2,2023,Phitchaya Mangpo Phothilimthana,phitchayamangpophothilimthana,0.0,openalex_author_id,GREEN,automatic_openalex_id
+ragnarmogk|OOPSLA2|2023,OOPSLA2,2023,Ragnar Mogk,ragnarmogk,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sarahnadi|OOPSLA2|2023,OOPSLA2,2023,Sarah Nadi,sarahnadi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stevenholtzen|OOPSLA2|2023,OOPSLA2,2023,Steven Holtzen,stevenholtzen,0.0,openalex_author_id,GREEN,automatic_openalex_id
+tijsvanderstorm|OOPSLA2|2023,OOPSLA2,2023,Tijs van der Storm,tijsvanderstorm,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+ankushdesai1|OOPSLA2|2024,OOPSLA2,2024,Ankush Desai,ankushdesai1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+emmasoderberg|OOPSLA2|2024,OOPSLA2,2024,Emma Söderberg,emmasoderberg,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+emmatosch|OOPSLA2|2024,OOPSLA2,2024,Emma Tosch,emmatosch,0.0,openalex_author_id,GREEN,automatic_openalex_id
+feihe|OOPSLA2|2024,OOPSLA2,2024,Fei He,feihe,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+liyili1|OOPSLA2|2024,OOPSLA2,2024,Liyi Li,liyili1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+maxschaefer|OOPSLA2|2024,OOPSLA2,2024,Max Schaefer,maxschaefer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pamelazave|OOPSLA2|2024,OOPSLA2,2024,Pamela Zave,pamelazave,0.0,openalex_author_id,GREEN,automatic_openalex_id
+santoshpande1|OOPSLA2|2024,OOPSLA2,2024,Santosh Pande,santoshpande1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+seantreichler|OOPSLA2|2024,OOPSLA2,2024,Sean Treichler,seantreichler,0.0,openalex_author_id,GREEN,automatic_openalex_id
+shigeruchiba|OOPSLA2|2024,OOPSLA2,2024,Shigeru Chiba,shigeruchiba,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stefanbrunthaler|OOPSLA2|2024,OOPSLA2,2024,Stefan Brunthaler,stefanbrunthaler,0.0,openalex_author_id,GREEN,automatic_openalex_id
+thanhvunguyen|OOPSLA2|2024,OOPSLA2,2024,ThanhVu Nguyen,thanhvunguyen,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+walterbinder|OOPSLA2|2024,OOPSLA2,2024,Walter Binder,walterbinder,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+weile|OOPSLA2|2024,OOPSLA2,2024,Wei Le,weile,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+weizhang|OOPSLA2|2024,OOPSLA2,2024,Wei Zhang,weizhang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+xiaokangqiu|OOPSLA2|2024,OOPSLA2,2024,Xiaokang Qiu,xiaokangqiu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+alejandroaguirre1|OOPSLA2|2025,OOPSLA2,2025,Alejandro Aguirre,alejandroaguirre1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+aravindmachiry|OOPSLA2|2025,OOPSLA2,2025,Aravind Machiry,aravindmachiry,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+benjaminchung|OOPSLA2|2025,OOPSLA2,2025,Benjamin Chung,benjaminchung,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+charliemurphy1|OOPSLA2|2025,OOPSLA2,2025,Charlie Murphy,charliemurphy1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+chrismartens|OOPSLA2|2025,OOPSLA2,2025,Chris Martens,chrismartens,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+coskuacay1|OOPSLA2|2025,OOPSLA2,2025,Coşku Acay,coskuacay1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danbarowy|OOPSLA2|2025,OOPSLA2,2025,Dan Barowy,danbarowy,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+felixstutz|OOPSLA2|2025,OOPSLA2,2025,Felix Stutz,felixstutz,0.0,openalex_author_id,GREEN,automatic_openalex_id
+guillaumebaudart|OOPSLA2|2025,OOPSLA2,2025,Guillaume Baudart,guillaumebaudart,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hidehikomasuhara|OOPSLA2|2025,OOPSLA2,2025,Hidehiko Masuhara,hidehikomasuhara,0.0,openalex_author_id,GREEN,automatic_openalex_id
+joannasantos|OOPSLA2|2025,OOPSLA2,2025,Joanna C. S. Santos,joannasantos,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kartiknagar1|OOPSLA2|2025,OOPSLA2,2025,Kartik Nagar,kartiknagar1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pavelparizek|OOPSLA2|2025,OOPSLA2,2025,Pavel Parizek,pavelparizek,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+sooyoungcha1|OOPSLA2|2025,OOPSLA2,2025,Sooyoung Cha,sooyoungcha1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tomokinakamaru|OOPSLA2|2025,OOPSLA2,2025,Tomoki Nakamaru,tomokinakamaru,0.0,openalex_author_id,GREEN,automatic_openalex_id
+xiaoningdu|OOPSLA2|2025,OOPSLA2,2025,Xiaoning Du,xiaoningdu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+cezaradragoi|PLDI|2017,PLDI,2017,Cezara Drăgoi,cezaradragoi,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+charlessutton|PLDI|2017,PLDI,2017,Charles Sutton,charlessutton,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+edwardaftandilian|PLDI|2017,PLDI,2017,Eddie Aftandilian,edwardaftandilian,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+franzfranchetti|PLDI|2017,PLDI,2017,Franz Franchetti,franzfranchetti,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+josephdevietti|PLDI|2017,PLDI,2017,Joseph Devietti,josephdevietti,0.0,openalex_author_id,GREEN,automatic_openalex_id
+junfengyang|PLDI|2017,PLDI,2017,Junfeng Yang,junfengyang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+madanmusuvathi|PLDI|2017,PLDI,2017,Madan Musuvathi,madanmusuvathi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+marcopistoia|PLDI|2017,PLDI,2017,Marco Pistoia,marcopistoia,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+onurmutlu1|PLDI|2017,PLDI,2017,Onur Mutlu,onurmutlu1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+ravichugh|PLDI|2017,PLDI,2017,Ravi Chugh,ravichugh,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sharonshoham|PLDI|2017,PLDI,2017,Sharon Shoham,sharonshoham,0.0,name_only_match,RED,name_only_sensitivity
+adamchlipala|PLDI|2018,PLDI,2018,Adam Chlipala,adamchlipala,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+deianstefan|PLDI|2018,PLDI,2018,Deian Stefan,deianstefan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jasonmars|PLDI|2018,PLDI,2018,Jason Mars,jasonmars,0.0,openalex_author_id,GREEN,automatic_openalex_id
+joxanjaffar|PLDI|2018,PLDI,2018,Joxan Jaffar,joxanjaffar,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kathleenfisher|PLDI|2018,PLDI,2018,Kathleen Fisher,kathleenfisher,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+ryanrnewton|PLDI|2018,PLDI,2018,Ryan R. Newton,ryanrnewton,0.0,name_only_match,RED,name_only_sensitivity
+shacharitzhaky|PLDI|2018,PLDI,2018,Shachar Itzhaky,shacharitzhaky,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sukyoungryu|PLDI|2018,PLDI,2018,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tobiaswrigstad|PLDI|2018,PLDI,2018,Tobias Wrigstad,tobiaswrigstad,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tonyhosking|PLDI|2018,PLDI,2018,Tony Hosking,tonyhosking,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+juneandronick|PLDI|2019,PLDI,2019,June Andronick,juneandronick,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+liminjia|PLDI|2019,PLDI,2019,Limin Jia,liminjia,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+martinrinard|PLDI|2019,PLDI,2019,Martin C. Rinard,martinrinard,0.0,name_only_match,RED,name_only_sensitivity
+adriansampson|PLDI|2020,PLDI,2020,Adrian Sampson,adriansampson,0.0,openalex_author_id,GREEN,automatic_openalex_id
+alexandrajimborean|PLDI|2020,PLDI,2020,Alexandra Jimborean,alexandrajimborean,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+chrisseaton|PLDI|2020,PLDI,2020,Chris Seaton,chrisseaton,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danbarowy|PLDI|2020,PLDI,2020,Dan Barowy,danbarowy,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+johnvilk|PLDI|2020,PLDI,2020,John Vilk,johnvilk,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+peterhawkins|PLDI|2020,PLDI,2020,Peter Hawkins,peterhawkins,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sriramkrishnamoorthy|PLDI|2020,PLDI,2020,Sriram Krishnamoorthy,sriramkrishnamoorthy,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+yufeiding|PLDI|2020,PLDI,2020,Yufei Ding,yufeiding,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+bengreenman|PLDI|2021,PLDI,2021,Ben Greenman,bengreenman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+benzorn|PLDI|2021,PLDI,2021,Ben Zorn,benzorn,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+charliecurtsinger|PLDI|2021,PLDI,2021,Charlie Curtsinger,charliecurtsinger,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+gailkaiser|PLDI|2021,PLDI,2021,Gail Kaiser,gailkaiser,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+heathermiller|PLDI|2021,PLDI,2021,Heather Miller,heathermiller,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+josesantos|PLDI|2021,PLDI,2021,José Fragoso Santos,josesantos,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+julianshun|PLDI|2021,PLDI,2021,Julian Shun,julianshun,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+michaelbond|PLDI|2021,PLDI,2021,Michael D. Bond,michaelbond,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nameng|PLDI|2021,PLDI,2021,Na Meng,nameng,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nikosvasilakis|PLDI|2021,PLDI,2021,Nikos Vasilakis,nikosvasilakis,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+roopshasamanta|PLDI|2021,PLDI,2021,Roopsha Samanta,roopshasamanta,0.0,openalex_author_id,GREEN,automatic_openalex_id
+saumyadebray|PLDI|2021,PLDI,2021,Saumya Debray,saumyadebray,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sauravmuralidharan|PLDI|2021,PLDI,2021,Saurav Muralidharan,sauravmuralidharan,0.0,openalex_author_id,GREEN,automatic_openalex_id
+tingcao|PLDI|2021,PLDI,2021,Ting Cao,tingcao,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+tobiaswrigstad|PLDI|2021,PLDI,2021,Tobias Wrigstad,tobiaswrigstad,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tonyhosking|PLDI|2021,PLDI,2021,Tony Hosking,tonyhosking,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+adityavthakur|PLDI|2022,PLDI,2022,Aditya V. Thakur,adityavthakur,0.0,name_only_match,RED,name_only_sensitivity
+anamilanova|PLDI|2022,PLDI,2022,Ana Milanova,anamilanova,0.0,openalex_author_id,GREEN,automatic_openalex_id
+chandrakananandi|PLDI|2022,PLDI,2022,Chandrakana Nandi,chandrakananandi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danfengzhang|PLDI|2022,PLDI,2022,Danfeng Zhang,danfengzhang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+douglea|PLDI|2022,PLDI,2022,Doug Lea,douglea,0.0,openalex_author_id,GREEN,automatic_openalex_id
+fanlong|PLDI|2022,PLDI,2022,Fan Long,fanlong,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+fraserbrown|PLDI|2022,PLDI,2022,Fraser Brown,fraserbrown,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+gabrielrodriguez|PLDI|2022,PLDI,2022,Gabriel Rodríguez,gabrielrodriguez,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+huiguan|PLDI|2022,PLDI,2022,Hui Guan,huiguan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jeevanapriyainala|PLDI|2022,PLDI,2022,Jeevana Priya Inala,jeevanapriyainala,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jorgeanavas|PLDI|2022,PLDI,2022,Jorge A. Navas,jorgeanavas,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+justingottschlich|PLDI|2022,PLDI,2022,Justin Gottschlich,justingottschlich,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kihongheo|PLDI|2022,PLDI,2022,Kihong Heo,kihongheo,0.0,openalex_author_id,GREEN,automatic_openalex_id
+kostasferles|PLDI|2022,PLDI,2022,Kostas Ferles,kostasferles,0.0,openalex_author_id,GREEN,automatic_openalex_id
+milindkulkarni|PLDI|2022,PLDI,2022,Milind Kulkarni,milindkulkarni,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nevillegrech|PLDI|2022,PLDI,2022,Neville Grech,nevillegrech,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+patricklam|PLDI|2022,PLDI,2022,Patrick Lam,patricklam,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+raghuprabhakar|PLDI|2022,PLDI,2022,Raghu Prabhakar,raghuprabhakar,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+saeedmaleki|PLDI|2022,PLDI,2022,Saeed Maleki,saeedmaleki,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+saraachour|PLDI|2022,PLDI,2022,Sara Achour,saraachour,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+shumochu|PLDI|2022,PLDI,2022,Shumo Chu,shumochu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sukyoungryu|PLDI|2022,PLDI,2022,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+taliaringer|PLDI|2022,PLDI,2022,Talia Ringer,taliaringer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tejchajed|PLDI|2022,PLDI,2022,Tej Chajed,tejchajed,0.0,openalex_author_id,GREEN,automatic_openalex_id
+thomaswahl|PLDI|2022,PLDI,2022,Thomas Wahl,thomaswahl,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tingcao|PLDI|2022,PLDI,2022,Ting Cao,tingcao,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+tonyhosking|PLDI|2022,PLDI,2022,Tony Hosking,tonyhosking,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+vijayaraghavanmurali|PLDI|2022,PLDI,2022,Vijayaraghavan Murali,vijayaraghavanmurali,0.0,openalex_author_id,GREEN,automatic_openalex_id
+vineethkashyap|PLDI|2022,PLDI,2022,Vineeth Kashyap,vineethkashyap,0.0,openalex_author_id,GREEN,automatic_openalex_id
+xinzhang|PLDI|2022,PLDI,2022,Xin Zhang,xinzhang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+abhinavverma1|PLDI|2023,PLDI,2023,Abhinav Verma,abhinavverma1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+alcidesfonseca|PLDI|2023,PLDI,2023,Alcides Fonseca,alcidesfonseca,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+alexandrajimborean|PLDI|2023,PLDI,2023,Alexandra Jimborean,alexandrajimborean,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+calincascaval|PLDI|2023,PLDI,2023,Calin Cascaval,calincascaval,0.0,openalex_author_id,GREEN,automatic_openalex_id
+charithmendis1|PLDI|2023,PLDI,2023,Charith Mendis,charithmendis1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+christosdimoulas1|PLDI|2023,PLDI,2023,Christos Dimoulas,christosdimoulas1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+cindyrubiogonzalez|PLDI|2023,PLDI,2023,Cindy Rubio-González,cindyrubiogonzalez,0.0,openalex_author_id,GREEN,automatic_openalex_id
+cyrusomar|PLDI|2023,PLDI,2023,Cyrus Omar,cyrusomar,0.0,openalex_author_id,GREEN,automatic_openalex_id
+davidvanhorn|PLDI|2023,PLDI,2023,David Van Horn,davidvanhorn,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+dimitrismitropoulos|PLDI|2023,PLDI,2023,Dimitris Mitropoulos,dimitrismitropoulos,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+francoisgauthier|PLDI|2023,PLDI,2023,François Gauthier,francoisgauthier,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+freekverbeek|PLDI|2023,PLDI,2023,Freek Verbeek,freekverbeek,0.0,openalex_author_id,GREEN,automatic_openalex_id
+irenefinocchi|PLDI|2023,PLDI,2023,Irene Finocchi,irenefinocchi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jasonansel|PLDI|2023,PLDI,2023,Jason Ansel,jasonansel,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jedidiahmcclurg|PLDI|2023,PLDI,2023,Jedidiah McClurg,jedidiahmcclurg,0.0,openalex_author_id,GREEN,automatic_openalex_id
+jorgeaperez|PLDI|2023,PLDI,2023,Jorge A. Pérez,jorgeaperez,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+konstantinosmamouras1|PLDI|2023,PLDI,2023,Konstantinos Mamouras,konstantinosmamouras1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+laurenpick|PLDI|2023,PLDI,2023,Lauren Pick,laurenpick,0.0,openalex_author_id,GREEN,automatic_openalex_id
+matthiashauswirth|PLDI|2023,PLDI,2023,Matthias Hauswirth,matthiashauswirth,0.0,openalex_author_id,GREEN,automatic_openalex_id
+natefoster|PLDI|2023,PLDI,2023,Nate Foster,natefoster,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+samtobinhochstadt|PLDI|2023,PLDI,2023,Sam Tobin-Hochstadt,samtobinhochstadt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+thomasshull|PLDI|2023,PLDI,2023,Thomas Shull,thomasshull,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+walterbinder|PLDI|2023,PLDI,2023,Walter Binder,walterbinder,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+xulongtang|PLDI|2023,PLDI,2023,Xulong Tang,xulongtang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+yanivdavid|PLDI|2023,PLDI,2023,Yaniv David,yanivdavid,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+yudavidliu|PLDI|2023,PLDI,2023,Yu David Liu,yudavidliu,0.0,openalex_author_id,GREEN,automatic_openalex_id
+zhoulaifu|PLDI|2023,PLDI,2023,Zhoulai Fu,zhoulaifu,0.0,openalex_author_id,GREEN,automatic_openalex_id
+adityavthakur|PLDI|2024,PLDI,2024,Aditya V. Thakur,adityavthakur,0.0,name_only_match,RED,name_only_sensitivity
+cindyrubiogonzalez|PLDI|2024,PLDI,2024,Cindy Rubio-González,cindyrubiogonzalez,0.0,openalex_author_id,GREEN,automatic_openalex_id
+gailkaiser|PLDI|2024,PLDI,2024,Gail Kaiser,gailkaiser,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+guilhermeottoni|PLDI|2024,PLDI,2024,Guilherme Ottoni,guilhermeottoni,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+iulianneamtiu|PLDI|2024,PLDI,2024,Iulian Neamtiu,iulianneamtiu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jaejinlee|PLDI|2024,PLDI,2024,Jaejin Lee,jaejinlee,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+jayligatti|PLDI|2024,PLDI,2024,Jay Ligatti,jayligatti,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+justingottschlich|PLDI|2024,PLDI,2024,Justin Gottschlich,justingottschlich,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+luispina|PLDI|2024,PLDI,2024,Luís Pina,luispina,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+muralidaranvijayaraghavan|PLDI|2024,PLDI,2024,Muralidaran Vijayaraghavan,muralidaranvijayaraghavan,0.0,name_only_match,RED,name_only_sensitivity
+owenarden|PLDI|2024,PLDI,2024,Owen Arden,owenarden,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+peterohmann1|PLDI|2024,PLDI,2024,Peter Ohmann,peterohmann1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+robsison|PLDI|2024,PLDI,2024,Rob Sison,robsison,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+stephenchang|PLDI|2024,PLDI,2024,Stephen Chang,stephenchang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+stephenkell|PLDI|2024,PLDI,2024,Stephen Kell,stephenkell,0.0,openalex_author_id,GREEN,automatic_openalex_id
+swarnendubiswas|PLDI|2024,PLDI,2024,Swarnendu Biswas,swarnendubiswas,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+thodorissotiropoulos|PLDI|2024,PLDI,2024,Thodoris Sotiropoulos,thodorissotiropoulos,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tongpingliu1|PLDI|2024,PLDI,2024,Tongping Liu,tongpingliu1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tylersorensen|PLDI|2024,PLDI,2024,Tyler Sorensen,tylersorensen,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+xujiesi|PLDI|2024,PLDI,2024,Xujie Si,xujiesi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+yatinmanerkar|PLDI|2024,PLDI,2024,Yatin Manerkar,yatinmanerkar,0.0,openalex_author_id,GREEN,automatic_openalex_id
+zhengzhang|PLDI|2024,PLDI,2024,Zheng Zhang,zhengzhang,0.0,name_only_match,RED,name_only_sensitivity
+andreplatzer|PLDI|2025,PLDI,2025,André Platzer,andreplatzer,0.0,openalex_author_id,GREEN,automatic_openalex_id
+anithagollamudi|PLDI|2025,PLDI,2025,Anitha Gollamudi,anithagollamudi,0.0,openalex_author_id,GREEN,automatic_openalex_id
+artempelenitsyn|PLDI|2025,PLDI,2025,Artem Pelenitsyn,artempelenitsyn,0.0,openalex_author_id,GREEN,automatic_openalex_id
+aslanaskarov|PLDI|2025,PLDI,2025,Aslan Askarov,aslanaskarov,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+bengreenman|PLDI|2025,PLDI,2025,Ben Greenman,bengreenman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+billharris|PLDI|2025,PLDI,2025,Bill Harris,billharris,0.0,name_only_match,RED,name_only_sensitivity
+chenxiwang1|PLDI|2025,PLDI,2025,Chenxi Wang,chenxiwang1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+denysshabalin|PLDI|2025,PLDI,2025,Denys Shabalin,denysshabalin,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+guannanwei|PLDI|2025,PLDI,2025,Guannan Wei,guannanwei,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+guylsteelejr|PLDI|2025,PLDI,2025,Guy L. Steele Jr.,guylsteelejr,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+jennadivincenzowise|PLDI|2025,PLDI,2025,Jenna DiVincenzo (Wise),jennadivincenzowise,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+joshuagancher|PLDI|2025,PLDI,2025,Joshua Gancher,joshuagancher,0.0,openalex_author_id,GREEN,automatic_openalex_id
+karimali|PLDI|2025,PLDI,2025,Karim Ali,karimali,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+karlpalmskog|PLDI|2025,PLDI,2025,Karl Palmskog,karlpalmskog,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kewang|PLDI|2025,PLDI,2025,Ke Wang,kewang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+konstantinoskallas|PLDI|2025,PLDI,2025,Konstantinos Kallas,konstantinoskallas,0.0,name_only_match,RED,name_only_sensitivity
+liamoconnor|PLDI|2025,PLDI,2025,Liam O'Connor,liamoconnor,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+manasthakur|PLDI|2025,PLDI,2025,Manas Thakur,manasthakur,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+marcogaboardi|PLDI|2025,PLDI,2025,Marco Gaboardi,marcogaboardi,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+mohsenlesani|PLDI|2025,PLDI,2025,Mohsen Lesani,mohsenlesani,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nameng|PLDI|2025,PLDI,2025,Na Meng,nameng,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+retoachermann|PLDI|2025,PLDI,2025,Reto Achermann,retoachermann,0.0,openalex_author_id,GREEN,automatic_openalex_id
+ryanbeckett1|PLDI|2025,PLDI,2025,Ryan Beckett,ryanbeckett1,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+samtobinhochstadt|PLDI|2025,PLDI,2025,Sam Tobin-Hochstadt,samtobinhochstadt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tonyhosking|PLDI|2025,PLDI,2025,Tony Hosking,tonyhosking,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+yannherklotz|PLDI|2025,PLDI,2025,Yann Herklotz,yannherklotz,0.0,openalex_author_id,GREEN,automatic_openalex_id
+zhiqiangzuo|PLDI|2025,PLDI,2025,Zhiqiang Zuo,zhiqiangzuo,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+andrewmyers|POPL|2018,POPL,2018,Andrew Myers,andrewmyers,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danfengzhang|POPL|2018,POPL,2018,Danfeng Zhang,danfengzhang,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+miladallapreda|POPL|2018,POPL,2018,Mila Dalla Preda,miladallapreda,0.0,openalex_author_id,GREEN,automatic_openalex_id
+neelakantankrishnaswami|POPL|2018,POPL,2018,Neel Krishnaswami,neelakantankrishnaswami,0.0,openalex_author_id,GREEN,automatic_openalex_id
+radugrigore|POPL|2019,POPL,2019,Radu Grigore,radugrigore,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+zhenjianghu|POPL|2019,POPL,2019,Zhenjiang Hu,zhenjianghu,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+cezaradragoi|POPL|2020,POPL,2020,Cezara Drăgoi,cezaradragoi,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+hiroshiunno|POPL|2020,POPL,2020,Hiroshi Unno,hiroshiunno,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+margusveanes|POPL|2020,POPL,2020,Margus Veanes,margusveanes,0.0,openalex_author_id,GREEN,automatic_openalex_id
+mircotribastone|POPL|2020,POPL,2020,Mirco Tribastone,mircotribastone,0.0,openalex_author_id,GREEN,automatic_openalex_id
+mohsenlesani|POPL|2020,POPL,2020,Mohsen Lesani,mohsenlesani,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+roopshasamanta|POPL|2020,POPL,2020,Roopsha Samanta,roopshasamanta,0.0,openalex_author_id,GREEN,automatic_openalex_id
+sukyoungryu|POPL|2020,POPL,2020,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+alanschmitt|POPL|2021,POPL,2021,Alan Schmitt,alanschmitt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+anasokolova|POPL|2021,POPL,2021,Ana Sokolova,anasokolova,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+annettebieniusa|POPL|2021,POPL,2021,Annette Bieniusa,annettebieniusa,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+damienzufferey|POPL|2021,POPL,2021,Damien Zufferey,damienzufferey,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nadaamin|POPL|2021,POPL,2021,Nada Amin,nadaamin,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+pavolcerny|POPL|2021,POPL,2021,Pavol Cerny,pavolcerny,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+shengchen1|POPL|2021,POPL,2021,Sheng Chen,shengchen1,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+tarosekiyama|POPL|2021,POPL,2021,Taro Sekiyama,tarosekiyama,0.0,openalex_author_id,GREEN,automatic_openalex_id
+adityavthakur|POPL|2022,POPL,2022,Aditya V. Thakur,adityavthakur,0.0,name_only_match,RED,name_only_sensitivity
+christosdimoulas1|POPL|2022,POPL,2022,Christos Dimoulas,christosdimoulas1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+chungchiehshan|POPL|2022,POPL,2022,Chung-chieh Shan,chungchiehshan,0.0,openalex_author_id,GREEN,automatic_openalex_id
+davidbroman|POPL|2022,POPL,2022,David Broman,davidbroman,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+leonidaslampropoulos|POPL|2022,POPL,2022,Leonidas Lampropoulos,leonidaslampropoulos,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+michaeldadams|POPL|2022,POPL,2022,Michael D. Adams,michaeldadams,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+neelakantankrishnaswami|POPL|2022,POPL,2022,Neel Krishnaswami,neelakantankrishnaswami,0.0,openalex_author_id,GREEN,automatic_openalex_id
+philippruemmer|POPL|2022,POPL,2022,Philipp Ruemmer,philippruemmer,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+ronaldgarcia|POPL|2022,POPL,2022,Ronald Garcia,ronaldgarcia,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+corinaspasareanu|POPL|2023,POPL,2023,Corina S. Pasareanu,corinaspasareanu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+danlicata|POPL|2023,POPL,2023,Daniel R. Licata,danlicata,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+lindseykuper|POPL|2023,POPL,2023,Lindsey Kuper,lindseykuper,0.0,openalex_author_id,GREEN,automatic_openalex_id
+malavikasamak|POPL|2023,POPL,2023,Malavika Samak,malavikasamak,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+miladallapreda|POPL|2023,POPL,2023,Mila Dalla Preda,miladallapreda,0.0,openalex_author_id,GREEN,automatic_openalex_id
+patriciapatriciajohann|POPL|2023,POPL,2023,Patricia Johann,patriciapatriciajohann,0.0,openalex_author_id,GREEN,automatic_openalex_id
+samtobinhochstadt|POPL|2023,POPL,2023,Sam Tobin-Hochstadt,samtobinhochstadt,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+tarosekiyama|POPL|2023,POPL,2023,Taro Sekiyama,tarosekiyama,0.0,openalex_author_id,GREEN,automatic_openalex_id
+tejchajed|POPL|2023,POPL,2023,Tej Chajed,tejchajed,0.0,openalex_author_id,GREEN,automatic_openalex_id
+etanter|POPL|2023,POPL,2023,Éric Tanter,etanter,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+andrewkhirsch|POPL|2024,POPL,2024,Andrew K. Hirsch,andrewkhirsch,0.0,openalex_author_id,GREEN,automatic_openalex_id
+carlaferreira|POPL|2024,POPL,2024,Carla Ferreira,carlaferreira,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+kuenbanghoufavonia|POPL|2024,POPL,2024,Kuen-Bang Hou (Favonia),kuenbanghoufavonia,0.0,name_only_match,RED,name_only_sensitivity
+stephendolan|POPL|2024,POPL,2024,Stephen Dolan,stephendolan,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sugumanbansal1|POPL|2024,POPL,2024,Suguman Bansal,sugumanbansal1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+sukyoungryu|POPL|2024,POPL,2024,Sukyoung Ryu,sukyoungryu,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+taliaringer|POPL|2024,POPL,2024,Talia Ringer,taliaringer,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+adityavthakur|POPL|2025,POPL,2025,Aditya V. Thakur,adityavthakur,0.0,name_only_match,RED,name_only_sensitivity
+caterinaurban|POPL|2025,POPL,2025,Caterina Urban,caterinaurban,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+christosdimoulas1|POPL|2025,POPL,2025,Christos Dimoulas,christosdimoulas1,0.0,openalex_author_id,GREEN,automatic_openalex_id
+darkomarinov|POPL|2025,POPL,2025,Darko Marinov,darkomarinov,0.0,openalex_author_id,GREEN,automatic_openalex_id
+fredrikkjolstad|POPL|2025,POPL,2025,Fredrik Kjolstad,fredrikkjolstad,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+gowthamkaki|POPL|2025,POPL,2025,Gowtham Kaki,gowthamkaki,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+hakjoooh|POPL|2025,POPL,2025,Hakjoo Oh,hakjoooh,0.0,openalex_author_id,GREEN,automatic_openalex_id
+matthijsvakar|POPL|2025,POPL,2025,Matthijs Vákár,matthijsvakar,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+nevillegrech|POPL|2025,POPL,2025,Neville Grech,nevillegrech,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+peisenyao|POPL|2025,POPL,2025,Peisen Yao,peisenyao,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+sarahchasins|POPL|2025,POPL,2025,Sarah E. Chasins,sarahchasins,0.0,manual_accepted_name,RED,manual_accepted_cited_author_name
+sharonshoham|POPL|2025,POPL,2025,Sharon Shoham,sharonshoham,0.0,name_only_match,RED,name_only_sensitivity
+shengchen1|POPL|2025,POPL,2025,Sheng Chen,shengchen1,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids
+woosuklee|POPL|2025,POPL,2025,Woosuk Lee,woosuklee,0.0,openalex_author_id,YELLOW,automatic_openalex_id
+xinyuwang|POPL|2025,POPL,2025,Xinyu Wang,xinyuwang,0.0,ambiguous_name_match,RED,ambiguous_openalex_ids

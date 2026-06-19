@@ -1,0 +1,2 @@
+n_rows,n_researchers,n_conference_year_cells,n_pc_service_cells,n_identity_ready_researchers,n_raw_mapped_citation_rows,n_duplicate_researcher_reference_edges_removed,n_unique_researcher_reference_edges,n_nonzero_citation_cells,total_citation_count
+37128,952,39,2499,942,97443,32,97411,19383,97411

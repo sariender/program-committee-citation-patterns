@@ -1,0 +1,5 @@
+conference,researcher_conference_pairs,pairs_with_prior_pc,pairs_with_prior_broad_service,true_first_pc_pairs,true_first_broad_service_pairs,share_with_prior_pc,share_with_prior_broad_service
+ICFP,250,77,184,173,66,0.308,0.736
+OOPSLA,382,81,207,301,175,0.212,0.542
+PLDI,480,123,309,357,171,0.256,0.644
+POPL,384,127,292,257,92,0.331,0.76

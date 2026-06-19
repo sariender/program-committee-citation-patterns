@@ -1,0 +1,5 @@
+group,n_researchers,share_of_all_researchers
+all_pc_researchers,952,1.0
+main_career_age_subgroup,790,0.8298319327731093
+orcid_agreement_sensitivity,442,0.4642857142857143
+ideal_one_name_one_id_sensitivity,448,0.47058823529411764

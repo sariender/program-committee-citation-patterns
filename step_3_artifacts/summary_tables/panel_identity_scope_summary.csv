@@ -1,0 +1,6 @@
+panel_identity_status,citation_identity_ready,n_researchers
+automatic_openalex_id,True,793
+ambiguous_openalex_ids,True,84
+manual_accepted_cited_author_name,True,51
+name_only_sensitivity,True,14
+unresolved_manual_review,False,10

@@ -1,0 +1,11 @@
+pandas
+pyarrow
+pyalex
+requests
+beautifulsoup4
+pypdf
+matplotlib
+numpy
+tqdm
+pyyaml
+seaborn

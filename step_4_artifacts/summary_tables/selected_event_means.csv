@@ -1,0 +1,6 @@
+value_scale,event_time,mean,ci_lower,ci_upper,n_event_units,bootstrap_unit,bootstrap_reps,n_non_missing
+log10_citations_plus_one_t_minus_2_reference,-2,0.0,0.0,0.0,12,selected_pc_service_trajectory,2000,12
+log10_citations_plus_one_t_minus_2_reference,-1,-0.05686422854304643,-0.23896934527841895,0.11928031367991561,12,selected_pc_service_trajectory,2000,12
+log10_citations_plus_one_t_minus_2_reference,0,0.586088931716091,0.4382006277110494,0.7574055691786936,12,selected_pc_service_trajectory,2000,12
+log10_citations_plus_one_t_minus_2_reference,1,0.04609858891791871,-0.13419841350207196,0.20414901752967787,12,selected_pc_service_trajectory,2000,11
+log10_citations_plus_one_t_minus_2_reference,2,-0.2662825309875854,-0.6087419721069531,-0.019795311511906222,12,selected_pc_service_trajectory,2000,6

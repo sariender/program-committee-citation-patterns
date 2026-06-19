@@ -1,0 +1,953 @@
+researcher_id,name,n_pc_services,n_conferences,first_year,last_year,conferences
+aaronbembenek,Aaron Bembenek,1,1,2025,2025,PLDI
+aaronstump,Aaron Stump,2,1,2019,2023,POPL
+abhinavverma1,Abhinav Verma,1,1,2023,2023,PLDI
+adamchlipala,Adam Chlipala,8,3,2017,2025,ICFP + POPL + PLDI
+adamwelc,Adam Welc,2,1,2020,2021,OOPSLA
+adityakanade,Aditya Kanade,2,1,2018,2021,PLDI
+adityavthakur,Aditya V. Thakur,4,2,2022,2025,POPL + PLDI
+adriansampson,Adrian Sampson,3,2,2018,2020,OOPSLA + PLDI
+aggelosbiboudis,Aggelos Biboudis,1,1,2023,2023,ICFP
+ahmedbouajjani,Ahmed Bouajjani,2,1,2021,2024,POPL
+ainalinngeorges,Aina Linn Georges,1,1,2025,2025,ICFP
+akashlal,Akash Lal,5,2,2017,2023,POPL + PLDI
+akimasamorihata,Akimasa Morihata,1,1,2021,2021,ICFP
+alanjeffrey1,Alan Jeffrey,4,2,2017,2023,ICFP + POPL
+alanschmitt,Alan Schmitt,1,1,2021,2021,POPL
+alastairdonaldson,Alastair F. Donaldson,6,3,2018,2024,POPL + OOPSLA + PLDI
+alastairreid,Alastair Reid,2,1,2023,2024,PLDI
+albertcohen,Albert Cohen,5,3,2021,2025,POPL + OOPSLA + PLDI
+alcidesfonseca,Alcides Fonseca,1,1,2023,2023,PLDI
+alejandroaguirre1,Alejandro Aguirre,2,2,2024,2025,POPL + OOPSLA
+alejandrorusso,Alejandro Russo,2,1,2018,2024,ICFP
+aleksandarnanevski,Aleksandar Nanevski,3,2,2018,2024,POPL + OOPSLA
+alexanderbakst,Alexander Bakst,1,1,2025,2025,PLDI
+alexanderjsummers,Alexander J. Summers,2,1,2021,2024,OOPSLA
+alexanderklew,Alexander K. Lew,1,1,2025,2025,PLDI
+alexandrabugariu,Alexandra Bugariu,1,1,2024,2024,OOPSLA
+alexandrajimborean,Alexandra Jimborean,2,1,2020,2023,PLDI
+alexandrasilva,Alexandra Silva,6,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+alexandremoine,Alexandre Moine,1,1,2025,2025,ICFP
+alexavanhattum1,Alexa VanHattum,1,1,2025,2025,PLDI
+alexeygotsman,Alexey Gotsman,2,1,2020,2024,POPL
+alexeyloginov,Alexey Loginov,1,1,2023,2023,PLDI
+alexkavvos,Alex Kavvos,3,3,2022,2025,ICFP + POPL + OOPSLA
+alexpotanin,Alex Potanin,4,2,2019,2025,OOPSLA + PLDI
+alexreinking1,Alex Reinking,1,1,2025,2025,PLDI
+alexsanchezstern2,Alex Sanchez-Stern,1,1,2024,2024,PLDI
+alvincheung,Alvin Cheung,5,3,2017,2025,POPL + OOPSLA + PLDI
+amalahmed,Amal Ahmed,5,3,2019,2023,POPL + OOPSLA + PLDI
+amintimany,Amin Timany,3,3,2021,2025,ICFP + POPL + PLDI
+amirkafshdargoharshady1,Amir K. Goharshady,1,1,2024,2024,OOPSLA
+amosrobinson,Amos Robinson,1,1,2023,2023,ICFP
+amrsabry,Amr Sabry,2,1,2018,2023,POPL
+anamilanova,Ana Milanova,7,2,2017,2025,OOPSLA + PLDI
+anasokolova,Ana Sokolova,1,1,2021,2021,POPL
+andersmiltner1,Anders Miltner,2,1,2022,2024,PLDI
+andersmoller,Anders Møller,5,2,2017,2024,OOPSLA + PLDI
+andraskovacs,András Kovács,1,1,2025,2025,ICFP
+andreasabel,Andreas Abel,4,2,2019,2025,ICFP + POPL
+andreaspavlogiannis1,Andreas Pavlogiannis,3,2,2021,2024,POPL + OOPSLA
+andreaspodelski,Andreas Podelski,2,1,2019,2023,POPL
+andreasrossberg,Andreas Rossberg,4,2,2018,2023,OOPSLA + PLDI
+andreaszeller,Andreas Zeller,3,2,2017,2024,OOPSLA + PLDI
+andreavezzosi2,Andrea Vezzosi,1,1,2024,2024,ICFP
+andreeacostea,Andreea Costea,1,1,2023,2023,ICFP
+andreipopescu,Andrei Popescu,1,1,2024,2024,POPL
+andrejbauer,Andrej Bauer,1,1,2020,2020,POPL
+andreplatzer,André Platzer,1,1,2025,2025,PLDI
+andreserbsen,Andres Erbsen,1,1,2024,2024,PLDI
+andresgoens1,Andrés Goens,1,1,2025,2025,PLDI
+andresloh,Andres Löh,1,1,2022,2022,ICFP
+andrewadams,Andrew Adams,1,1,2025,2025,PLDI
+andrewappel,Andrew W. Appel,2,1,2020,2024,POPL
+andrewdgordon,Andrew D. Gordon,3,3,2017,2023,ICFP + POPL + OOPSLA
+andrewkennedy,Andrew Kennedy,3,2,2019,2024,ICFP + POPL
+andrewkhirsch,Andrew K. Hirsch,2,2,2023,2024,ICFP + POPL
+andrewlumsdaine1,Andrew Lumsdaine,1,1,2025,2025,PLDI
+andrewmyers,Andrew Myers,3,2,2017,2021,POPL + OOPSLA
+andrewpitts,Andrew M. Pitts,1,1,2024,2024,POPL
+andrewtolmach,Andrew Tolmach,2,1,2019,2023,POPL
+andreyrybalchenko,Andrey Rybalchenko,2,2,2017,2018,POPL + PLDI
+andrzejfilinski,Andrzej Filinski,1,1,2025,2025,ICFP
+andrzejmurawski,Andrzej Murawski,2,1,2020,2023,POPL
+andygill,Andy Gill,1,1,2023,2023,ICFP
+angelicamoreira,Angelica Moreira,1,1,2025,2025,OOPSLA
+angli,Ang Li,1,1,2025,2025,PLDI
+anilmadhavapeddy,Anil Madhavapeddy,1,1,2021,2021,PLDI
+anithagollamudi,Anitha Gollamudi,3,2,2023,2025,OOPSLA + PLDI
+ankushdas1,Ankush Das,2,2,2024,2025,POPL + PLDI
+ankushdesai1,Ankush Desai,1,1,2024,2024,OOPSLA
+annettebieniusa,Annette Bieniusa,2,2,2021,2023,POPL + OOPSLA
+anthonywidjajalin,Anthony Widjaja Lin,1,1,2022,2022,POPL
+antonpodkopaev,Anton Podkopaev,1,1,2024,2024,POPL
+anupamdas,Anupam Das,1,1,2025,2025,ICFP
+aravindmachiry,Aravind Machiry,1,1,2025,2025,OOPSLA
+arielkellison,Ariel E. Kellison,1,1,2025,2025,PLDI
+aritrasengupta,Aritra Sengupta,2,1,2020,2021,OOPSLA
+arjunguha,Arjun Guha,8,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+arjunradhakrishna,Arjun Radhakrishna,5,3,2021,2025,POPL + OOPSLA + PLDI
+armandosolarlezama,Armando Solar-Lezama,6,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+arnaudspiwack,Arnaud Spiwack,1,1,2023,2023,ICFP
+artemkhyzha1,Artem Khyzha,1,1,2025,2025,POPL
+artempelenitsyn,Artem Pelenitsyn,1,1,2025,2025,PLDI
+arthurazevedodeamorim,Arthur Azevedo de Amorim,3,2,2020,2025,ICFP + POPL
+arthurchargueraud,Arthur Charguéraud,5,4,2019,2025,ICFP + POPL + OOPSLA + PLDI
+aseemrastogi,Aseem Rastogi,4,3,2018,2024,POPL + OOPSLA + PLDI
+ashishtiwari,Ashish Tiwari,1,1,2024,2024,OOPSLA
+aslanaskarov,Aslan Askarov,1,1,2025,2025,PLDI
+assiamahboubi,Assia Mahboubi,2,2,2022,2024,ICFP + POPL
+atsushiigarashi,Atsushi Igarashi,7,2,2017,2023,POPL + OOPSLA
+atsushiohori,Atsushi Ohori,1,1,2020,2020,ICFP
+aurelebarriere,Aurèle Barrière,1,1,2025,2025,ICFP
+avikchaudhuri,Avik Chaudhuri,2,2,2017,2018,POPL + PLDI
+awsalbarghouthi,Aws Albarghouthi,6,3,2019,2024,POPL + OOPSLA + PLDI
+ayalzaks,Ayal Zaks,3,1,2019,2023,PLDI
+aymericfromherz,Aymeric Fromherz,1,1,2024,2024,POPL
+azadehfarzan,Azadeh Farzan,3,1,2018,2025,POPL
+azalearaad,Azalea Raad,7,4,2020,2025,ICFP + POPL + OOPSLA + PLDI
+baberrehman,Baber Rehman,1,1,2025,2025,OOPSLA
+bariskasikci,Baris Kasikci,1,1,2022,2022,PLDI
+bartjacobs,Bart Jacobs,2,1,2017,2021,POPL
+basspitters,Bas Spitters,1,1,2022,2022,POPL
+bengreenman,Ben Greenman,4,3,2021,2025,ICFP + OOPSLA + PLDI
+benhardekopf,Ben Hardekopf,3,2,2021,2025,OOPSLA + PLDI
+benhermann,Ben Hermann,1,1,2024,2024,OOPSLA
+beniaminoaccattoli,Beniamino Accattoli,1,1,2024,2024,ICFP
+benjaminchung,Benjamin Chung,1,1,2025,2025,OOPSLA
+benjamincpierce,Benjamin C. Pierce,4,4,2023,2025,ICFP + POPL + OOPSLA + PLDI
+benjamindelaware,Benjamin Delaware,5,3,2019,2025,POPL + OOPSLA + PLDI
+benjaminlivshits1,Benjamin Livshits,2,1,2018,2024,PLDI
+benjaminlucienkaminski,Benjamin Lucien Kaminski,3,2,2022,2025,POPL + OOPSLA
+benliblit,Ben Liblit,1,1,2021,2021,PLDI
+benlippmeier,Ben Lippmeier,2,1,2017,2022,ICFP
+benltitzer,Ben L. Titzer,4,3,2019,2024,POPL + OOPSLA + PLDI
+benoitvaliron1,Benoît Valiron,1,1,2025,2025,PLDI
+benzorn,Ben Zorn,1,1,2021,2021,PLDI
+bernardotoninho,Bernardo Toninho,4,2,2022,2025,ICFP + OOPSLA
+berndfinkbeiner,Bernd Finkbeiner,1,1,2024,2024,POPL
+bernhardscholz1,Bernhard Scholz,1,1,2024,2024,OOPSLA
+betaziliani,Beta Ziliani,3,2,2017,2023,ICFP + POPL
+billharris,Bill Harris,1,1,2025,2025,PLDI
+boryuhevanchang,Bor-Yuh Evan Chang,7,3,2017,2025,POPL + OOPSLA + PLDI
+brandonlucia,Brandon Lucia,3,2,2019,2023,OOPSLA + PLDI
+brentyorgey,Brent Yorgey,1,1,2024,2024,ICFP
+briandemsky,Brian Demsky,2,1,2022,2023,PLDI
+brianhempel,Brian Hempel,1,1,2025,2025,PLDI
+brigittepientka,Brigitte Pientka,3,2,2021,2024,ICFP + POPL
+brunooliveira,Bruno C. d. S. Oliveira,4,2,2019,2024,ICFP + OOPSLA
+burcukulahciogluozkan,Burcu Kulahcioglu Ozkan,2,1,2023,2024,OOPSLA
+caitlinsadowski,Caitlin Sadowski,2,2,2018,2021,OOPSLA + PLDI
+calebstanford,Caleb Stanford,3,2,2024,2025,OOPSLA + PLDI
+calincascaval,Calin Cascaval,2,1,2023,2025,PLDI
+calvinsmith,Calvin Smith,1,1,2022,2022,PLDI
+cameronfreer,Cameron Freer,1,1,2024,2024,POPL
+camildemetrescu,Camil Demetrescu,2,1,2019,2021,PLDI
+carlaferreira,Carla Ferreira,1,1,2024,2024,POPL
+carloangiuli,Carlo Angiuli,1,1,2024,2024,POPL
+carolinelemieux,Caroline Lemieux,2,2,2022,2025,OOPSLA + PLDI
+casperbach,Casper Bach,2,2,2024,2024,POPL + OOPSLA
+catalinhritcu,Cătălin Hriţcu,3,2,2017,2025,ICFP + POPL
+caterinaurban,Caterina Urban,2,1,2022,2025,POPL
+cedricfournet,Cédric Fournet,1,1,2020,2020,POPL
+cezaradragoi,Cezara Drăgoi,4,3,2017,2024,POPL + OOPSLA + PLDI
+chandrakananandi,Chandrakana Nandi,3,1,2022,2025,PLDI
+chandrakrintz,Chandra Krintz,1,1,2020,2020,OOPSLA
+chaowang3,Chao Wang,1,1,2023,2023,PLDI
+charithmendis1,Charith Mendis,2,1,2022,2023,PLDI
+charlessutton,Charles Sutton,2,2,2017,2023,OOPSLA + PLDI
+charliecurtsinger,Charlie Curtsinger,1,1,2021,2021,PLDI
+charliemurphy1,Charlie Murphy,1,1,2025,2025,OOPSLA
+chending,Chen Ding,1,1,2024,2024,PLDI
+chenglongwang,Chenglong Wang,2,1,2022,2024,PLDI
+chenxiwang1,Chenxi Wang,1,1,2025,2025,PLDI
+chriscasinghino1,Chris Casinghino,1,1,2025,2025,PLDI
+chrisfallin,Chris Fallin,1,1,2025,2025,PLDI
+chrishawblitzel,Chris Hawblitzel,1,1,2025,2025,PLDI
+chrismartens,Chris Martens,1,1,2025,2025,OOPSLA
+chrisseaton,Chris Seaton,1,1,2020,2020,PLDI
+christiankastner,Christian Kästner,1,1,2025,2025,OOPSLA
+christianwimmer,Christian Wimmer,2,2,2024,2025,OOPSLA + PLDI
+christinerizkallah,Christine Rizkallah,2,2,2021,2024,ICFP + POPL
+christinetasson,Christine Tasson,2,2,2020,2025,ICFP + POPL
+christopherpulte,Christopher Pulte,1,1,2023,2023,POPL
+christophmatheja,Christoph Matheja,1,1,2023,2023,POPL
+christosdimoulas1,Christos Dimoulas,6,4,2019,2025,ICFP + POPL + OOPSLA + PLDI
+chungchiehshan,Chung-chieh Shan,4,2,2019,2025,ICFP + POPL
+chungkilhur,Chung-Kil Hur,6,4,2017,2023,ICFP + POPL + OOPSLA + PLDI
+cierajaspan,Ciera Jaspan,1,1,2017,2017,OOPSLA
+cindyrubiogonzalez,Cindy Rubio-González,6,2,2018,2024,OOPSLA + PLDI
+claudiorusso,Claudio Russo,1,1,2019,2019,POPL
+clementpitclaudel,Clément Pit-Claudel,6,4,2022,2025,ICFP + POPL + OOPSLA + PLDI
+coleschlesinger3,Cole Schlesinger,1,1,2025,2025,PLDI
+colingordon,Colin Gordon,8,3,2018,2025,POPL + OOPSLA + PLDI
+conormcbride,Conor McBride,1,1,2018,2018,POPL
+conradwatt,Conrad Watt,4,3,2023,2025,POPL + OOPSLA + PLDI
+constantinenea,Constantin Enea,6,3,2018,2025,POPL + OOPSLA + PLDI
+corinaspasareanu,Corina S. Pasareanu,5,3,2020,2024,POPL + OOPSLA + PLDI
+cormacflanagan,Cormac Flanagan,2,2,2021,2025,POPL + PLDI
+coskuacay1,Coşku Acay,1,1,2025,2025,OOPSLA
+cristalopes,Crista Lopes,3,1,2021,2023,OOPSLA
+cristiancadar,Cristian Cadar,1,1,2021,2021,PLDI
+cyrusomar,Cyrus Omar,4,4,2021,2025,ICFP + POPL + OOPSLA + PLDI
+daanleijen,Daan Leijen,3,2,2019,2025,ICFP + PLDI
+dalalalrajeh1,Dalal Alrajeh,1,1,2025,2025,OOPSLA
+damianomazza,Damiano Mazza,1,1,2025,2025,ICFP
+damienpous,Damien Pous,1,1,2023,2023,POPL
+damienzufferey,Damien Zufferey,3,2,2021,2025,POPL + OOPSLA
+danadrachslercohen,Dana Drachsler Cohen,6,2,2019,2025,OOPSLA + PLDI
+danbarowy,Dan Barowy,3,2,2020,2025,OOPSLA + PLDI
+danelahman,Danel Ahman,1,1,2019,2019,POPL
+danfengzhang,Danfeng Zhang,4,2,2018,2025,POPL + PLDI
+danfrumin1,Daniel Frumin,1,1,2025,2025,OOPSLA
+danghica,Dan Ghica,1,1,2025,2025,ICFP
+dangrossman,Dan Grossman,5,3,2017,2025,ICFP + OOPSLA + PLDI
+danielapetrisan,Daniela Petrisan,1,1,2025,2025,ICFP
+danielgratzer,Daniel Gratzer,1,1,2025,2025,ICFP
+danieljackson,Daniel Jackson,1,1,2021,2021,OOPSLA
+danielperelman1,Daniel Perelman,1,1,2025,2025,OOPSLA
+danlicata,Daniel R. Licata,3,2,2017,2024,ICFP + POPL
+dariuszbiernacki,Dariusz Biernacki,1,1,2024,2024,POPL
+darkomarinov,Darko Marinov,2,2,2021,2025,POPL + PLDI
+davesands,Dave Sands,1,1,2018,2018,POPL
+davidbroman,David Broman,1,1,2022,2022,POPL
+davidchristiansen,David Thrane Christiansen,2,1,2018,2024,ICFP
+daviddarais,David Darais,6,4,2020,2025,ICFP + POPL + OOPSLA + PLDI
+davideancona,Davide Ancona,1,1,2021,2021,OOPSLA
+davidesangiorgi,Davide Sangiorgi,1,1,2018,2018,POPL
+davidfbacon,David F. Bacon,1,1,2017,2017,PLDI
+davidgrove,David Grove,4,1,2018,2021,OOPSLA
+davidiaugust,David I. August,1,1,2021,2021,PLDI
+davidmonniaux,David Monniaux,2,1,2021,2025,POPL
+davidnaumann,David Naumann,2,1,2019,2023,POPL
+davidpearce,David J. Pearce,1,1,2024,2024,OOPSLA
+davidpichardie,David Pichardie,2,2,2023,2025,POPL + OOPSLA
+davidvanhorn,David Van Horn,6,4,2017,2024,ICFP + POPL + OOPSLA + PLDI
+davidwalker,David Walker,4,3,2018,2024,POPL + OOPSLA + PLDI
+deepakgarg,Deepak Garg,4,3,2021,2025,ICFP + POPL + OOPSLA
+deianstefan,Deian Stefan,3,1,2018,2024,PLDI
+deliakesner,Delia Kesner,1,1,2023,2023,ICFP
+delphinedemange,Delphine Demange,1,1,2022,2022,OOPSLA
+denismerigoux,Denis Merigoux,1,1,2024,2024,POPL
+denysshabalin,Denys Shabalin,1,1,2025,2025,PLDI
+derekdreyer,Derek Dreyer,4,2,2017,2024,POPL + OOPSLA
+dexterkozen,Dexter Kozen,2,1,2017,2021,POPL
+dimitriosvytiniotis,Dimitrios Vytiniotis,7,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+dimitrismitropoulos,Dimitris Mitropoulos,1,1,2023,2023,PLDI
+diomidisspinellis,Diomidis Spinellis,1,1,2021,2021,OOPSLA
+diwang,Di Wang,2,2,2024,2024,OOPSLA + PLDI
+dominicorchard,Dominic Orchard,3,2,2019,2024,ICFP + POPL
+dominiquedevriese,Dominique Devriese,5,3,2017,2025,ICFP + POPL + OOPSLA
+dorrabenkhalifa,Dorra Ben Khalifa,1,1,2025,2025,OOPSLA
+douglea,Doug Lea,5,2,2017,2022,OOPSLA + PLDI
+drewzagieboylo1,Drew Zagieboylo,1,1,2024,2024,PLDI
+dylanmcdermott1,Dylan McDermott,1,1,2023,2023,ICFP
+earlbarr,Earl T. Barr,1,1,2024,2024,OOPSLA
+eddyzhengzhang,Eddy (Zheng) Zhang,1,1,2019,2019,PLDI
+edwardaftandilian,Eddie Aftandilian,2,2,2017,2025,OOPSLA + PLDI
+edwinbrady,Edwin Brady,2,2,2020,2021,ICFP + OOPSLA
+eelcovisser,Eelco Visser,3,1,2018,2020,OOPSLA
+eijirosumii,Eijiro Sumii,3,2,2017,2023,ICFP + POPL
+ekaterinakomendantskaya,Ekaterina Komendantskaya,3,2,2021,2024,ICFP + POPL
+elenazucca,Elena Zucca,2,2,2017,2023,POPL + OOPSLA
+eliotmoss,Eliot Moss,1,1,2022,2022,PLDI
+elisagonzalezboix,Elisa Gonzalez Boix,2,1,2017,2023,OOPSLA
+emanueledosualdo,Emanuele D'Osualdo,1,1,2024,2024,POPL
+emilyfirst1,Emily First,1,1,2025,2025,OOPSLA
+eminatorlak,Emina Torlak,6,3,2018,2024,POPL + OOPSLA + PLDI
+emmasoderberg,Emma Söderberg,1,1,2024,2024,OOPSLA
+emmatosch,Emma Tosch,1,1,2024,2024,OOPSLA
+eranyahav,Eran Yahav,4,2,2017,2021,POPL + PLDI
+erezpetrank,Erez Petrank,4,2,2017,2025,OOPSLA + PLDI
+ericatkinson1,Eric Atkinson,1,1,2025,2025,PLDI
+ericeide,Eric Eide,1,1,2023,2023,PLDI
+erickoskinen,Eric Koskinen,6,3,2019,2025,POPL + OOPSLA + PLDI
+ericschkufza,Eric Schkufza,1,1,2022,2022,PLDI
+ericvanwyk,Eric Van Wyk,1,1,2019,2019,OOPSLA
+erikaabraham,Erika Abraham,1,1,2021,2021,OOPSLA
+erikmeijer,Erik Meijer,2,1,2022,2024,PLDI
+etanter,Éric Tanter,5,3,2018,2023,ICFP + POPL + OOPSLA
+eunsukkang,Eunsuk Kang,1,1,2025,2025,OOPSLA
+evadarulova,Eva Darulova,2,1,2018,2021,PLDI
+evagraversen,Eva Graversen,1,1,2025,2025,ICFP
+evelyncontejean,Evelyne Contejean,1,1,2024,2024,ICFP
+ezgicicek,Ezgi Çiçek,1,1,2019,2019,ICFP
+fabianmuehlboeck,Fabian Muehlboeck,1,1,2024,2024,OOPSLA
+fabriziomontesi,Fabrizio Montesi,1,1,2023,2023,OOPSLA
+fanlong,Fan Long,3,2,2020,2022,POPL + PLDI
+farzanehderakhshan,Farzaneh Derakhshan,1,1,2025,2025,ICFP
+feihe,Fei He,1,1,2024,2024,OOPSLA
+felixstutz,Felix Stutz,1,1,2025,2025,OOPSLA
+ferassaad,Feras Saad,2,2,2025,2025,POPL + PLDI
+filipniksic,Filip Niksic,1,1,2024,2024,OOPSLA
+filippobonchi,Filippo Bonchi,2,1,2020,2025,POPL
+filipsieczkowski,Filip Sieczkowski,2,2,2022,2024,ICFP + POPL
+francescodagnino1,Francesco Dagnino,1,1,2025,2025,OOPSLA
+francescogavazzo,Francesco Gavazzo,2,2,2024,2024,ICFP + POPL
+francescologozzo,Francesco Logozzo,2,1,2017,2021,PLDI
+francescoranzato,Francesco Ranzato,1,1,2020,2020,POPL
+francescozappanardelli,Francesco Zappa Nardelli,3,2,2017,2023,POPL + OOPSLA
+francoisgauthier,François Gauthier,2,2,2023,2025,OOPSLA + PLDI
+francoispottier,François Pottier,4,2,2018,2023,ICFP + POPL
+frankfu,Frank Fu,1,1,2025,2025,PLDI
+frankpfenning,Frank Pfenning,4,2,2019,2025,ICFP + POPL
+frankpiessens,Frank Piessens,1,1,2020,2020,ICFP
+franktip,Frank Tip,1,1,2021,2021,OOPSLA
+franzfranchetti,Franz Franchetti,1,1,2017,2017,PLDI
+fraserbrown,Fraser Brown,2,2,2022,2024,POPL + PLDI
+fredrikkjolstad,Fredrik Kjolstad,5,3,2021,2025,POPL + OOPSLA + PLDI
+freekverbeek,Freek Verbeek,1,1,2023,2023,PLDI
+friedrichsteimann,Friedrich Steimann,1,1,2019,2019,OOPSLA
+fritzhenglein,Fritz Henglein,3,2,2020,2025,ICFP + POPL
+gabrieldosreis,Gabriel Dos Reis,1,1,2017,2017,OOPSLA
+gabrielekeller,Gabriele Keller,2,2,2019,2024,ICFP + PLDI
+gabrielevanoni,Gabriele Vanoni,1,1,2025,2025,POPL
+gabrielradanne,Gabriel Radanne,1,1,2023,2023,ICFP
+gabrielrodriguez,Gabriel Rodríguez,1,1,2022,2022,PLDI
+gabrielscherer,Gabriel Scherer,4,2,2017,2025,ICFP + POPL
+gagandeepsingh,Gagandeep Singh,5,3,2021,2025,POPL + OOPSLA + PLDI
+gailkaiser,Gail Kaiser,4,2,2019,2024,OOPSLA + PLDI
+ganeshgopalakrishnan,Ganesh Gopalakrishnan,1,1,2025,2025,PLDI
+gangtan,Gang (Gary) Tan,2,2,2023,2025,OOPSLA + PLDI
+gavinbierman,Gavin Bierman,2,2,2019,2021,POPL + OOPSLA
+geoffreymainland,Geoffrey Mainland,1,1,2020,2020,ICFP
+georgzetzsche,Georg Zetzsche,1,1,2024,2024,POPL
+germanvidal,German Vidal,1,1,2019,2019,ICFP
+gerwinklein,Gerwin Klein,2,2,2021,2023,ICFP + PLDI
+gilbertlouisbernstein1,Gilbert Louis Bernstein,1,1,2025,2025,PLDI
+gillesbarthe,Gilles Barthe,1,1,2018,2018,POPL
+giuseppecastagna,Giuseppe Castagna,1,1,2023,2023,POPL
+gorelhedin,Gorel Hedin,3,2,2019,2023,OOPSLA + PLDI
+gowthamkaki,Gowtham Kaki,4,3,2022,2025,POPL + OOPSLA + PLDI
+grahamhutton,Graham Hutton,2,1,2017,2022,ICFP
+gregorrichards,Gregor Richards,3,1,2017,2021,OOPSLA
+gregorymalecha1,Gregory Malecha,1,1,2024,2024,POPL
+gretayorsh,Greta Yorsh,2,1,2023,2025,PLDI
+grigorerosu,Grigore Roşu,6,3,2018,2025,POPL + OOPSLA + PLDI
+grigoryfedyukovich,Grigory Fedyukovich,1,1,2025,2025,PLDI
+guannanwei,Guannan Wei,3,3,2025,2025,ICFP + OOPSLA + PLDI
+guidosalvaneschi,Guido Salvaneschi,2,1,2023,2024,OOPSLA
+guilhemejaber,Guilhème Jaber,1,1,2024,2024,POPL
+guilhermeottoni,Guilherme Ottoni,1,1,2024,2024,PLDI
+guillaumeallais,Guillaume Allais,1,1,2025,2025,ICFP
+guillaumebaudart,Guillaume Baudart,1,1,2025,2025,OOPSLA
+guillaumemelquiond,Guillaume Melquiond,1,1,2025,2025,ICFP
+gustavopetri,Gustavo Petri,2,1,2021,2024,PLDI
+gustavosoares,Gustavo Soares,1,1,2021,2021,OOPSLA
+guygolangueta1,Guy Gueta,2,1,2019,2023,PLDI
+guylsteelejr,Guy L. Steele Jr.,1,1,2025,2025,PLDI
+hakjoooh,Hakjoo Oh,8,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+hanjunkim1,Hanjun Kim,1,1,2025,2025,OOPSLA
+hannahgommerstadt,Hannah Gommerstadt,1,1,2023,2023,ICFP
+hansjboehm,Hans-J. Boehm,1,1,2017,2017,OOPSLA
+harleydeadesiii,Harley D. Eades III,2,1,2021,2025,ICFP
+harrisonjgoldstein,Harrison Goldstein,1,1,2025,2025,PLDI
+harryxu,Guoqing Harry Xu,2,2,2018,2019,OOPSLA + PLDI
+heathermiller,Heather Miller,6,4,2017,2023,ICFP + POPL + OOPSLA + PLDI
+henriknilsson,Henrik Nilsson,1,1,2018,2018,ICFP
+hezhu,He Zhu,3,2,2021,2023,OOPSLA + PLDI
+hidehikomasuhara,Hidehiko Masuhara,2,1,2023,2025,OOPSLA
+hilapeleg,Hila Peleg,4,3,2021,2024,POPL + OOPSLA + PLDI
+hiroshiunno,Hiroshi Unno,3,2,2020,2025,ICFP + POPL
+hoannguyen1,Hoan Nguyen,1,1,2025,2025,OOPSLA
+hongjinliang,Hongjin Liang,5,3,2019,2024,POPL + OOPSLA + PLDI
+hongseokyang,Hongseok Yang,2,2,2021,2022,POPL + PLDI
+hsiangshangko,Hsiang-Shang ‘Josh’ Ko,1,1,2025,2025,POPL
+hughleather,Hugh Leather,1,1,2022,2022,PLDI
+hugoherbelin,Hugo Herbelin,2,1,2019,2023,POPL
+huiguan,Hui Guan,1,1,2022,2022,PLDI
+ichirohasuo,Ichiro Hasuo,3,1,2019,2023,POPL
+ignaciolaguna,Ignacio Laguna,1,1,2025,2025,PLDI
+ilyasergey,Ilya Sergey,7,4,2017,2023,ICFP + POPL + OOPSLA + PLDI
+irenefinocchi,Irene Finocchi,2,2,2017,2023,OOPSLA + PLDI
+ireneyoon,Irene Yoon,1,1,2025,2025,ICFP
+isabellamastroeni,Isabella Mastroeni,2,1,2017,2023,POPL
+isildillig,Işıl Dillig,6,3,2018,2025,POPL + OOPSLA + PLDI
+iulianneamtiu,Iulian Neamtiu,4,2,2018,2024,OOPSLA + PLDI
+jacquescarette,Jacques Carette,1,1,2024,2024,ICFP
+jacquesgarrigue,Jacques Garrigue,2,2,2019,2024,ICFP + POPL
+jacqueshenrijourdan,Jacques-Henri Jourdan,3,3,2019,2023,ICFP + POPL + OOPSLA
+jadealglave,Jade Alglave,1,1,2023,2023,PLDI
+jaejinlee,Jaejin Lee,1,1,2024,2024,PLDI
+jamesbornholt,James Bornholt,4,2,2020,2024,OOPSLA + PLDI
+jameschapman1,James Chapman,1,1,2023,2023,ICFP
+jamescheney,James Cheney,6,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+jamesmckinna,James McKinna,1,1,2023,2023,ICFP
+jamesnoble,James Noble,3,1,2021,2025,OOPSLA
+jamesriely,James Riely,1,1,2024,2024,POPL
+jamesrwilcox,James R. Wilcox,2,2,2022,2023,POPL + PLDI
+janadunfield,Jana Dunfield,1,1,2023,2023,OOPSLA
+janhoffmann,Jan Hoffmann,8,3,2017,2025,ICFP + POPL + PLDI
+janmidtgaard,Jan Midtgaard,1,1,2023,2023,ICFP
+janvitek,Jan Vitek,3,1,2021,2023,OOPSLA
+jasminblanchette1,Jasmin Blanchette,1,1,2025,2025,OOPSLA
+jasonansel,Jason Ansel,2,1,2023,2025,PLDI
+jasonmars,Jason Mars,1,1,2018,2018,PLDI
+jayligatti,Jay Ligatti,1,1,2024,2024,PLDI
+jaymccarthy,Jay McCarthy,1,1,2022,2022,ICFP
+jayplim,Jay P. Lim,1,1,2025,2025,PLDI
+jeanbaptistetristan,Jean-Baptiste Tristan,3,1,2018,2024,PLDI
+jeanmariemadiot,Jean-Marie Madiot,1,1,2025,2025,PLDI
+jeanphilippebernardy,Jean-Philippe Bernardy,2,2,2019,2025,ICFP + POPL
+jeanpichonpharabod1,Jean Pichon-Pharabod,2,2,2024,2025,POPL + PLDI
+jeanyang,Jean Yang,1,1,2018,2018,POPL
+jedidiahmcclurg,Jedidiah McClurg,2,1,2022,2023,PLDI
+jeehoonkang,Jeehoon Kang,5,3,2021,2024,POPL + OOPSLA + PLDI
+jeevanapriyainala,Jeevana Priya Inala,1,1,2022,2022,PLDI
+jeffhuang,Jeff Huang,5,2,2017,2024,OOPSLA + PLDI
+jeffreysfoster,Jeffrey S. Foster,3,2,2017,2025,POPL + PLDI
+jennadivincenzowise,Jenna DiVincenzo (Wise),1,1,2025,2025,PLDI
+jenniferpaykin,Jennifer Paykin,2,2,2019,2024,ICFP + POPL
+jennifersartor,Jennifer B. Sartor,2,2,2017,2019,OOPSLA + PLDI
+jensdietrich,Jens Dietrich,1,1,2017,2017,OOPSLA
+jenspalsberg,Jens Palsberg,4,2,2018,2025,POPL + PLDI
+jeremygibbons,Jeremy Gibbons,3,2,2023,2024,ICFP + OOPSLA
+jeremysiek,Jeremy G. Siek,6,3,2020,2025,ICFP + POPL + PLDI
+jeremyyallop,Jeremy Yallop,2,2,2018,2023,ICFP + PLDI
+jespercockx,Jesper Cockx,2,2,2020,2022,ICFP + POPL
+jgarrettmorris,J. Garrett Morris,4,2,2018,2025,ICFP + POPL
+jialuzhang,Jialu Zhang,1,1,2025,2025,OOPSLA
+jiasishen,Jiasi Shen,2,1,2024,2025,OOPSLA
+jihyeokpark1,Jihyeok Park,1,1,2025,2025,OOPSLA
+jimlarus,James Larus,3,2,2022,2025,OOPSLA + PLDI
+jinglingxue,Jingling Xue,2,2,2020,2024,OOPSLA + PLDI
+jingmeihu1,Jingmei Hu,1,1,2025,2025,OOPSLA
+joachimbreitner,Joachim Breitner,2,1,2019,2025,ICFP
+joannasantos,Joanna C. S. Santos,1,1,2025,2025,OOPSLA
+johannesborgstrom,Johannes Borgström,1,1,2017,2017,POPL
+johnhughes,John Hughes,1,1,2017,2017,ICFP
+johnregehr,John Regehr,4,1,2020,2024,PLDI
+johnreppy,John Reppy,1,1,2025,2025,ICFP
+johnsarracino,John Sarracino,2,1,2021,2024,PLDI
+johnvilk,John Vilk,1,1,2020,2020,PLDI
+johnwickerson,John Wickerson,6,3,2019,2025,POPL + OOPSLA + PLDI
+jonathanaldrich,Jonathan Aldrich,3,1,2017,2023,OOPSLA
+jonathanbalkind,Jonathan Balkind,1,1,2024,2024,PLDI
+jonathanbell,Jonathan Bell,1,1,2024,2024,OOPSLA
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,4,3,2023,2025,ICFP + POPL + OOPSLA
+jonathanprotzenko,Jonathan Protzenko,3,2,2020,2024,ICFP + POPL
+jonathanragankelley,Jonathan Ragan-Kelley,2,1,2018,2023,PLDI
+jonathansterling,Jonathan Sterling,3,3,2023,2025,ICFP + POPL + OOPSLA
+joonwonchoi,Joonwon Choi,1,1,2024,2024,PLDI
+joostpieterkatoen,Joost-Pieter Katoen,1,1,2023,2023,POPL
+jorgeanavas,Jorge A. Navas,2,1,2022,2024,PLDI
+jorgeaperez,Jorge A. Pérez,1,1,2023,2023,PLDI
+josepedromagalhaes,José Pedro Magalhães,1,1,2023,2023,ICFP
+josephdevietti,Joseph Devietti,2,1,2017,2021,PLDI
+josephtassarotti,Joseph Tassarotti,5,4,2023,2024,ICFP + POPL + OOPSLA + PLDI
+josesantos,José Fragoso Santos,4,3,2020,2025,POPL + OOPSLA + PLDI
+joshberdine,Josh Berdine,4,2,2017,2023,ICFP + POPL
+joshuagancher,Joshua Gancher,1,1,2025,2025,PLDI
+joshuasunshine,Joshua Sunshine,2,2,2017,2025,OOPSLA + PLDI
+josiahhester,Josiah Hester,1,1,2023,2023,PLDI
+joxanjaffar,Joxan Jaffar,2,1,2018,2021,PLDI
+jubitaneja,Jubi Taneja,1,1,2025,2025,PLDI
+julesjacobs,Jules Jacobs,2,2,2025,2025,ICFP + PLDI
+julesvillard2,Jules Villard,1,1,2024,2024,POPL
+juliabelyakova,Julia Belyakova,1,1,2025,2025,OOPSLA
+julianafranco,Juliana Franco,1,1,2024,2024,OOPSLA
+juliandolby,Julian Dolby,2,1,2018,2021,PLDI
+julianshun,Julian Shun,1,1,2021,2021,PLDI
+julienverlaguet,Julien Verlaguet,1,1,2017,2017,OOPSLA
+juneandronick,June Andronick,2,2,2019,2019,POPL + PLDI
+juneyounglee2,Juneyoung Lee,1,1,2025,2025,OOPSLA
+junfengyang,Junfeng Yang,1,1,2017,2017,PLDI
+jurriaanhage,Jurriaan Hage,1,1,2021,2021,ICFP
+justingottschlich,Justin Gottschlich,3,2,2021,2024,OOPSLA + PLDI
+justinhsu,Justin Hsu,6,3,2019,2025,POPL + OOPSLA + PLDI
+kapilvaswani,Kapil Vaswani,2,1,2021,2024,PLDI
+karimali,Karim Ali,5,2,2020,2025,OOPSLA + PLDI
+karineevenmendoza,Karine Even-Mendoza,2,1,2024,2025,OOPSLA
+karlcrary,Karl Crary,1,1,2018,2018,POPL
+karlpalmskog,Karl Palmskog,1,1,2025,2025,PLDI
+karthikeyanbhargavan,Karthikeyan Bhargavan,1,1,2023,2023,POPL
+kartiknagar1,Kartik Nagar,1,1,2025,2025,OOPSLA
+kathleenfisher,Kathleen Fisher,3,2,2017,2019,POPL + PLDI
+kathrinstark,Kathrin Stark,2,2,2023,2024,ICFP + POPL
+kathrynegray,Kathryn E. Gray,2,2,2017,2017,ICFP + OOPSLA
+kathrynsmckinley,Kathryn S McKinley,4,2,2017,2022,OOPSLA + PLDI
+katsuhiroueno,Katsuhiro Ueno,2,1,2018,2024,ICFP
+kazutakamatsuda,Kazutaka Matsuda,2,1,2019,2021,ICFP
+kcsivaramakrishnan,KC Sivaramakrishnan,7,4,2020,2025,ICFP + POPL + OOPSLA + PLDI
+kedarnamjoshi,Kedar Namjoshi,1,1,2021,2021,POPL
+kenjimaillard,Kenji Maillard,3,2,2023,2024,ICFP + OOPSLA
+kennethlmcmillan,Kenneth L. McMillan,1,1,2022,2022,POPL
+keshahietala,Kesha Hietala,1,1,2024,2024,ICFP
+kevinellis,Kevin Ellis,1,1,2023,2023,PLDI
+kewang,Ke Wang,4,1,2020,2025,PLDI
+kihongheo,Kihong Heo,5,3,2022,2024,POPL + OOPSLA + PLDI
+kimbruce,Kim Bruce,1,1,2017,2017,OOPSLA
+kirangopinathan1,Kiran Gopinathan,1,1,2025,2025,ICFP
+kirshanthansundararajah,Kirshanthan Sundararajah,1,1,2025,2025,PLDI
+klausostermann,Klaus Ostermann,6,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+klausvgleissenthall,Klaus v. Gleissenthall,2,1,2022,2024,PLDI
+koenclaessen,Koen Claessen,3,2,2018,2024,ICFP + POPL
+koheisuenaga,Kohei Suenaga,1,1,2022,2022,POPL
+kokomuroya,Koko Muroya,2,2,2022,2022,ICFP + POPL
+konstantinoskallas,Konstantinos Kallas,1,1,2025,2025,PLDI
+konstantinosmamouras1,Konstantinos Mamouras,2,1,2023,2025,PLDI
+kostasferles,Kostas Ferles,1,1,2022,2022,PLDI
+koushiksen,Koushik Sen,2,1,2022,2024,PLDI
+kristinasojakova,Kristina Sojakova,1,1,2024,2024,POPL
+kristofmarussy,Kristóf Marussy,1,1,2025,2025,OOPSLA
+kuenbanghoufavonia,Kuen-Bang Hou (Favonia),2,2,2021,2024,ICFP + POPL
+kwangkeunyi,Kwangkeun Yi,2,1,2021,2024,PLDI
+larsbirkedal,Lars Birkedal,4,3,2018,2022,ICFP + POPL + OOPSLA
+laurabocchi,Laura Bocchi,1,1,2023,2023,ICFP
+laurakovacs,Laura Kovacs,3,1,2018,2023,POPL
+lauramcastro,Laura M. Castro,2,1,2019,2024,ICFP
+lauregonnord,Laure Gonnord,3,2,2021,2025,POPL + PLDI
+laurencetratt,Laurence Tratt,1,1,2021,2021,OOPSLA
+laurenpick,Lauren Pick,2,2,2023,2025,POPL + PLDI
+lennartaugustsson,Lennart Augustsson,1,1,2023,2023,ICFP
+lennartberinger,Lennart Beringer,1,1,2019,2019,ICFP
+leonidaslampropoulos,Leonidas Lampropoulos,5,3,2021,2025,ICFP + POPL + PLDI
+leonidryzhyk,Leonid Ryzhyk,1,1,2022,2022,PLDI
+leowhite,Leo White,1,1,2025,2025,ICFP
+liamoconnor,Liam O'Connor,2,2,2025,2025,ICFP + PLDI
+liangtingchen,Liang-Ting Chen,1,1,2023,2023,ICFP
+liminjia,Limin Jia,7,3,2017,2025,POPL + OOPSLA + PLDI
+lindseykuper,Lindsey Kuper,6,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+lingmingzhang1,Lingming Zhang,1,1,2024,2024,OOPSLA
+lionelparreaux,Lionel Parreaux,2,2,2023,2025,ICFP + OOPSLA
+liyili1,Liyi Li,2,2,2024,2025,OOPSLA + PLDI
+lorisdantoni,Loris D'Antoni,7,3,2018,2025,POPL + OOPSLA + PLDI
+louisnoelpouchet,Louis-Noël Pouchet,5,2,2019,2024,OOPSLA + PLDI
+lucmaranget,Luc Maranget,1,1,2021,2021,POPL
+luispina,Luís Pina,1,1,2024,2024,PLDI
+lukeong,C.-H. Luke Ong,1,1,2022,2022,POPL
+luzhang,Lu Zhang,1,1,2017,2017,OOPSLA
+maazbinsafeerahmad,Maaz Bin Safeer Ahmad,1,1,2025,2025,PLDI
+madanmusuvathi,Madan Musuvathi,2,1,2017,2021,PLDI
+maemilano,Mae Milano,1,1,2024,2024,POPL
+magnusmadsen,Magnus Madsen,3,2,2021,2025,OOPSLA + PLDI
+magnusomyreen,Magnus O. Myreen,6,3,2020,2025,ICFP + POPL + PLDI
+mahmuttaylankandemir,Mahmut Taylan Kandemir,2,1,2021,2025,PLDI
+makotohamana,Makoto Hamana,1,1,2020,2020,ICFP
+malavikasamak,Malavika Samak,4,3,2018,2024,POPL + OOPSLA + PLDI
+malgorzatabiernacka,Malgorzata Biernacka,1,1,2022,2022,ICFP
+manasijmukherjee,Manasij Mukherjee,1,1,2025,2025,PLDI
+manasthakur,Manas Thakur,1,1,2025,2025,PLDI
+mandanavaziri,Mandana Vaziri,2,2,2020,2022,OOPSLA + PLDI
+manoskapritsos,Manos Kapritsos,1,1,2022,2022,PLDI
+manuelrigger,Manuel Rigger,1,1,2025,2025,OOPSLA
+manuelserrano,Manuel Serrano,3,2,2022,2025,ICFP + OOPSLA
+manusridharan,Manu Sridharan,5,2,2018,2025,OOPSLA + PLDI
+marcbrockschmidt,Marc Brockschmidt,2,1,2021,2024,PLDI
+marcogaboardi,Marco Gaboardi,4,3,2017,2025,ICFP + POPL + PLDI
+marcopatrignani,Marco Patrignani,1,1,2023,2023,POPL
+marcopistoia,Marco Pistoia,1,1,2017,2017,PLDI
+marcosviera,Marcos Viera,1,1,2023,2023,ICFP
+marcovassena,Marco Vassena,1,1,2023,2023,POPL
+margusveanes,Margus Veanes,2,1,2020,2025,POPL
+mariachristakis,Maria Christakis,1,1,2018,2018,OOPSLA
+mariannarapoport,Marianna Rapoport,2,1,2023,2025,OOPSLA
+maribelfernandez,Maribel Fernandez,1,1,2022,2022,ICFP
+mariekehuisman,Marieke Huisman,2,1,2019,2021,OOPSLA
+mariekerjean1,Marie Kerjean,1,1,2025,2025,ICFP
+markbatty,Mark Batty,3,2,2018,2024,POPL + PLDI
+markjones,Mark Jones,1,1,2017,2017,ICFP
+marksantolucito,Mark Santolucito,1,1,2023,2023,OOPSLA
+markuspuschel,Markus Püschel,1,1,2021,2021,PLDI
+martinabadi,Martin Abadi,1,1,2017,2017,POPL
+martinelsman,Martin Elsman,2,1,2018,2024,ICFP
+martinerwig,Martin Erwig,2,2,2017,2019,ICFP + POPL
+martinhirzel,Martin Hirzel,4,2,2019,2025,OOPSLA + PLDI
+martinmaas,Martin Maas,1,1,2019,2019,PLDI
+martinrinard,Martin C. Rinard,2,1,2019,2021,PLDI
+martinvechev,Martin Vechev,1,1,2017,2017,PLDI
+maryammehridehnavi,Maryam Mehri Dehnavi,2,2,2023,2025,OOPSLA + PLDI
+maryhall,Mary Hall,1,1,2022,2022,PLDI
+maryshe,Mary Sheeran,1,1,2022,2022,ICFP
+matiastoro,Matías Toro,3,2,2022,2025,ICFP + PLDI
+matijapretnar,Matija Pretnar,1,1,2022,2022,ICFP
+matteocimini,Matteo Cimini,2,2,2020,2021,ICFP + POPL
+matteomaffei,Matteo Maffei,1,1,2023,2023,POPL
+matthewflatt,Matthew Flatt,7,3,2017,2024,ICFP + OOPSLA + PLDI
+matthewfluet,Matthew Fluet,1,1,2020,2020,ICFP
+matthewhague,Matthew Hague,1,1,2022,2022,POPL
+matthewhammer,Matthew Hammer,1,1,2019,2019,POPL
+matthewmight,Matthew Might,1,1,2018,2018,POPL
+matthewparkinson,Matthew J. Parkinson,4,2,2019,2025,POPL + OOPSLA
+matthiashauswirth,Matthias Hauswirth,3,2,2023,2025,OOPSLA + PLDI
+matthiasheizmann,Matthias Heizmann,1,1,2021,2021,POPL
+matthieusozeau,Matthieu Sozeau,2,2,2021,2024,ICFP + POPL
+matthijsvakar,Matthijs Vákár,1,1,2025,2025,POPL
+maxnew,Max S. New,2,2,2021,2024,ICFP + POPL
+maxschaefer,Max Schaefer,2,1,2018,2024,OOPSLA
+maxwillsey,Max Willsey,2,2,2024,2025,POPL + PLDI
+mayurnaik,Mayur Naik,2,2,2017,2019,POPL + PLDI
+mengwang,Meng Wang,1,1,2024,2024,ICFP
+michaelbond,Michael D. Bond,4,2,2020,2023,OOPSLA + PLDI
+michaelcarbin,Michael Carbin,4,3,2020,2025,POPL + OOPSLA + PLDI
+michaelcoblenz,Michael Coblenz,1,1,2024,2024,OOPSLA
+michaeldadams,Michael D. Adams,3,2,2019,2023,ICFP + POPL
+michaelemmi,Michael Emmi,5,2,2019,2025,POPL + PLDI
+michaelfranz,Michael Franz,1,1,2025,2025,OOPSLA
+michaelgreenberg,Michael Greenberg,7,4,2019,2025,ICFP + POPL + OOPSLA + PLDI
+michaelhicks,Michael Hicks,4,3,2021,2024,POPL + OOPSLA + PLDI
+michaelmarcozzi1,Michaël Marcozzi,2,2,2024,2025,OOPSLA + PLDI
+michaeloboyle,Michael F. P. O'Boyle,3,1,2021,2025,PLDI
+michaelpradel,Michael Pradel,4,2,2017,2023,OOPSLA + PLDI
+michaelsammler,Michael Sammler,1,1,2025,2025,ICFP
+michaelsperber,Michael Sperber,2,1,2018,2024,ICFP
+michelechiari,Michele Chiari,1,1,2025,2025,OOPSLA
+michelepagani,Michele Pagani,2,1,2017,2023,POPL
+michellemillsstrout,Michelle Mills Strout,2,1,2020,2023,PLDI
+michelsteuwer,Michel Steuwer,1,1,2025,2025,PLDI
+mihaibudiu,Mihai Budiu,1,1,2023,2023,PLDI
+mikedodds,Mike Dodds,2,2,2021,2022,OOPSLA + PLDI
+mikerainey,Mike Rainey,1,1,2019,2019,ICFP
+miladallapreda,Mila Dalla Preda,2,1,2018,2023,POPL
+milijanasurbatovich1,Milijana Surbatovich,1,1,2025,2025,OOPSLA
+milindkulkarni,Milind Kulkarni,4,2,2017,2022,OOPSLA + PLDI
+milosgligoric,Milos Gligoric,1,1,2024,2024,OOPSLA
+mingshengying,Mingsheng Ying,1,1,2025,2025,POPL
+minseokjeon,Minseok Jeon,2,2,2024,2025,ICFP + OOPSLA
+miramezini,Mira Mezini,5,3,2017,2023,POPL + OOPSLA + PLDI
+mircotribastone,Mirco Tribastone,1,1,2020,2020,POPL
+mitchellwand,Mitchell Wand,2,2,2021,2021,ICFP + OOPSLA
+mohamedfaouziatig,Mohamed Faouzi Atig,3,2,2021,2025,POPL + OOPSLA
+mohsenlesani,Mohsen Lesani,6,3,2020,2025,POPL + OOPSLA + PLDI
+moolysagiv,Mooly Sagiv,1,1,2017,2017,POPL
+mukundraghotaman,Mukund Raghothaman,5,2,2020,2025,POPL + PLDI
+muralidaranvijayaraghavan,Muralidaran Vijayaraghavan,1,1,2024,2024,PLDI
+muralikrishnaramanathan,Murali Krishna Ramanathan,1,1,2024,2024,PLDI
+nachiappanvalliappan,Nachiappan Valliappan,1,1,2025,2025,ICFP
+nadaamin,Nada Amin,6,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+nadiapolikarpova,Nadia Polikarpova,11,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+nameng,Na Meng,2,1,2021,2025,PLDI
+naokikobayashi,Naoki Kobayashi,2,1,2021,2025,POPL
+natefoster,Nate Foster,5,3,2019,2025,POPL + OOPSLA + PLDI
+nathanchong,Nathan Chong,1,1,2021,2021,PLDI
+neelakantankrishnaswami,Neel Krishnaswami,8,4,2018,2024,ICFP + POPL + OOPSLA + PLDI
+nehaagarwal,Neha Agarwal,1,1,2019,2019,PLDI
+neiljulienross,Neil Julien Ross,2,2,2024,2025,POPL + PLDI
+nevillegrech,Neville Grech,4,3,2022,2025,POPL + OOPSLA + PLDI
+niccoloveltri,Niccolò Veltri,1,1,2022,2022,ICFP
+nickbenton1,Nick Benton,2,2,2024,2025,ICFP + POPL
+nickgiannarakis,Nick Giannarakis,1,1,2022,2022,PLDI
+nicolastabareau,Nicolas Tabareau,2,1,2019,2023,POPL
+nicolaswu,Nicolas Wu,3,2,2017,2022,ICFP + POPL
+nikhilswamy,Nikhil Swamy,5,3,2017,2025,ICFP + POPL + PLDI
+nikitakoval,Nikita Koval,1,1,2025,2025,OOPSLA
+nikivazou,Niki Vazou,7,4,2018,2024,ICFP + POPL + OOPSLA + PLDI
+nikostzevelekos,Nikos Tzevelekos,1,1,2024,2024,POPL
+nikosvasilakis,Nikos Vasilakis,1,1,2021,2021,PLDI
+nilsandersdanielsson,Nils Anders Danielsson,2,2,2019,2022,ICFP + POPL
+ninanarodytska,Nina Narodytska,1,1,2018,2018,OOPSLA
+ningluo1,Ning Luo,1,1,2025,2025,OOPSLA
+ningningxie,Ningning Xie,5,3,2022,2025,ICFP + POPL + PLDI
+noamrinetzky,Noam Rinetzky,4,3,2020,2024,POPL + OOPSLA + PLDI
+noamzeilberger,Noam Zeilberger,1,1,2019,2019,POPL
+nobukoyoshida,Nobuko Yoshida,7,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+normandanner,Norman Danner,1,1,2022,2022,ICFP
+normanramsey,Norman Ramsey,1,1,2021,2021,ICFP
+nunoplopes,Nuno P. Lopes,3,1,2019,2023,PLDI
+odedpadon,Oded Padon,6,3,2021,2025,POPL + OOPSLA + PLDI
+ohadkammar,Ohad Kammar,3,2,2020,2025,ICFP + POPL
+oliverbracevac,Oliver Bračevac,2,2,2023,2025,ICFP + POPL
+ondrejlhotak,Ondřej Lhoták,1,1,2019,2019,OOPSLA
+onurmutlu1,Onur Mutlu,1,1,2017,2017,PLDI
+orilahav,Ori Lahav,4,3,2019,2024,POPL + OOPSLA + PLDI
+orneladardha,Ornela Dardha,2,2,2022,2023,ICFP + POPL
+osbertbastani,Osbert Bastani,5,3,2020,2023,POPL + OOPSLA + PLDI
+owenarden,Owen Arden,1,1,2024,2024,PLDI
+owolabilegunsen,Owolabi Legunsen,2,2,2023,2024,OOPSLA + PLDI
+pamelazave,Pamela Zave,1,1,2024,2024,OOPSLA
+paroshazizabdulla,Parosh Aziz Abdulla,3,3,2021,2024,POPL + OOPSLA + PLDI
+pascalweisenburger,Pascal Weisenburger,1,1,2023,2023,OOPSLA
+patricegodefroid,Patrice Godefroid,1,1,2020,2020,PLDI
+patriciapatriciajohann,Patricia Johann,4,2,2019,2024,ICFP + POPL
+patrickbahr,Patrick Bahr,1,1,2024,2024,ICFP
+patrickeugster,Patrick Eugster,2,1,2022,2023,OOPSLA
+patricklam,Patrick Lam,3,2,2020,2024,OOPSLA + PLDI
+patrikjansson,Patrik Jansson,1,1,2023,2023,ICFP
+pauldownen,Paul Downen,1,1,2023,2023,ICFP
+paulgazzillo,Paul Gazzillo,2,1,2021,2023,PLDI
+pavelchuprikov,Pavel Chuprikov,1,1,2023,2023,OOPSLA
+pavelpanchekha,Pavel Panchekha,4,3,2021,2025,POPL + OOPSLA + PLDI
+pavelparizek,Pavel Parizek,1,1,2025,2025,OOPSLA
+pavolbielik,Pavol Bielik,1,1,2021,2021,PLDI
+pavolcerny,Pavol Cerny,2,1,2018,2021,POPL
+peisenyao,Peisen Yao,3,3,2023,2025,POPL + OOPSLA + PLDI
+pengwu,Peng Wu,1,1,2017,2017,OOPSLA
+petartsankov,Petar Tsankov,1,1,2020,2020,PLDI
+peteralvaro,Peter Alvaro,1,1,2023,2023,OOPSLA
+peterhawkins,Peter Hawkins,1,1,2020,2020,PLDI
+petermichaelosera,Peter-Michael Osera,2,1,2023,2024,PLDI
+petermller,Peter Müller,4,2,2018,2024,POPL + PLDI
+peterohearn,Peter O'Hearn,1,1,2019,2019,POPL
+peterohmann1,Peter Ohmann,1,1,2024,2024,PLDI
+peterselinger,Peter Selinger,1,1,2019,2019,POPL
+petersewell,Peter Sewell,3,2,2018,2024,POPL + OOPSLA
+peterthiemann,Peter Thiemann,4,3,2020,2025,ICFP + POPL + OOPSLA
+philippagardner,Philippa Gardner,1,1,2022,2022,OOPSLA
+philippghaselwarter,Philipp G. Haselwarter,1,1,2025,2025,PLDI
+philipphaller,Philipp Haller,2,2,2023,2025,POPL + OOPSLA
+philippruemmer,Philipp Ruemmer,1,1,2022,2022,POPL
+philipwadler,Philip Wadler,2,1,2018,2025,POPL
+phitchayamangpophothilimthana,Phitchaya Mangpo Phothilimthana,3,2,2020,2023,OOPSLA + PLDI
+pierreclairambault,Pierre Clairambault,2,1,2022,2025,POPL
+pierreevaristedagand,Pierre-Evariste Dagand,1,1,2019,2019,ICFP
+pierreganty,Pierre Ganty,1,1,2021,2021,POPL
+pierregeneves,Pierre Geneves,1,1,2023,2023,PLDI
+pierremariepedrot,Pierre-Marie Pédrot,1,1,2024,2024,POPL
+pierreyvesstrub,Pierre-Yves Strub,2,2,2019,2020,ICFP + POPL
+pietroferrara1,Pietro Ferrara,1,1,2025,2025,OOPSLA
+pinjiahe,Pinjia He,1,1,2025,2025,OOPSLA
+pmadhusudan,P. Madhusudan,6,3,2019,2025,POPL + OOPSLA + PLDI
+qirunzhang,Qirun Zhang,5,3,2020,2024,POPL + OOPSLA + PLDI
+quentinstievenart,Quentin Stiévenart,1,1,2025,2025,OOPSLA
+rachitnigam,Rachit Nigam,1,1,2025,2025,PLDI
+radhajagadeesan,Radha Jagadeesan,1,1,2020,2020,POPL
+radugrigore,Radu Grigore,2,1,2019,2022,POPL
+raghuprabhakar,Raghu Prabhakar,1,1,2022,2022,PLDI
+ragnarmogk,Ragnar Mogk,1,1,2023,2023,OOPSLA
+rahulgopinath,Rahul Gopinath,1,1,2024,2024,OOPSLA
+rahulsharma,Rahul Sharma,6,3,2018,2025,POPL + OOPSLA + PLDI
+rajivgupta,Rajiv Gupta,1,1,2024,2024,OOPSLA
+ralfhinze,Ralf Hinze,2,2,2022,2024,ICFP + POPL
+ralfjung,Ralf Jung,5,4,2021,2025,ICFP + POPL + OOPSLA + PLDI
+ranjitjhala,Ranjit Jhala,8,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+rastislavbodik,Rastislav Bodík,2,2,2020,2023,POPL + PLDI
+ravichugh,Ravi Chugh,3,2,2017,2021,POPL + PLDI
+retoachermann,Reto Achermann,1,1,2025,2025,PLDI
+rezwanakarim,Rezwana Karim,2,1,2017,2018,OOPSLA
+richardeisenberg,Richard A. Eisenberg,4,3,2020,2025,ICFP + POPL + OOPSLA
+rishabhsingh,Rishabh Singh,4,2,2017,2021,POPL + PLDI
+rishiyurnikhil,Rishiyur Nikhil,1,1,2021,2021,ICFP
+robbertkrebbers,Robbert Krebbers,7,4,2019,2024,ICFP + POPL + OOPSLA + PLDI
+robbyfindler,Robert Bruce Findler,2,2,2023,2025,ICFP + POPL
+robertagori1,Roberta Gori,1,1,2025,2025,POPL
+robertatkey,Robert Atkey,5,2,2017,2025,ICFP + POPL
+robertharper1,Robert Harper,1,1,2022,2022,ICFP
+roberthirschfeld,Robert Hirschfeld,1,1,2020,2020,OOPSLA
+robertogiacobazzi,Roberto Giacobazzi,1,1,2024,2024,POPL
+robertrand,Robert Rand,4,2,2022,2025,POPL + PLDI
+robsison,Rob Sison,2,1,2024,2025,PLDI
+rodolphelepigre,Rodolphe Lepigre,1,1,2024,2024,POPL
+rohanbavishi,Rohan Bavishi,1,1,2025,2025,OOPSLA
+rohanpadhye,Rohan Padhye,1,1,2025,2025,PLDI
+rolandmeyer,Roland Meyer,2,1,2021,2025,POPL
+romainrobbes,Romain Robbes,1,1,2017,2017,OOPSLA
+ronaldgarcia,Ronald Garcia,8,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+ronghuigu,Ronghui Gu,5,2,2020,2025,POPL + PLDI
+roopshasamanta,Roopsha Samanta,4,3,2018,2022,POPL + OOPSLA + PLDI
+rosstate,Ross Tate,3,2,2018,2023,OOPSLA + PLDI
+rubenmartins,Ruben Martins,3,2,2022,2025,OOPSLA + PLDI
+rupakmajumdar,Rupak Majumdar,3,2,2021,2025,POPL + PLDI
+ruzicapiskac,Ruzica Piskac,7,2,2018,2025,POPL + PLDI
+ryanbeckett1,Ryan Beckett,3,2,2023,2025,POPL + PLDI
+ryanrnewton,Ryan R. Newton,4,3,2018,2022,ICFP + POPL + PLDI
+ryosukesato,Ryosuke Sato,1,1,2024,2024,ICFP
+saeedmaleki,Saeed Maleki,1,1,2022,2022,PLDI
+samanamarasinghe,Saman Amarasinghe,2,2,2024,2025,OOPSLA + PLDI
+samguyer,Sam Guyer,2,1,2020,2023,PLDI
+samlindley,Sam Lindley,5,3,2018,2025,ICFP + POPL + PLDI
+samstaton,Sam Staton,3,2,2017,2022,ICFP + POPL
+samtobinhochstadt,Sam Tobin-Hochstadt,7,4,2017,2025,ICFP + POPL + OOPSLA + PLDI
+samuelgruetter,Samuel Gruetter,1,1,2025,2025,PLDI
+samwestrick,Sam Westrick,1,1,2025,2025,PLDI
+sandeepdasgupta,Sandeep Dasgupta,1,1,2021,2021,PLDI
+sandrineblazy,Sandrine Blazy,4,2,2018,2025,ICFP + POPL
+santiagozanellabeguelin,Santiago Zanella-Béguelin,1,1,2021,2021,POPL
+santoshnagarakatte,Santosh Nagarakatte,7,3,2018,2025,POPL + OOPSLA + PLDI
+santoshpande1,Santosh Pande,1,1,2024,2024,OOPSLA
+saraachour,Sara Achour,3,2,2019,2022,OOPSLA + PLDI
+sarahchasins,Sarah E. Chasins,5,3,2020,2025,POPL + OOPSLA + PLDI
+sarahnadi,Sarah Nadi,2,1,2017,2023,OOPSLA
+sasamisailovic,Sasa Misailovic,5,2,2017,2024,OOPSLA + PLDI
+saswatpadhi,Saswat Padhi,1,1,2021,2021,PLDI
+satishchandra,Satish Chandra,4,3,2020,2025,POPL + OOPSLA + PLDI
+satishnarayanasamy,Satish Narayanasamy,1,1,2022,2022,PLDI
+satnamsingh,Satnam Singh,2,2,2023,2024,ICFP + POPL
+saumyadebray,Saumya Debray,1,1,2021,2021,PLDI
+sauravmuralidharan,Saurav Muralidharan,1,1,2021,2021,PLDI
+scottowens,Scott Owens,2,2,2019,2024,ICFP + POPL
+seanmoss,Sean Moss,1,1,2023,2023,ICFP
+seantreichler,Sean Treichler,2,2,2022,2024,OOPSLA + PLDI
+sebastianburckhardt,Sebastian Burckhardt,3,2,2020,2023,OOPSLA + PLDI
+sebastianerdweg,Sebastian Erdweg,4,2,2019,2025,ICFP + OOPSLA
+sebastianhack,Sebastian Hack,2,2,2021,2024,OOPSLA + PLDI
+sebastienbardin,Sébastien Bardin,1,1,2025,2025,PLDI
+senchen,Sen Chen,1,1,2025,2025,OOPSLA
+shacharitzhaky,Shachar Itzhaky,4,2,2018,2025,OOPSLA + PLDI
+shanemcintosh,Shane McIntosh,1,1,2017,2017,OOPSLA
+shanlu,Shan Lu,2,1,2017,2023,PLDI
+shaohuali,Shaohua Li,1,1,2025,2025,PLDI
+sharadmalik,Sharad Malik,1,1,2025,2025,PLDI
+sharonshoham,Sharon Shoham,3,2,2017,2025,POPL + PLDI
+shazqadeer,Shaz Qadeer,6,3,2019,2025,POPL + OOPSLA + PLDI
+shengchen1,Sheng Chen,3,2,2021,2025,POPL + OOPSLA
+shigeruchiba,Shigeru Chiba,2,1,2021,2024,OOPSLA
+shinchengmu,Shin-Cheng Mu,1,1,2024,2024,ICFP
+shinyakatsumata,Shin-ya Katsumata,3,2,2017,2023,ICFP + POPL
+shoaibkamil,Shoaib Kamil,4,2,2020,2025,OOPSLA + PLDI
+shriramkrishnamurthi,Shriram Krishnamurthi,4,2,2019,2025,OOPSLA + PLDI
+shumochu,Shumo Chu,1,1,2022,2022,PLDI
+shuvendulahiri,Shuvendu K. Lahiri,3,2,2020,2024,POPL + PLDI
+silviaghilezan,Silvia Ghilezan,1,1,2022,2022,ICFP
+simonjgay,Simon J. Gay,1,1,2023,2023,ICFP
+simonpeytonjones,Simon Peyton Jones,5,3,2021,2025,ICFP + POPL + PLDI
+sohamchakraborty,Soham Chakraborty,1,1,2024,2024,POPL
+someshjha,Somesh Jha,1,1,2021,2021,POPL
+soniamarin,Sonia Marin,1,1,2023,2023,ICFP
+sooyoungcha1,Sooyoung Cha,1,1,2025,2025,OOPSLA
+sophiadrossopoulou,Sophia Drossopoulou,7,3,2018,2024,POPL + OOPSLA + PLDI
+soravbansal1,Sorav Bansal,4,2,2021,2025,POPL + PLDI
+sorinlerner,Sorin Lerner,3,3,2018,2023,POPL + OOPSLA + PLDI
+sotirisapostolakis,Sotiris Apostolakis,1,1,2023,2023,PLDI
+sreepathipai,Sreepathi Pai,3,2,2022,2024,OOPSLA + PLDI
+sriramkrishnamoorthy,Sriram Krishnamoorthy,1,1,2020,2020,PLDI
+sriramrajamani,Sriram Rajamani,1,1,2024,2024,POPL
+sriramsankaranarayanan,Sriram Sankaranarayanan,1,1,2021,2021,POPL
+stefanbrunthaler,Stefan Brunthaler,1,1,2024,2024,OOPSLA
+stefankmuller,Stefan K. Muller,2,2,2021,2024,ICFP + POPL
+stefanmarr,Stefan Marr,2,1,2022,2025,OOPSLA
+stefanmonnier,Stefan Monnier,1,1,2024,2024,ICFP
+stephaniebalzer,Stephanie Balzer,3,3,2021,2023,ICFP + POPL + OOPSLA
+stephanieweirich,Stephanie Weirich,4,2,2018,2025,ICFP + POPL
+stephenchang,Stephen Chang,1,1,2024,2024,PLDI
+stephenchong,Stephen Chong,1,1,2023,2023,PLDI
+stephendolan,Stephen Dolan,2,2,2023,2024,ICFP + POPL
+stephenfreund,Stephen N. Freund,1,1,2020,2020,PLDI
+stephenkell,Stephen Kell,4,2,2021,2025,OOPSLA + PLDI
+steveblackburn,Steve Blackburn,6,2,2018,2024,OOPSLA + PLDI
+stevenholtzen,Steven Holtzen,3,3,2022,2025,POPL + OOPSLA + PLDI
+stevenramsay,Steven Ramsay,1,1,2024,2024,POPL
+stevezdancewic,Steve Zdancewic,3,2,2020,2024,ICFP + POPL
+subhajitroy,Subhajit Roy,1,1,2024,2024,OOPSLA
+sugumanbansal1,Suguman Bansal,1,1,2024,2024,POPL
+sukyoungryu,Sukyoung Ryu,11,3,2018,2025,POPL + OOPSLA + PLDI
+suparnabhattacharya,Suparna Bhattacharya,1,1,2017,2017,OOPSLA
+sureshjagannathan,Suresh Jagannathan,7,4,2019,2024,ICFP + POPL + OOPSLA + PLDI
+susmitjha1,Susmit Jha,2,1,2022,2025,PLDI
+susmitsarkar,Susmit Sarkar,4,3,2020,2024,ICFP + POPL + PLDI
+swaratchaudhuri,Swarat Chaudhuri,4,2,2017,2023,POPL + PLDI
+swarnendubiswas,Swarnendu Biswas,2,2,2024,2024,OOPSLA + PLDI
+sylvanclebsch,Sylvan Clebsch,1,1,2024,2024,OOPSLA
+sylvieputot,Sylvie Putot,1,1,2020,2020,POPL
+tachioterauchi,Tachio Terauchi,7,3,2018,2025,POPL + OOPSLA + PLDI
+tahinaramananandro,Tahina Ramananandro,4,3,2021,2025,ICFP + POPL + PLDI
+takeshitsukada,Takeshi Tsukada,1,1,2023,2023,ICFP
+taliaringer,Talia Ringer,3,3,2022,2024,ICFP + POPL + PLDI
+tamararezk,Tamara Rezk,1,1,2021,2021,PLDI
+tamasszabo1,Tamás Szabó,1,1,2024,2024,OOPSLA
+tarosekiyama,Taro Sekiyama,4,3,2021,2025,ICFP + POPL + PLDI
+tatianashpeisman,Tatiana Shpeisman,2,1,2018,2021,PLDI
+tejchajed,Tej Chajed,3,2,2022,2024,POPL + PLDI
+thanhvunguyen,ThanhVu Nguyen,2,2,2024,2024,OOPSLA + PLDI
+theowinterhalter,Théo Winterhalter,2,2,2023,2025,ICFP + POPL
+thodorissotiropoulos,Thodoris Sotiropoulos,2,1,2024,2025,PLDI
+thomasball,Thomas Ball,1,1,2025,2025,PLDI
+thomasbourgeat2,Thomas Bourgeat,2,1,2024,2025,PLDI
+thomaskoehler,Thomas Koehler,1,1,2025,2025,PLDI
+thomaspjensen,Thomas P. Jensen,1,1,2024,2024,ICFP
+thomasreps,Thomas Reps,2,2,2021,2024,POPL + PLDI
+thomasshull,Thomas Shull,2,1,2021,2023,PLDI
+thomaswahl,Thomas Wahl,1,1,2022,2022,PLDI
+thomaswies,Thomas Wies,3,2,2020,2024,POPL + PLDI
+thorstenaltenkirch,Thorsten Altenkirch,1,1,2018,2018,POPL
+tiagocogumbreiro,Tiago Cogumbreiro,1,1,2025,2025,OOPSLA
+tiarkrompf,Tiark Rompf,7,4,2018,2025,ICFP + POPL + OOPSLA + PLDI
+tiennguyen,Tien N. Nguyen,1,1,2024,2024,OOPSLA
+tijsvanderstorm,Tijs van der Storm,1,1,2023,2023,OOPSLA
+timharris,Tim Harris,1,1,2017,2017,PLDI
+timongehr,Timon Gehr,3,2,2021,2025,POPL + PLDI
+tingcao,Ting Cao,2,1,2021,2022,PLDI
+tobiasgrosser,Tobias Grosser,1,1,2024,2024,OOPSLA
+tobiaswrigstad,Tobias Wrigstad,5,2,2018,2025,OOPSLA + PLDI
+tobymurray,Toby Murray,2,1,2021,2023,PLDI
+toddmillstein,Todd Millstein,5,3,2018,2023,POPL + OOPSLA + PLDI
+toddmytkowicz,Todd Mytkowicz,2,2,2018,2019,OOPSLA + PLDI
+tomaspetricek,Tomas Petricek,1,1,2024,2024,OOPSLA
+tomofumiyuki,Tomofumi Yuki,1,1,2021,2021,PLDI
+tomokinakamaru,Tomoki Nakamaru,1,1,2025,2025,OOPSLA
+tomvancutsem,Tom Van Cutsem,1,1,2017,2017,OOPSLA
+tongpingliu1,Tongping Liu,1,1,2024,2024,PLDI
+tonyhosking,Tony Hosking,4,1,2018,2025,PLDI
+tylersorensen,Tyler Sorensen,3,2,2020,2025,OOPSLA + PLDI
+udaybondhugula,Uday Bondhugula,1,1,2017,2017,PLDI
+ugodallago,Ugo Dal Lago,4,2,2020,2025,ICFP + POPL
+ulfnorell,Ulf Norell,1,1,2024,2024,POPL
+umangmathur,Umang Mathur,3,3,2023,2025,POPL + OOPSLA + PLDI
+umutacar,Umut A. Acar,4,3,2021,2024,POPL + OOPSLA + PLDI
+urialon,Uri Alon,1,1,2021,2021,PLDI
+vaishnavisundararajan,Vaishnavi Sundararajan,1,1,2025,2025,OOPSLA
+vascotvasconcelos,Vasco T. Vasconcelos,2,2,2023,2025,POPL + OOPSLA
+veselinraychev,Veselin Raychev,2,1,2020,2023,PLDI
+vijayaraghavanmurali,Vijayaraghavan Murali,1,1,2022,2022,PLDI
+vijayganesh,Vijay Ganesh,3,2,2020,2024,POPL + PLDI
+vijaynagarajan,Vijay Nagarajan,2,1,2022,2024,PLDI
+vikashmansinghka,Vikash K. Mansinghka,2,1,2017,2022,PLDI
+viktorkuncak,Viktor Kunčak,5,2,2020,2025,OOPSLA + PLDI
+viktorvafeiadis,Viktor Vafeiadis,6,3,2018,2025,POPL + OOPSLA + PLDI
+vineethkashyap,Vineeth Kashyap,1,1,2022,2022,PLDI
+vinodgrover,Vinod Grover,2,1,2022,2023,PLDI
+viveksarkar,Vivek Sarkar,1,1,2021,2021,PLDI
+vivianabono,Viviana Bono,1,1,2017,2017,OOPSLA
+vkrishnanandivada,V Krishna Nandivada,2,2,2024,2025,OOPSLA + PLDI
+vladimirzamdzhiev,Vladimir Zamdzhiev,1,1,2025,2025,POPL
+walterbinder,Walter Binder,4,2,2019,2024,OOPSLA + PLDI
+weihangwang,Weihang Wang,1,1,2021,2021,OOPSLA
+weile,Wei Le,1,1,2024,2024,OOPSLA
+weinganchin,Wei-Ngan Chin,1,1,2022,2022,POPL
+weizhang,Wei Zhang,1,1,2024,2024,OOPSLA
+wenxiwang,Wenxi Wang,1,1,2025,2025,OOPSLA
+wernerdietl,Werner Dietl,1,1,2024,2024,OOPSLA
+willcrichton,Will Crichton,1,1,2025,2025,PLDI
+willemvisser,Willem Visser,1,1,2021,2021,PLDI
+williamcook,William Cook,1,1,2018,2018,POPL
+williamebyrd,William E. Byrd,1,1,2025,2025,ICFP
+williamjbowman,William J. Bowman,3,2,2021,2025,ICFP + POPL
+williammansky,William Mansky,1,1,2024,2024,POPL
+willowahrens,Willow Ahrens,1,1,2025,2025,PLDI
+wolfgangdemeuter,Wolfgang De Meuter,1,1,2023,2023,OOPSLA
+woosuklee,Woosuk Lee,6,3,2019,2025,POPL + OOPSLA + PLDI
+wouterswierstra,Wouter Swierstra,2,1,2018,2024,ICFP
+xavierleroy,Xavier Leroy,3,1,2018,2025,POPL
+xavierrival,Xavier Rival,3,2,2020,2025,POPL + PLDI
+xiangyuzhang,Xiangyu Zhang,1,1,2025,2025,OOPSLA
+xiaodiwu,Xiaodi Wu,4,2,2022,2025,POPL + PLDI
+xiaokangqiu,Xiaokang Qiu,4,3,2022,2024,POPL + OOPSLA + PLDI
+xiaoningdu,Xiaoning Du,1,1,2025,2025,OOPSLA
+xinyufeng,Xinyu Feng,5,2,2018,2024,POPL + PLDI
+xinyuwang,Xinyu Wang,5,3,2021,2025,POPL + OOPSLA + PLDI
+xinzhang,Xin Zhang,4,2,2018,2024,OOPSLA + PLDI
+xipengshen,Xipeng Shen,3,1,2018,2024,PLDI
+xujiesi,Xujie Si,2,1,2022,2024,PLDI
+xulongtang,Xulong Tang,2,1,2021,2023,PLDI
+yahuisong1,Yahui Song,1,1,2025,2025,ICFP
+yakirvizel,Yakir Vizel,1,1,2025,2025,OOPSLA
+yanivdavid,Yaniv David,2,1,2021,2023,PLDI
+yanjuchen,Yanju Chen,1,1,2025,2025,OOPSLA
+yannherklotz,Yann Herklotz,1,1,2025,2025,PLDI
+yannickforster,Yannick Forster,1,1,2025,2025,PLDI
+yannickzakowski1,Yannick Zakowski,3,3,2022,2025,ICFP + POPL + OOPSLA
+yannissmaragdakis,Yannis Smaragdakis,6,3,2018,2025,POPL + OOPSLA + PLDI
+yannregisgianas,Yann Régis-Gianas,1,1,2022,2022,ICFP
+yaoli,Yao Li,3,2,2023,2025,POPL + PLDI
+yatinmanerkar,Yatin Manerkar,1,1,2024,2024,PLDI
+yingfeixiong,Yingfei Xiong,2,2,2023,2024,OOPSLA + PLDI
+yizhouzhang,Yizhou Zhang,5,3,2022,2024,POPL + OOPSLA + PLDI
+youyoucong,Youyou Cong,2,2,2021,2024,ICFP + OOPSLA
+yudavidliu,Yu David Liu,3,2,2019,2024,OOPSLA + PLDI
+yuepengwang,Yuepeng Wang,3,2,2022,2024,OOPSLA + PLDI
+yufeiding,Yufei Ding,2,2,2019,2020,OOPSLA + PLDI
+yufeng,Yu Feng,3,2,2022,2025,OOPSLA + PLDI
+yukiyoshikameyama,Yukiyoshi Kameyama,1,1,2023,2023,ICFP
+yuleisui,Yulei Sui,1,1,2024,2024,OOPSLA
+yunhuizheng,Yunhui Zheng,2,1,2020,2021,OOPSLA
+zacharykincaid,Zachary Kincaid,6,2,2017,2025,POPL + PLDI
+zacharytatlock,Zachary Tatlock,6,2,2018,2025,POPL + PLDI
+zenaariola,Zena M. Ariola,2,1,2021,2022,ICFP
+zhendongsu,Zhendong Su,3,2,2018,2022,POPL + PLDI
+zhengzhang,Zheng Zhang,1,1,2024,2024,PLDI
+zhenjianghu,Zhenjiang Hu,4,3,2019,2025,ICFP + POPL + OOPSLA
+zhihaojia1,Zhihao Jia,1,1,2022,2022,PLDI
+zhiqiangzuo,Zhiqiang Zuo,4,2,2022,2025,OOPSLA + PLDI
+zhongshao,Zhong Shao,4,2,2018,2025,POPL + OOPSLA
+zhoulaifu,Zhoulai Fu,1,1,2023,2023,PLDI
+zoeparaskevopoulou,Zoe Paraskevopoulou,2,2,2023,2024,ICFP + PLDI
+zvonimirrakamaric,Zvonimir Rakamaric,1,1,2018,2018,POPL

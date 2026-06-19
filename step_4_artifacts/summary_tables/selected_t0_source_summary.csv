@@ -1,0 +1,13 @@
+researcher_id,name,conference,pc_year,raw_edges,citing_papers,raw_self_edges,raw_coauthor_edges,title_collapsed_edges,collapsed_self_edges,collapsed_coauthor_edges,duplicate_version_edges,citation_t_0,panel_order,line_order
+clementpitclaudel,Clément Pit-Claudel,PLDI,2024,13,9,2,7,9,1,3,4,13.0,1,1
+clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,2025,9,8,0,1,8,0,1,1,9.0,1,2
+viktorkuncak,Viktor Kunčak,OOPSLA,2020,20,11,0,1,11,0,0,9,20.0,2,1
+viktorkuncak,Viktor Kunčak,PLDI,2021,18,6,0,0,6,0,0,12,18.0,2,2
+peterthiemann,Peter Thiemann,ICFP,2023,8,3,4,4,3,1,1,5,8.0,3,1
+simonjgay,Simon J. Gay,ICFP,2023,11,4,2,2,4,1,1,7,11.0,4,1
+martinelsman,Martin Elsman,ICFP,2024,8,4,4,4,4,1,1,4,8.0,5,1
+ezgicicek,Ezgi Çiçek,ICFP,2019,7,2,0,5,2,0,1,5,7.0,6,1
+brandonlucia,Brandon Lucia,OOPSLA,2019,24,5,13,14,5,1,2,19,24.0,7,1
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,2024,16,8,0,1,8,0,1,8,16.0,8,1
+fritzhenglein,Fritz Henglein,POPL,2024,13,8,0,0,8,0,0,5,13.0,9,1
+malgorzatabiernacka,Malgorzata Biernacka,ICFP,2022,4,1,4,4,1,1,1,3,4.0,10,1

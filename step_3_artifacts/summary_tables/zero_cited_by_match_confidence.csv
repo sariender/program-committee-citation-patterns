@@ -1,0 +1,4 @@
+match_confidence,citation_rows,zero_rows,pc_researchers,mean_citations,median_citations,zero_researchers,zero_share
+GREEN,681,146,278,4.130690161527166,2.0,107,0.2143906020558003
+RED,382,83,151,4.722513089005235,3.0,55,0.21727748691099477
+YELLOW,1422,266,510,5.880450070323488,3.0,202,0.18706047819971872

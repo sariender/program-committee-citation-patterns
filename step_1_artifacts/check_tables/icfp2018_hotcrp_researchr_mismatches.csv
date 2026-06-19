@@ -1,0 +1,3 @@
+conference,year,name_norm,name_hotcrp,name_canonical_hotcrp,affiliation_hotcrp,on_hotcrp,name_pc,name_canonical_pc,affiliation_pc,on_pc,name_epc,name_canonical_epc,affiliation_epc,on_epc,name_erc,name_canonical_erc,affiliation_erc,on_erc,name_canonical,on_researchr_any,category
+ICFP,2018,ryan r newton,Ryan Newton,Ryan R. Newton,Indiana University,True,,,,False,,,,False,,,,False,Ryan R. Newton,False,HotCRP only
+ICFP,2018,simon marlow,Simon Marlow,Simon Marlow,Facebook,True,,,,False,,,,False,,,,False,Simon Marlow,False,HotCRP only

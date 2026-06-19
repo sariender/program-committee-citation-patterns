@@ -1,0 +1,1838 @@
+researcher_id,name,conference,first_in_panel,first_observed_from_sources,source_verified_first_pc,source_verified_first_broad,source_observed_before_panel
+aaronbembenek,Aaron Bembenek,PLDI,2025,2025.0,2025.0,2025.0,False
+aaronstump,Aaron Stump,POPL,2019,2019.0,2019.0,2005.0,False
+abhinavverma1,Abhinav Verma,PLDI,2023,2023.0,2023.0,2023.0,False
+adamchlipala,Adam Chlipala,ICFP,2017,2017.0,2011.0,2008.0,False
+adamchlipala,Adam Chlipala,PLDI,2018,2018.0,2018.0,2008.0,False
+adamchlipala,Adam Chlipala,POPL,2021,2017.0,2012.0,2008.0,True
+adamwelc,Adam Welc,OOPSLA,2020,2020.0,2020.0,2006.0,False
+adityakanade,Aditya Kanade,PLDI,2018,2018.0,2018.0,2008.0,False
+adityavthakur,Aditya V. Thakur,PLDI,2022,2022.0,2022.0,2016.0,False
+adityavthakur,Aditya V. Thakur,POPL,2022,2022.0,2022.0,2022.0,False
+adriansampson,Adrian Sampson,OOPSLA,2018,2018.0,2018.0,2016.0,False
+adriansampson,Adrian Sampson,PLDI,2020,2020.0,2016.0,2012.0,False
+aggelosbiboudis,Aggelos Biboudis,ICFP,2023,2023.0,2023.0,2023.0,False
+ahmedbouajjani,Ahmed Bouajjani,POPL,2021,2021.0,2014.0,2006.0,False
+ainalinngeorges,Aina Linn Georges,ICFP,2025,2025.0,2025.0,2025.0,False
+akashlal,Akash Lal,PLDI,2020,2020.0,2020.0,2020.0,False
+akashlal,Akash Lal,POPL,2023,2017.0,2017.0,2007.0,True
+akimasamorihata,Akimasa Morihata,ICFP,2021,2021.0,2021.0,2008.0,False
+alanjeffrey1,Alan Jeffrey,ICFP,2017,2017.0,2013.0,2010.0,False
+alanjeffrey1,Alan Jeffrey,POPL,2019,2019.0,2005.0,2005.0,False
+alanschmitt,Alan Schmitt,POPL,2021,2021.0,2021.0,2009.0,False
+alastairdonaldson,Alastair F. Donaldson,OOPSLA,2018,2018.0,2018.0,2016.0,False
+alastairdonaldson,Alastair F. Donaldson,PLDI,2019,2019.0,2019.0,2013.0,False
+alastairdonaldson,Alastair F. Donaldson,POPL,2020,2020.0,2015.0,2015.0,False
+alastairreid,Alastair Reid,PLDI,2023,2023.0,2023.0,2018.0,False
+albertcohen,Albert Cohen,OOPSLA1,2023,2023.0,2023.0,2021.0,False
+albertcohen,Albert Cohen,OOPSLA2,2023,2023.0,2023.0,2021.0,False
+albertcohen,Albert Cohen,PLDI,2021,2021.0,2011.0,2008.0,False
+albertcohen,Albert Cohen,POPL,2025,2025.0,2025.0,2008.0,False
+alcidesfonseca,Alcides Fonseca,PLDI,2023,2023.0,2023.0,2022.0,False
+alejandroaguirre1,Alejandro Aguirre,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+alejandroaguirre1,Alejandro Aguirre,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+alejandroaguirre1,Alejandro Aguirre,POPL,2024,2024.0,2024.0,2024.0,False
+alejandrorusso,Alejandro Russo,ICFP,2018,2018.0,2018.0,2010.0,False
+aleksandarnanevski,Aleksandar Nanevski,OOPSLA1,2024,2024.0,2024.0,2009.0,False
+aleksandarnanevski,Aleksandar Nanevski,OOPSLA2,2024,2024.0,2024.0,2009.0,False
+aleksandarnanevski,Aleksandar Nanevski,POPL,2018,2018.0,2018.0,2007.0,False
+alexanderbakst,Alexander Bakst,PLDI,2025,2025.0,2025.0,2014.0,False
+alexanderjsummers,Alexander J. Summers,OOPSLA,2021,2021.0,2013.0,2009.0,False
+alexanderjsummers,Alexander J. Summers,OOPSLA1,2024,2021.0,2013.0,2009.0,True
+alexanderjsummers,Alexander J. Summers,OOPSLA2,2024,2021.0,2013.0,2009.0,True
+alexanderklew,Alexander K. Lew,PLDI,2025,2025.0,2025.0,2025.0,False
+alexandrabugariu,Alexandra Bugariu,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+alexandrabugariu,Alexandra Bugariu,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+alexandrajimborean,Alexandra Jimborean,PLDI,2020,2020.0,2020.0,2019.0,False
+alexandrasilva,Alexandra Silva,ICFP,2017,2017.0,2017.0,2013.0,False
+alexandrasilva,Alexandra Silva,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+alexandrasilva,Alexandra Silva,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+alexandrasilva,Alexandra Silva,PLDI,2017,2017.0,2017.0,2017.0,False
+alexandrasilva,Alexandra Silva,POPL,2020,2020.0,2016.0,2011.0,False
+alexandremoine,Alexandre Moine,ICFP,2025,2025.0,2025.0,2025.0,False
+alexavanhattum1,Alexa VanHattum,PLDI,2025,2025.0,2025.0,2024.0,False
+alexeygotsman,Alexey Gotsman,POPL,2020,2020.0,2016.0,2007.0,False
+alexeyloginov,Alexey Loginov,PLDI,2023,2023.0,2023.0,2023.0,False
+alexkavvos,Alex Kavvos,ICFP,2025,2025.0,2025.0,2025.0,False
+alexkavvos,Alex Kavvos,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+alexkavvos,Alex Kavvos,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+alexkavvos,Alex Kavvos,POPL,2022,2022.0,2022.0,2022.0,False
+alexpotanin,Alex Potanin,OOPSLA,2019,2019.0,2014.0,2008.0,False
+alexpotanin,Alex Potanin,OOPSLA1,2024,2019.0,2014.0,2008.0,True
+alexpotanin,Alex Potanin,OOPSLA2,2024,2019.0,2014.0,2008.0,True
+alexpotanin,Alex Potanin,PLDI,2025,2025.0,2025.0,2015.0,False
+alexreinking1,Alex Reinking,PLDI,2025,2025.0,2025.0,2025.0,False
+alexsanchezstern2,Alex Sanchez-Stern,PLDI,2024,2024.0,2024.0,2024.0,False
+alvincheung,Alvin Cheung,OOPSLA1,2022,2022.0,2022.0,2015.0,False
+alvincheung,Alvin Cheung,OOPSLA2,2022,2022.0,2022.0,2015.0,False
+alvincheung,Alvin Cheung,PLDI,2017,2017.0,2017.0,2016.0,False
+alvincheung,Alvin Cheung,POPL,2022,2022.0,2022.0,2022.0,False
+amalahmed,Amal Ahmed,OOPSLA,2020,2020.0,2020.0,2020.0,False
+amalahmed,Amal Ahmed,OOPSLA1,2022,2020.0,2020.0,2020.0,True
+amalahmed,Amal Ahmed,OOPSLA2,2022,2020.0,2020.0,2020.0,True
+amalahmed,Amal Ahmed,PLDI,2019,2019.0,2019.0,2011.0,False
+amalahmed,Amal Ahmed,POPL,2022,2022.0,2008.0,2006.0,False
+amintimany,Amin Timany,ICFP,2021,2021.0,2021.0,2021.0,False
+amintimany,Amin Timany,PLDI,2025,2025.0,2025.0,2019.0,False
+amintimany,Amin Timany,POPL,2024,2024.0,2024.0,2020.0,False
+amirkafshdargoharshady1,Amir K. Goharshady,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+amirkafshdargoharshady1,Amir K. Goharshady,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+amosrobinson,Amos Robinson,ICFP,2023,2023.0,2023.0,2023.0,False
+amrsabry,Amr Sabry,POPL,2018,2018.0,2010.0,2005.0,False
+anamilanova,Ana Milanova,OOPSLA,2017,2017.0,2007.0,2007.0,False
+anamilanova,Ana Milanova,OOPSLA1,2022,2017.0,2007.0,2007.0,True
+anamilanova,Ana Milanova,OOPSLA2,2022,2017.0,2007.0,2007.0,True
+anamilanova,Ana Milanova,PLDI,2022,2022.0,2010.0,2007.0,False
+anasokolova,Ana Sokolova,POPL,2021,2021.0,2021.0,2014.0,False
+andersmiltner1,Anders Miltner,PLDI,2022,2022.0,2022.0,2017.0,False
+andersmoller,Anders Møller,OOPSLA,2018,2018.0,2014.0,2014.0,False
+andersmoller,Anders Møller,OOPSLA1,2023,2018.0,2014.0,2014.0,True
+andersmoller,Anders Møller,OOPSLA2,2023,2018.0,2014.0,2014.0,True
+andersmoller,Anders Møller,PLDI,2017,2017.0,2014.0,2011.0,False
+andraskovacs,András Kovács,ICFP,2025,2025.0,2025.0,2025.0,False
+andreasabel,Andreas Abel,ICFP,2020,2020.0,2020.0,2013.0,False
+andreasabel,Andreas Abel,POPL,2019,2019.0,2015.0,2005.0,False
+andreaspavlogiannis1,Andreas Pavlogiannis,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+andreaspavlogiannis1,Andreas Pavlogiannis,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+andreaspavlogiannis1,Andreas Pavlogiannis,POPL,2021,2021.0,2021.0,2020.0,False
+andreaspodelski,Andreas Podelski,POPL,2019,2019.0,2006.0,2006.0,False
+andreasrossberg,Andreas Rossberg,OOPSLA1,2022,2022.0,2022.0,2010.0,False
+andreasrossberg,Andreas Rossberg,OOPSLA2,2022,2022.0,2022.0,2010.0,False
+andreasrossberg,Andreas Rossberg,PLDI,2018,2018.0,2018.0,2018.0,False
+andreaszeller,Andreas Zeller,OOPSLA1,2024,2024.0,2008.0,2008.0,False
+andreaszeller,Andreas Zeller,OOPSLA2,2024,2024.0,2008.0,2008.0,False
+andreaszeller,Andreas Zeller,PLDI,2017,2017.0,2017.0,2017.0,False
+andreavezzosi2,Andrea Vezzosi,ICFP,2024,2024.0,2024.0,2015.0,False
+andreeacostea,Andreea Costea,ICFP,2023,2023.0,2023.0,2023.0,False
+andreipopescu,Andrei Popescu,POPL,2024,2024.0,2024.0,2024.0,False
+andrejbauer,Andrej Bauer,POPL,2020,2020.0,2016.0,2016.0,False
+andreplatzer,André Platzer,PLDI,2025,2025.0,2025.0,2025.0,False
+andreserbsen,Andres Erbsen,PLDI,2024,2024.0,2024.0,2024.0,False
+andresgoens1,Andrés Goens,PLDI,2025,2025.0,2025.0,2025.0,False
+andresloh,Andres Löh,ICFP,2022,2022.0,2006.0,2005.0,False
+andrewadams,Andrew Adams,PLDI,2025,2025.0,2025.0,2025.0,False
+andrewappel,Andrew W. Appel,POPL,2020,2020.0,2009.0,2008.0,False
+andrewdgordon,Andrew D. Gordon,ICFP,2021,2021.0,2021.0,2020.0,False
+andrewdgordon,Andrew D. Gordon,OOPSLA1,2023,2023.0,2023.0,2019.0,False
+andrewdgordon,Andrew D. Gordon,OOPSLA2,2023,2023.0,2023.0,2019.0,False
+andrewkennedy,Andrew Kennedy,ICFP,2019,2019.0,2008.0,2005.0,False
+andrewkennedy,Andrew Kennedy,POPL,2022,2022.0,2005.0,2005.0,False
+andrewkhirsch,Andrew K. Hirsch,ICFP,2023,2023.0,2023.0,2023.0,False
+andrewkhirsch,Andrew K. Hirsch,POPL,2024,2024.0,2024.0,2021.0,False
+andrewlumsdaine1,Andrew Lumsdaine,PLDI,2025,2025.0,2025.0,2014.0,False
+andrewmyers,Andrew Myers,OOPSLA,2021,2021.0,2006.0,2006.0,False
+andrewmyers,Andrew Myers,POPL,2018,2017.0,2005.0,2005.0,True
+andrewpitts,Andrew M. Pitts,POPL,2024,2024.0,2012.0,2011.0,False
+andrewtolmach,Andrew Tolmach,POPL,2019,2019.0,2019.0,2017.0,False
+andreyrybalchenko,Andrey Rybalchenko,PLDI,2017,2017.0,2017.0,2010.0,False
+andreyrybalchenko,Andrey Rybalchenko,POPL,2018,2018.0,2010.0,2007.0,False
+andrzejfilinski,Andrzej Filinski,ICFP,2025,2025.0,2009.0,2006.0,False
+andrzejmurawski,Andrzej Murawski,POPL,2020,2020.0,2013.0,2010.0,False
+andygill,Andy Gill,ICFP,2023,2023.0,2010.0,2005.0,False
+angelicamoreira,Angelica Moreira,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+angelicamoreira,Angelica Moreira,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+angli,Ang Li,PLDI,2025,2025.0,2025.0,2025.0,False
+anilmadhavapeddy,Anil Madhavapeddy,PLDI,2021,2021.0,2021.0,2019.0,False
+anithagollamudi,Anitha Gollamudi,OOPSLA1,2023,2023.0,2023.0,2020.0,False
+anithagollamudi,Anitha Gollamudi,OOPSLA2,2023,2023.0,2023.0,2020.0,False
+anithagollamudi,Anitha Gollamudi,PLDI,2025,2025.0,2025.0,2023.0,False
+ankushdas1,Ankush Das,PLDI,2025,2025.0,2025.0,2019.0,False
+ankushdas1,Ankush Das,POPL,2024,2024.0,2024.0,2024.0,False
+ankushdesai1,Ankush Desai,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+ankushdesai1,Ankush Desai,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+annettebieniusa,Annette Bieniusa,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+annettebieniusa,Annette Bieniusa,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+annettebieniusa,Annette Bieniusa,POPL,2021,2021.0,2021.0,2008.0,False
+anthonywidjajalin,Anthony Widjaja Lin,POPL,2022,2022.0,2022.0,2022.0,False
+antonpodkopaev,Anton Podkopaev,POPL,2024,2024.0,2024.0,2024.0,False
+anupamdas,Anupam Das,ICFP,2025,2025.0,2025.0,2025.0,False
+aravindmachiry,Aravind Machiry,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+aravindmachiry,Aravind Machiry,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+arielkellison,Ariel E. Kellison,PLDI,2025,2025.0,2025.0,2025.0,False
+aritrasengupta,Aritra Sengupta,OOPSLA,2020,2020.0,2020.0,2020.0,False
+arjunguha,Arjun Guha,ICFP,2021,2021.0,2021.0,2012.0,False
+arjunguha,Arjun Guha,OOPSLA,2021,2021.0,2021.0,2010.0,False
+arjunguha,Arjun Guha,OOPSLA1,2023,2021.0,2021.0,2010.0,True
+arjunguha,Arjun Guha,OOPSLA2,2023,2021.0,2021.0,2010.0,True
+arjunguha,Arjun Guha,PLDI,2018,2018.0,2016.0,2013.0,False
+arjunguha,Arjun Guha,POPL,2020,2020.0,2015.0,2014.0,False
+arjunradhakrishna,Arjun Radhakrishna,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+arjunradhakrishna,Arjun Radhakrishna,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+arjunradhakrishna,Arjun Radhakrishna,PLDI,2022,2022.0,2022.0,2016.0,False
+arjunradhakrishna,Arjun Radhakrishna,POPL,2021,2021.0,2021.0,2016.0,False
+armandosolarlezama,Armando Solar-Lezama,ICFP,2023,2023.0,2023.0,2023.0,False
+armandosolarlezama,Armando Solar-Lezama,OOPSLA,2018,2018.0,2018.0,2013.0,False
+armandosolarlezama,Armando Solar-Lezama,OOPSLA1,2023,2018.0,2018.0,2013.0,True
+armandosolarlezama,Armando Solar-Lezama,OOPSLA2,2023,2018.0,2018.0,2013.0,True
+armandosolarlezama,Armando Solar-Lezama,PLDI,2021,2021.0,2010.0,2010.0,False
+armandosolarlezama,Armando Solar-Lezama,POPL,2020,2020.0,2020.0,2006.0,False
+arnaudspiwack,Arnaud Spiwack,ICFP,2023,2023.0,2023.0,2023.0,False
+artemkhyzha1,Artem Khyzha,POPL,2025,2025.0,2025.0,2025.0,False
+artempelenitsyn,Artem Pelenitsyn,PLDI,2025,2025.0,2025.0,2025.0,False
+arthurazevedodeamorim,Arthur Azevedo de Amorim,ICFP,2022,2022.0,2022.0,2015.0,False
+arthurazevedodeamorim,Arthur Azevedo de Amorim,POPL,2020,2020.0,2020.0,2017.0,False
+arthurchargueraud,Arthur Charguéraud,ICFP,2024,2024.0,2024.0,2010.0,False
+arthurchargueraud,Arthur Charguéraud,OOPSLA,2019,2019.0,2019.0,2019.0,False
+arthurchargueraud,Arthur Charguéraud,PLDI,2025,2025.0,2025.0,2015.0,False
+arthurchargueraud,Arthur Charguéraud,POPL,2020,2020.0,2015.0,2015.0,False
+aseemrastogi,Aseem Rastogi,OOPSLA1,2022,2022.0,2022.0,2014.0,False
+aseemrastogi,Aseem Rastogi,OOPSLA2,2022,2022.0,2022.0,2014.0,False
+aseemrastogi,Aseem Rastogi,PLDI,2024,2024.0,2024.0,2016.0,False
+aseemrastogi,Aseem Rastogi,POPL,2018,2018.0,2018.0,2017.0,False
+ashishtiwari,Ashish Tiwari,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+ashishtiwari,Ashish Tiwari,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+aslanaskarov,Aslan Askarov,PLDI,2025,2025.0,2025.0,2010.0,False
+assiamahboubi,Assia Mahboubi,ICFP,2022,2022.0,2022.0,2022.0,False
+assiamahboubi,Assia Mahboubi,POPL,2024,2024.0,2024.0,2024.0,False
+atsushiigarashi,Atsushi Igarashi,OOPSLA,2017,2017.0,2011.0,2007.0,False
+atsushiigarashi,Atsushi Igarashi,OOPSLA1,2022,2017.0,2011.0,2007.0,True
+atsushiigarashi,Atsushi Igarashi,OOPSLA2,2022,2017.0,2011.0,2007.0,True
+atsushiigarashi,Atsushi Igarashi,POPL,2018,2018.0,2009.0,2005.0,False
+atsushiohori,Atsushi Ohori,ICFP,2020,2020.0,2009.0,2006.0,False
+aurelebarriere,Aurèle Barrière,ICFP,2025,2025.0,2025.0,2025.0,False
+avikchaudhuri,Avik Chaudhuri,PLDI,2018,2018.0,2018.0,2018.0,False
+awsalbarghouthi,Aws Albarghouthi,OOPSLA1,2022,2022.0,2022.0,2019.0,False
+awsalbarghouthi,Aws Albarghouthi,OOPSLA2,2022,2022.0,2022.0,2019.0,False
+awsalbarghouthi,Aws Albarghouthi,PLDI,2020,2020.0,2020.0,2014.0,False
+awsalbarghouthi,Aws Albarghouthi,POPL,2019,2019.0,2019.0,2015.0,False
+ayalzaks,Ayal Zaks,PLDI,2019,2019.0,2019.0,2017.0,False
+aymericfromherz,Aymeric Fromherz,POPL,2024,2024.0,2024.0,2024.0,False
+azadehfarzan,Azadeh Farzan,POPL,2018,2018.0,2011.0,2011.0,False
+azalearaad,Azalea Raad,ICFP,2022,2022.0,2022.0,2022.0,False
+azalearaad,Azalea Raad,OOPSLA,2020,2020.0,2020.0,2020.0,False
+azalearaad,Azalea Raad,OOPSLA1,2025,2020.0,2020.0,2020.0,True
+azalearaad,Azalea Raad,OOPSLA2,2025,2020.0,2020.0,2020.0,True
+azalearaad,Azalea Raad,PLDI,2021,2021.0,2021.0,2019.0,False
+azalearaad,Azalea Raad,POPL,2020,2020.0,2020.0,2016.0,False
+baberrehman,Baber Rehman,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+baberrehman,Baber Rehman,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+bariskasikci,Baris Kasikci,PLDI,2022,2022.0,2022.0,2022.0,False
+bartjacobs,Bart Jacobs,POPL,2021,2017.0,2017.0,2005.0,True
+basspitters,Bas Spitters,POPL,2022,2022.0,2022.0,2012.0,False
+bengreenman,Ben Greenman,ICFP,2021,2021.0,2021.0,2018.0,False
+bengreenman,Ben Greenman,OOPSLA1,2025,2025.0,2025.0,2016.0,False
+bengreenman,Ben Greenman,OOPSLA2,2025,2025.0,2025.0,2016.0,False
+bengreenman,Ben Greenman,PLDI,2021,2021.0,2021.0,2021.0,False
+benhardekopf,Ben Hardekopf,OOPSLA1,2025,2025.0,2025.0,2020.0,False
+benhardekopf,Ben Hardekopf,OOPSLA2,2025,2025.0,2025.0,2020.0,False
+benhardekopf,Ben Hardekopf,PLDI,2021,2021.0,2015.0,2007.0,False
+benhermann,Ben Hermann,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+benhermann,Ben Hermann,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+beniaminoaccattoli,Beniamino Accattoli,ICFP,2024,2024.0,2024.0,2021.0,False
+benjaminchung,Benjamin Chung,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+benjaminchung,Benjamin Chung,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+benjamincpierce,Benjamin C. Pierce,ICFP,2023,2023.0,2005.0,2005.0,False
+benjamincpierce,Benjamin C. Pierce,OOPSLA1,2023,2023.0,2010.0,2006.0,False
+benjamincpierce,Benjamin C. Pierce,OOPSLA2,2023,2023.0,2010.0,2006.0,False
+benjamincpierce,Benjamin C. Pierce,PLDI,2025,2025.0,2025.0,2010.0,False
+benjamincpierce,Benjamin C. Pierce,POPL,2023,2023.0,2009.0,2005.0,False
+benjamindelaware,Benjamin Delaware,OOPSLA1,2024,2024.0,2024.0,2013.0,False
+benjamindelaware,Benjamin Delaware,OOPSLA2,2024,2024.0,2024.0,2013.0,False
+benjamindelaware,Benjamin Delaware,PLDI,2023,2023.0,2023.0,2023.0,False
+benjamindelaware,Benjamin Delaware,POPL,2019,2019.0,2019.0,2017.0,False
+benjaminlivshits1,Benjamin Livshits,PLDI,2018,2018.0,2011.0,2008.0,False
+benjaminlucienkaminski,Benjamin Lucien Kaminski,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+benjaminlucienkaminski,Benjamin Lucien Kaminski,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+benjaminlucienkaminski,Benjamin Lucien Kaminski,POPL,2022,2022.0,2022.0,2017.0,False
+benliblit,Ben Liblit,PLDI,2021,2021.0,2010.0,2007.0,False
+benlippmeier,Ben Lippmeier,ICFP,2017,2017.0,2017.0,2014.0,False
+benltitzer,Ben L. Titzer,OOPSLA1,2024,2024.0,2024.0,2006.0,False
+benltitzer,Ben L. Titzer,OOPSLA2,2024,2024.0,2024.0,2006.0,False
+benltitzer,Ben L. Titzer,PLDI,2019,2019.0,2019.0,2018.0,False
+benltitzer,Ben L. Titzer,POPL,2024,2024.0,2024.0,2017.0,False
+benoitvaliron1,Benoît Valiron,PLDI,2025,2025.0,2023.0,2023.0,False
+benzorn,Ben Zorn,PLDI,2021,2021.0,2014.0,2007.0,False
+bernardotoninho,Bernardo Toninho,ICFP,2022,2022.0,2022.0,2012.0,False
+bernardotoninho,Bernardo Toninho,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+bernardotoninho,Bernardo Toninho,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+berndfinkbeiner,Bernd Finkbeiner,POPL,2024,2024.0,2024.0,2021.0,False
+bernhardscholz1,Bernhard Scholz,OOPSLA1,2024,2024.0,2024.0,2018.0,False
+bernhardscholz1,Bernhard Scholz,OOPSLA2,2024,2024.0,2024.0,2018.0,False
+betaziliani,Beta Ziliani,ICFP,2017,2017.0,2017.0,2014.0,False
+betaziliani,Beta Ziliani,POPL,2020,2020.0,2020.0,2016.0,False
+billharris,Bill Harris,PLDI,2025,2025.0,2025.0,2016.0,False
+boryuhevanchang,Bor-Yuh Evan Chang,OOPSLA,2019,2019.0,2019.0,2019.0,False
+boryuhevanchang,Bor-Yuh Evan Chang,OOPSLA1,2024,2019.0,2019.0,2019.0,True
+boryuhevanchang,Bor-Yuh Evan Chang,OOPSLA2,2024,2019.0,2019.0,2019.0,True
+boryuhevanchang,Bor-Yuh Evan Chang,PLDI,2017,2017.0,2017.0,2009.0,False
+boryuhevanchang,Bor-Yuh Evan Chang,POPL,2020,2020.0,2015.0,2005.0,False
+brandonlucia,Brandon Lucia,OOPSLA,2019,2019.0,2019.0,2014.0,False
+brandonlucia,Brandon Lucia,PLDI,2021,2021.0,2016.0,2011.0,False
+brentyorgey,Brent Yorgey,ICFP,2024,2024.0,2024.0,2018.0,False
+briandemsky,Brian Demsky,PLDI,2022,2022.0,2022.0,2008.0,False
+brianhempel,Brian Hempel,PLDI,2025,2025.0,2025.0,2018.0,False
+brigittepientka,Brigitte Pientka,ICFP,2021,2021.0,2008.0,2005.0,False
+brigittepientka,Brigitte Pientka,POPL,2023,2023.0,2015.0,2011.0,False
+brunooliveira,Bruno C. d. S. Oliveira,ICFP,2019,2019.0,2019.0,2006.0,False
+brunooliveira,Bruno C. d. S. Oliveira,OOPSLA,2020,2020.0,2011.0,2010.0,False
+brunooliveira,Bruno C. d. S. Oliveira,OOPSLA1,2023,2020.0,2011.0,2010.0,True
+brunooliveira,Bruno C. d. S. Oliveira,OOPSLA2,2023,2020.0,2011.0,2010.0,True
+burcukulahciogluozkan,Burcu Kulahcioglu Ozkan,OOPSLA1,2023,2023.0,2023.0,2020.0,False
+burcukulahciogluozkan,Burcu Kulahcioglu Ozkan,OOPSLA2,2023,2023.0,2023.0,2020.0,False
+caitlinsadowski,Caitlin Sadowski,OOPSLA,2018,2018.0,2014.0,2012.0,False
+caitlinsadowski,Caitlin Sadowski,PLDI,2021,2021.0,2016.0,2014.0,False
+calebstanford,Caleb Stanford,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+calebstanford,Caleb Stanford,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+calebstanford,Caleb Stanford,PLDI,2024,2024.0,2024.0,2024.0,False
+calincascaval,Calin Cascaval,PLDI,2023,2023.0,2014.0,2014.0,False
+calvinsmith,Calvin Smith,PLDI,2022,2022.0,2022.0,2022.0,False
+cameronfreer,Cameron Freer,POPL,2024,2024.0,2024.0,2020.0,False
+camildemetrescu,Camil Demetrescu,PLDI,2019,2019.0,2019.0,2019.0,False
+carlaferreira,Carla Ferreira,POPL,2024,2024.0,2024.0,2024.0,False
+carloangiuli,Carlo Angiuli,POPL,2024,2024.0,2024.0,2021.0,False
+carolinelemieux,Caroline Lemieux,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+carolinelemieux,Caroline Lemieux,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+carolinelemieux,Caroline Lemieux,PLDI,2022,2022.0,2022.0,2022.0,False
+casperbach,Casper Bach,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+casperbach,Casper Bach,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+casperbach,Casper Bach,POPL,2024,2024.0,2024.0,2024.0,False
+catalinhritcu,Cătălin Hriţcu,ICFP,2025,2025.0,2025.0,2011.0,False
+catalinhritcu,Cătălin Hriţcu,POPL,2024,2017.0,2017.0,2017.0,True
+caterinaurban,Caterina Urban,POPL,2022,2022.0,2022.0,2020.0,False
+cedricfournet,Cédric Fournet,POPL,2020,2020.0,2015.0,2005.0,False
+cezaradragoi,Cezara Drăgoi,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+cezaradragoi,Cezara Drăgoi,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+cezaradragoi,Cezara Drăgoi,PLDI,2017,2017.0,2017.0,2017.0,False
+cezaradragoi,Cezara Drăgoi,POPL,2020,2020.0,2020.0,2010.0,False
+chandrakananandi,Chandrakana Nandi,PLDI,2022,2022.0,2022.0,2022.0,False
+chandrakrintz,Chandra Krintz,OOPSLA,2020,2020.0,2009.0,2007.0,False
+chaowang3,Chao Wang,PLDI,2023,2023.0,2023.0,2023.0,False
+charithmendis1,Charith Mendis,PLDI,2022,2022.0,2022.0,2022.0,False
+charlessutton,Charles Sutton,OOPSLA1,2023,2023.0,2023.0,2016.0,False
+charlessutton,Charles Sutton,OOPSLA2,2023,2023.0,2023.0,2016.0,False
+charlessutton,Charles Sutton,PLDI,2017,2017.0,2017.0,2017.0,False
+charliecurtsinger,Charlie Curtsinger,PLDI,2021,2021.0,2016.0,2014.0,False
+charliemurphy1,Charlie Murphy,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+charliemurphy1,Charlie Murphy,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+chending,Chen Ding,PLDI,2024,2024.0,2005.0,2005.0,False
+chenglongwang,Chenglong Wang,PLDI,2022,2022.0,2022.0,2022.0,False
+chenxiwang1,Chenxi Wang,PLDI,2025,2025.0,2025.0,2025.0,False
+chriscasinghino1,Chris Casinghino,PLDI,2025,2025.0,2025.0,2025.0,False
+chrisfallin,Chris Fallin,PLDI,2025,2025.0,2025.0,2025.0,False
+chrishawblitzel,Chris Hawblitzel,PLDI,2025,2025.0,2025.0,2011.0,False
+chrismartens,Chris Martens,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+chrismartens,Chris Martens,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+chrisseaton,Chris Seaton,PLDI,2020,2020.0,2020.0,2019.0,False
+christiankastner,Christian Kästner,OOPSLA1,2025,2025.0,2013.0,2013.0,False
+christiankastner,Christian Kästner,OOPSLA2,2025,2025.0,2013.0,2013.0,False
+christianwimmer,Christian Wimmer,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+christianwimmer,Christian Wimmer,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+christianwimmer,Christian Wimmer,PLDI,2024,2024.0,2018.0,2011.0,False
+christinerizkallah,Christine Rizkallah,ICFP,2021,2021.0,2021.0,2018.0,False
+christinerizkallah,Christine Rizkallah,POPL,2024,2024.0,2024.0,2024.0,False
+christinetasson,Christine Tasson,ICFP,2025,2025.0,2025.0,2025.0,False
+christinetasson,Christine Tasson,POPL,2020,2020.0,2020.0,2020.0,False
+christopherpulte,Christopher Pulte,POPL,2023,2023.0,2023.0,2023.0,False
+christophmatheja,Christoph Matheja,POPL,2023,2023.0,2023.0,2022.0,False
+christosdimoulas1,Christos Dimoulas,ICFP,2019,2019.0,2019.0,2008.0,False
+christosdimoulas1,Christos Dimoulas,OOPSLA1,2022,2022.0,2022.0,2014.0,False
+christosdimoulas1,Christos Dimoulas,OOPSLA2,2022,2022.0,2022.0,2014.0,False
+christosdimoulas1,Christos Dimoulas,PLDI,2023,2023.0,2023.0,2014.0,False
+christosdimoulas1,Christos Dimoulas,POPL,2022,2022.0,2022.0,2009.0,False
+chungchiehshan,Chung-chieh Shan,ICFP,2019,2019.0,2008.0,2006.0,False
+chungchiehshan,Chung-chieh Shan,POPL,2022,2022.0,2019.0,2009.0,False
+chungkilhur,Chung-Kil Hur,ICFP,2017,2017.0,2017.0,2010.0,False
+chungkilhur,Chung-Kil Hur,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+chungkilhur,Chung-Kil Hur,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+chungkilhur,Chung-Kil Hur,PLDI,2019,2019.0,2019.0,2019.0,False
+chungkilhur,Chung-Kil Hur,POPL,2020,2020.0,2016.0,2014.0,False
+cierajaspan,Ciera Jaspan,OOPSLA,2017,2017.0,2017.0,2008.0,False
+cindyrubiogonzalez,Cindy Rubio-González,OOPSLA,2018,2018.0,2018.0,2013.0,False
+cindyrubiogonzalez,Cindy Rubio-González,OOPSLA1,2023,2018.0,2018.0,2013.0,True
+cindyrubiogonzalez,Cindy Rubio-González,OOPSLA2,2023,2018.0,2018.0,2013.0,True
+cindyrubiogonzalez,Cindy Rubio-González,PLDI,2019,2019.0,2016.0,2014.0,False
+claudiorusso,Claudio Russo,POPL,2019,2019.0,2019.0,2008.0,False
+clementpitclaudel,Clément Pit-Claudel,ICFP,2024,2024.0,2024.0,2024.0,False
+clementpitclaudel,Clément Pit-Claudel,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+clementpitclaudel,Clément Pit-Claudel,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+clementpitclaudel,Clément Pit-Claudel,PLDI,2022,2022.0,2022.0,2022.0,False
+clementpitclaudel,Clément Pit-Claudel,POPL,2023,2023.0,2023.0,2016.0,False
+coleschlesinger3,Cole Schlesinger,PLDI,2025,2025.0,2025.0,2016.0,False
+colingordon,Colin Gordon,OOPSLA,2018,2018.0,2018.0,2011.0,False
+colingordon,Colin Gordon,OOPSLA1,2024,2018.0,2018.0,2011.0,True
+colingordon,Colin Gordon,OOPSLA2,2024,2018.0,2018.0,2011.0,True
+colingordon,Colin Gordon,PLDI,2022,2022.0,2022.0,2014.0,False
+colingordon,Colin Gordon,POPL,2020,2020.0,2020.0,2014.0,False
+conormcbride,Conor McBride,POPL,2018,2018.0,2018.0,2007.0,False
+conradwatt,Conrad Watt,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+conradwatt,Conrad Watt,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+conradwatt,Conrad Watt,PLDI,2025,2025.0,2025.0,2025.0,False
+conradwatt,Conrad Watt,POPL,2023,2023.0,2023.0,2023.0,False
+constantinenea,Constantin Enea,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+constantinenea,Constantin Enea,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+constantinenea,Constantin Enea,PLDI,2022,2022.0,2022.0,2022.0,False
+constantinenea,Constantin Enea,POPL,2018,2018.0,2018.0,2010.0,False
+corinaspasareanu,Corina S. Pasareanu,OOPSLA1,2024,2024.0,2024.0,2012.0,False
+corinaspasareanu,Corina S. Pasareanu,OOPSLA2,2024,2024.0,2024.0,2012.0,False
+corinaspasareanu,Corina S. Pasareanu,PLDI,2020,2020.0,2020.0,2020.0,False
+corinaspasareanu,Corina S. Pasareanu,POPL,2023,2023.0,2016.0,2008.0,False
+cormacflanagan,Cormac Flanagan,PLDI,2021,2021.0,2005.0,2005.0,False
+cormacflanagan,Cormac Flanagan,POPL,2025,2025.0,2010.0,2006.0,False
+coskuacay1,Coşku Acay,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+coskuacay1,Coşku Acay,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+cristalopes,Crista Lopes,OOPSLA,2021,2021.0,2005.0,2005.0,False
+cristalopes,Crista Lopes,OOPSLA1,2022,2021.0,2005.0,2005.0,True
+cristalopes,Crista Lopes,OOPSLA2,2022,2021.0,2005.0,2005.0,True
+cristiancadar,Cristian Cadar,PLDI,2021,2021.0,2016.0,2016.0,False
+cyrusomar,Cyrus Omar,ICFP,2021,2021.0,2021.0,2020.0,False
+cyrusomar,Cyrus Omar,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+cyrusomar,Cyrus Omar,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+cyrusomar,Cyrus Omar,PLDI,2023,2023.0,2023.0,2023.0,False
+cyrusomar,Cyrus Omar,POPL,2025,2025.0,2025.0,2025.0,False
+daanleijen,Daan Leijen,ICFP,2019,2019.0,2009.0,2005.0,False
+daanleijen,Daan Leijen,PLDI,2025,2025.0,2025.0,2025.0,False
+dalalalrajeh1,Dalal Alrajeh,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+dalalalrajeh1,Dalal Alrajeh,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+damianomazza,Damiano Mazza,ICFP,2025,2025.0,2025.0,2011.0,False
+damienpous,Damien Pous,POPL,2023,2023.0,2023.0,2017.0,False
+damienzufferey,Damien Zufferey,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+damienzufferey,Damien Zufferey,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+damienzufferey,Damien Zufferey,POPL,2021,2021.0,2021.0,2017.0,False
+danadrachslercohen,Dana Drachsler Cohen,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+danadrachslercohen,Dana Drachsler Cohen,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+danadrachslercohen,Dana Drachsler Cohen,PLDI,2019,2019.0,2019.0,2016.0,False
+danbarowy,Dan Barowy,OOPSLA1,2025,2025.0,2025.0,2020.0,False
+danbarowy,Dan Barowy,OOPSLA2,2025,2025.0,2025.0,2020.0,False
+danbarowy,Dan Barowy,PLDI,2020,2020.0,2020.0,2014.0,False
+danelahman,Danel Ahman,POPL,2019,2019.0,2019.0,2014.0,False
+danfengzhang,Danfeng Zhang,PLDI,2021,2021.0,2021.0,2021.0,False
+danfengzhang,Danfeng Zhang,POPL,2018,2018.0,2018.0,2017.0,False
+danfrumin1,Daniel Frumin,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+danfrumin1,Daniel Frumin,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+danghica,Dan Ghica,ICFP,2025,2025.0,2025.0,2016.0,False
+dangrossman,Dan Grossman,ICFP,2022,2022.0,2016.0,2005.0,False
+dangrossman,Dan Grossman,OOPSLA1,2023,2023.0,2007.0,2006.0,False
+dangrossman,Dan Grossman,OOPSLA2,2023,2023.0,2007.0,2006.0,False
+dangrossman,Dan Grossman,PLDI,2017,2017.0,2010.0,2007.0,False
+danielapetrisan,Daniela Petrisan,ICFP,2025,2025.0,2025.0,2025.0,False
+danielgratzer,Daniel Gratzer,ICFP,2025,2025.0,2022.0,2022.0,False
+danieljackson,Daniel Jackson,OOPSLA,2021,2021.0,2021.0,2021.0,False
+danielperelman1,Daniel Perelman,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+danielperelman1,Daniel Perelman,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+danlicata,Daniel R. Licata,ICFP,2017,2017.0,2017.0,2008.0,False
+danlicata,Daniel R. Licata,POPL,2023,2023.0,2015.0,2008.0,False
+dariuszbiernacki,Dariusz Biernacki,POPL,2024,2024.0,2024.0,2024.0,False
+darkomarinov,Darko Marinov,PLDI,2021,2021.0,2021.0,2007.0,False
+darkomarinov,Darko Marinov,POPL,2025,2025.0,2025.0,2025.0,False
+davesands,Dave Sands,POPL,2018,2018.0,2009.0,2005.0,False
+davidbroman,David Broman,POPL,2022,2022.0,2022.0,2022.0,False
+davidchristiansen,David Thrane Christiansen,ICFP,2018,2018.0,2018.0,2017.0,False
+daviddarais,David Darais,ICFP,2020,2020.0,2020.0,2014.0,False
+daviddarais,David Darais,OOPSLA1,2024,2024.0,2024.0,2019.0,False
+daviddarais,David Darais,OOPSLA2,2024,2024.0,2024.0,2019.0,False
+daviddarais,David Darais,PLDI,2021,2021.0,2021.0,2016.0,False
+daviddarais,David Darais,POPL,2025,2025.0,2025.0,2016.0,False
+davideancona,Davide Ancona,OOPSLA,2021,2021.0,2016.0,2009.0,False
+davidesangiorgi,Davide Sangiorgi,POPL,2018,2018.0,2006.0,2006.0,False
+davidfbacon,David F. Bacon,PLDI,2017,2017.0,2010.0,2009.0,False
+davidgrove,David Grove,OOPSLA,2018,2018.0,2014.0,2005.0,False
+davidiaugust,David I. August,PLDI,2021,2021.0,2008.0,2007.0,False
+davidmonniaux,David Monniaux,POPL,2021,2021.0,2016.0,2007.0,False
+davidnaumann,David Naumann,POPL,2019,2019.0,2011.0,2005.0,False
+davidpearce,David J. Pearce,OOPSLA1,2024,2024.0,2024.0,2005.0,False
+davidpearce,David J. Pearce,OOPSLA2,2024,2024.0,2024.0,2005.0,False
+davidpichardie,David Pichardie,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+davidpichardie,David Pichardie,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+davidpichardie,David Pichardie,POPL,2023,2023.0,2015.0,2014.0,False
+davidvanhorn,David Van Horn,ICFP,2024,2024.0,2011.0,2010.0,False
+davidvanhorn,David Van Horn,OOPSLA,2019,2019.0,2010.0,2010.0,False
+davidvanhorn,David Van Horn,PLDI,2022,2022.0,2022.0,2018.0,False
+davidvanhorn,David Van Horn,POPL,2021,2017.0,2015.0,2009.0,True
+davidwalker,David Walker,OOPSLA1,2023,2023.0,2009.0,2009.0,False
+davidwalker,David Walker,OOPSLA2,2023,2023.0,2009.0,2009.0,False
+davidwalker,David Walker,PLDI,2024,2024.0,2010.0,2007.0,False
+davidwalker,David Walker,POPL,2018,2018.0,2013.0,2005.0,False
+deepakgarg,Deepak Garg,ICFP,2025,2025.0,2025.0,2014.0,False
+deepakgarg,Deepak Garg,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+deepakgarg,Deepak Garg,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+deepakgarg,Deepak Garg,POPL,2021,2021.0,2015.0,2015.0,False
+deianstefan,Deian Stefan,PLDI,2018,2018.0,2018.0,2018.0,False
+deliakesner,Delia Kesner,ICFP,2023,2023.0,2023.0,2020.0,False
+delphinedemange,Delphine Demange,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+delphinedemange,Delphine Demange,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+denismerigoux,Denis Merigoux,POPL,2024,2024.0,2024.0,2024.0,False
+denysshabalin,Denys Shabalin,PLDI,2025,2025.0,2025.0,2025.0,False
+derekdreyer,Derek Dreyer,OOPSLA,2018,2018.0,2018.0,2010.0,False
+derekdreyer,Derek Dreyer,OOPSLA1,2023,2018.0,2018.0,2010.0,True
+derekdreyer,Derek Dreyer,OOPSLA2,2023,2018.0,2018.0,2010.0,True
+derekdreyer,Derek Dreyer,POPL,2024,2017.0,2011.0,2005.0,True
+dexterkozen,Dexter Kozen,POPL,2021,2017.0,2017.0,2006.0,True
+dimitriosvytiniotis,Dimitrios Vytiniotis,ICFP,2022,2022.0,2013.0,2007.0,False
+dimitriosvytiniotis,Dimitrios Vytiniotis,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+dimitriosvytiniotis,Dimitrios Vytiniotis,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+dimitriosvytiniotis,Dimitrios Vytiniotis,PLDI,2018,2018.0,2018.0,2018.0,False
+dimitriosvytiniotis,Dimitrios Vytiniotis,POPL,2019,2019.0,2012.0,2006.0,False
+dimitrismitropoulos,Dimitris Mitropoulos,PLDI,2023,2023.0,2021.0,2021.0,False
+diomidisspinellis,Diomidis Spinellis,OOPSLA,2021,2021.0,2021.0,2021.0,False
+diwang,Di Wang,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+diwang,Di Wang,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+diwang,Di Wang,PLDI,2024,2024.0,2024.0,2024.0,False
+dominicorchard,Dominic Orchard,ICFP,2024,2024.0,2024.0,2011.0,False
+dominicorchard,Dominic Orchard,POPL,2019,2019.0,2019.0,2017.0,False
+dominiquedevriese,Dominique Devriese,ICFP,2017,2017.0,2017.0,2016.0,False
+dominiquedevriese,Dominique Devriese,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+dominiquedevriese,Dominique Devriese,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+dominiquedevriese,Dominique Devriese,POPL,2020,2020.0,2020.0,2016.0,False
+dorrabenkhalifa,Dorra Ben Khalifa,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+dorrabenkhalifa,Dorra Ben Khalifa,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+douglea,Doug Lea,OOPSLA,2017,2017.0,2006.0,2005.0,False
+douglea,Doug Lea,PLDI,2021,2021.0,2009.0,2009.0,False
+drewzagieboylo1,Drew Zagieboylo,PLDI,2024,2024.0,2024.0,2024.0,False
+dylanmcdermott1,Dylan McDermott,ICFP,2023,2023.0,2023.0,2023.0,False
+earlbarr,Earl T. Barr,OOPSLA1,2024,2024.0,2024.0,2013.0,False
+earlbarr,Earl T. Barr,OOPSLA2,2024,2024.0,2024.0,2013.0,False
+eddyzhengzhang,Eddy (Zheng) Zhang,PLDI,2019,2019.0,2015.0,2015.0,False
+edwardaftandilian,Eddie Aftandilian,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+edwardaftandilian,Eddie Aftandilian,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+edwardaftandilian,Eddie Aftandilian,PLDI,2017,2017.0,2017.0,2015.0,False
+edwinbrady,Edwin Brady,ICFP,2020,2020.0,2014.0,2007.0,False
+edwinbrady,Edwin Brady,OOPSLA,2021,2021.0,2021.0,2019.0,False
+eelcovisser,Eelco Visser,OOPSLA,2018,2018.0,2007.0,2007.0,False
+eijirosumii,Eijiro Sumii,ICFP,2021,2021.0,2012.0,2007.0,False
+eijirosumii,Eijiro Sumii,POPL,2023,2017.0,2008.0,2005.0,True
+ekaterinakomendantskaya,Ekaterina Komendantskaya,ICFP,2021,2021.0,2021.0,2021.0,False
+ekaterinakomendantskaya,Ekaterina Komendantskaya,POPL,2023,2023.0,2023.0,2023.0,False
+elenazucca,Elena Zucca,OOPSLA,2017,2017.0,2011.0,2009.0,False
+elenazucca,Elena Zucca,POPL,2023,2023.0,2014.0,2005.0,False
+eliotmoss,Eliot Moss,PLDI,2022,2022.0,2006.0,2006.0,False
+elisagonzalezboix,Elisa Gonzalez Boix,OOPSLA,2017,2017.0,2017.0,2010.0,False
+elisagonzalezboix,Elisa Gonzalez Boix,OOPSLA1,2023,2017.0,2017.0,2010.0,True
+elisagonzalezboix,Elisa Gonzalez Boix,OOPSLA2,2023,2017.0,2017.0,2010.0,True
+emanueledosualdo,Emanuele D'Osualdo,POPL,2024,2024.0,2024.0,2024.0,False
+emilyfirst1,Emily First,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+emilyfirst1,Emily First,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+eminatorlak,Emina Torlak,OOPSLA,2019,2019.0,2012.0,2012.0,False
+eminatorlak,Emina Torlak,PLDI,2018,2018.0,2018.0,2013.0,False
+eminatorlak,Emina Torlak,POPL,2024,2024.0,2016.0,2015.0,False
+emmasoderberg,Emma Söderberg,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+emmasoderberg,Emma Söderberg,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+emmatosch,Emma Tosch,OOPSLA1,2024,2024.0,2024.0,2021.0,False
+emmatosch,Emma Tosch,OOPSLA2,2024,2024.0,2024.0,2021.0,False
+eranyahav,Eran Yahav,PLDI,2017,2017.0,2016.0,2007.0,False
+eranyahav,Eran Yahav,POPL,2020,2020.0,2011.0,2006.0,False
+erezpetrank,Erez Petrank,OOPSLA,2017,2017.0,2016.0,2008.0,False
+erezpetrank,Erez Petrank,PLDI,2021,2021.0,2007.0,2007.0,False
+ericatkinson1,Eric Atkinson,PLDI,2025,2025.0,2025.0,2025.0,False
+ericeide,Eric Eide,PLDI,2023,2023.0,2023.0,2010.0,False
+erickoskinen,Eric Koskinen,OOPSLA,2019,2019.0,2019.0,2008.0,False
+erickoskinen,Eric Koskinen,OOPSLA1,2025,2019.0,2019.0,2008.0,True
+erickoskinen,Eric Koskinen,OOPSLA2,2025,2019.0,2019.0,2008.0,True
+erickoskinen,Eric Koskinen,PLDI,2023,2023.0,2023.0,2019.0,False
+erickoskinen,Eric Koskinen,POPL,2020,2020.0,2013.0,2008.0,False
+ericschkufza,Eric Schkufza,PLDI,2022,2022.0,2022.0,2022.0,False
+ericvanwyk,Eric Van Wyk,OOPSLA,2019,2019.0,2019.0,2012.0,False
+erikaabraham,Erika Abraham,OOPSLA,2021,2021.0,2021.0,2021.0,False
+erikmeijer,Erik Meijer,PLDI,2022,2022.0,2022.0,2022.0,False
+etanter,Éric Tanter,ICFP,2018,2018.0,2018.0,2018.0,False
+etanter,Éric Tanter,OOPSLA,2019,2019.0,2012.0,2007.0,False
+etanter,Éric Tanter,POPL,2018,2018.0,2018.0,2018.0,False
+eunsukkang,Eunsuk Kang,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+eunsukkang,Eunsuk Kang,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+evadarulova,Eva Darulova,PLDI,2018,2018.0,2018.0,2012.0,False
+evagraversen,Eva Graversen,ICFP,2025,2025.0,2025.0,2025.0,False
+evelyncontejean,Evelyne Contejean,ICFP,2024,2024.0,2024.0,2019.0,False
+ezgicicek,Ezgi Çiçek,ICFP,2019,2019.0,2019.0,2019.0,False
+fabianmuehlboeck,Fabian Muehlboeck,OOPSLA1,2024,2024.0,2024.0,2022.0,False
+fabianmuehlboeck,Fabian Muehlboeck,OOPSLA2,2024,2024.0,2024.0,2022.0,False
+fabriziomontesi,Fabrizio Montesi,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+fabriziomontesi,Fabrizio Montesi,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+fanlong,Fan Long,PLDI,2020,2020.0,2020.0,2016.0,False
+fanlong,Fan Long,POPL,2022,2022.0,2022.0,2017.0,False
+farzanehderakhshan,Farzaneh Derakhshan,ICFP,2025,2025.0,2025.0,2025.0,False
+feihe,Fei He,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+feihe,Fei He,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+felixstutz,Felix Stutz,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+felixstutz,Felix Stutz,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+ferassaad,Feras A. Saad,PLDI,2025,2025.0,2025.0,2025.0,False
+ferassaad,Feras A. Saad,POPL,2025,2025.0,2025.0,2025.0,False
+filipniksic,Filip Niksic,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+filipniksic,Filip Niksic,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+filippobonchi,Filippo Bonchi,POPL,2020,2020.0,2020.0,2016.0,False
+filipsieczkowski,Filip Sieczkowski,ICFP,2024,2024.0,2024.0,2012.0,False
+filipsieczkowski,Filip Sieczkowski,POPL,2022,2022.0,2022.0,2014.0,False
+francescodagnino1,Francesco Dagnino,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+francescodagnino1,Francesco Dagnino,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+francescogavazzo,Francesco Gavazzo,ICFP,2024,2024.0,2024.0,2024.0,False
+francescogavazzo,Francesco Gavazzo,POPL,2024,2024.0,2024.0,2024.0,False
+francescologozzo,Francesco Logozzo,PLDI,2017,2017.0,2017.0,2017.0,False
+francescoranzato,Francesco Ranzato,POPL,2020,2020.0,2013.0,2007.0,False
+francescozappanardelli,Francesco Zappa Nardelli,OOPSLA,2019,2019.0,2019.0,2011.0,False
+francescozappanardelli,Francesco Zappa Nardelli,POPL,2023,2017.0,2012.0,2006.0,True
+francoisgauthier,François Gauthier,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+francoisgauthier,François Gauthier,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+francoisgauthier,François Gauthier,PLDI,2023,2023.0,2023.0,2023.0,False
+francoispottier,François Pottier,ICFP,2018,2018.0,2018.0,2010.0,False
+francoispottier,François Pottier,POPL,2022,2022.0,2005.0,2005.0,False
+frankfu,Frank Fu,PLDI,2025,2025.0,2025.0,2025.0,False
+frankpfenning,Frank Pfenning,ICFP,2019,2019.0,2005.0,2005.0,False
+frankpfenning,Frank Pfenning,POPL,2021,2021.0,2009.0,2006.0,False
+frankpiessens,Frank Piessens,ICFP,2020,2020.0,2020.0,2020.0,False
+franktip,Frank Tip,OOPSLA,2021,2021.0,2010.0,2008.0,False
+franzfranchetti,Franz Franchetti,PLDI,2017,2017.0,2017.0,2014.0,False
+fraserbrown,Fraser Brown,PLDI,2022,2022.0,2022.0,2022.0,False
+fraserbrown,Fraser Brown,POPL,2024,2024.0,2024.0,2024.0,False
+fredrikkjolstad,Fredrik Kjolstad,OOPSLA1,2024,2024.0,2024.0,2021.0,False
+fredrikkjolstad,Fredrik Kjolstad,OOPSLA2,2024,2024.0,2024.0,2021.0,False
+fredrikkjolstad,Fredrik Kjolstad,PLDI,2021,2021.0,2021.0,2014.0,False
+fredrikkjolstad,Fredrik Kjolstad,POPL,2025,2025.0,2025.0,2025.0,False
+freekverbeek,Freek Verbeek,PLDI,2023,2023.0,2023.0,2023.0,False
+friedrichsteimann,Friedrich Steimann,OOPSLA,2019,2019.0,2019.0,2010.0,False
+fritzhenglein,Fritz Henglein,ICFP,2020,2020.0,2010.0,2010.0,False
+fritzhenglein,Fritz Henglein,POPL,2024,2024.0,2006.0,2006.0,False
+gabrieldosreis,Gabriel Dos Reis,OOPSLA,2017,2017.0,2017.0,2017.0,False
+gabrielekeller,Gabriele Keller,ICFP,2024,2024.0,2007.0,2007.0,False
+gabrielekeller,Gabriele Keller,PLDI,2019,2019.0,2019.0,2010.0,False
+gabrielevanoni,Gabriele Vanoni,POPL,2025,2025.0,2024.0,2024.0,False
+gabrielradanne,Gabriel Radanne,ICFP,2023,2023.0,2023.0,2023.0,False
+gabrielrodriguez,Gabriel Rodríguez,PLDI,2022,2022.0,2022.0,2022.0,False
+gabrielscherer,Gabriel Scherer,ICFP,2017,2017.0,2017.0,2015.0,False
+gabrielscherer,Gabriel Scherer,POPL,2019,2019.0,2019.0,2014.0,False
+gagandeepsingh,Gagandeep Singh,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+gagandeepsingh,Gagandeep Singh,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+gagandeepsingh,Gagandeep Singh,PLDI,2021,2021.0,2021.0,2021.0,False
+gagandeepsingh,Gagandeep Singh,POPL,2024,2024.0,2024.0,2020.0,False
+gailkaiser,Gail Kaiser,OOPSLA,2019,2019.0,2015.0,2015.0,False
+gailkaiser,Gail Kaiser,OOPSLA1,2022,2019.0,2015.0,2015.0,True
+gailkaiser,Gail Kaiser,OOPSLA2,2022,2019.0,2015.0,2015.0,True
+gailkaiser,Gail Kaiser,PLDI,2021,2021.0,2021.0,2020.0,False
+ganeshgopalakrishnan,Ganesh Gopalakrishnan,PLDI,2025,2025.0,2014.0,2008.0,False
+gangtan,Gang (Gary) Tan,OOPSLA1,2025,2025.0,2013.0,2007.0,False
+gangtan,Gang (Gary) Tan,OOPSLA2,2025,2025.0,2013.0,2007.0,False
+gangtan,Gang (Gary) Tan,PLDI,2023,2023.0,2023.0,2011.0,False
+gavinbierman,Gavin Bierman,OOPSLA,2021,2021.0,2021.0,2007.0,False
+gavinbierman,Gavin Bierman,POPL,2019,2019.0,2019.0,2005.0,False
+geoffreymainland,Geoffrey Mainland,ICFP,2020,2020.0,2014.0,2009.0,False
+georgzetzsche,Georg Zetzsche,POPL,2024,2024.0,2024.0,2016.0,False
+germanvidal,German Vidal,ICFP,2019,2019.0,2019.0,2012.0,False
+gerwinklein,Gerwin Klein,ICFP,2023,2023.0,2023.0,2007.0,False
+gerwinklein,Gerwin Klein,PLDI,2021,2021.0,2021.0,2021.0,False
+gilbertlouisbernstein1,Gilbert Louis Bernstein,PLDI,2025,2025.0,2025.0,2025.0,False
+gillesbarthe,Gilles Barthe,POPL,2018,2018.0,2014.0,2013.0,False
+giuseppecastagna,Giuseppe Castagna,POPL,2023,2023.0,2006.0,2006.0,False
+gorelhedin,Gorel Hedin,OOPSLA,2019,2019.0,2008.0,2007.0,False
+gorelhedin,Gorel Hedin,OOPSLA1,2023,2019.0,2008.0,2007.0,True
+gorelhedin,Gorel Hedin,OOPSLA2,2023,2019.0,2008.0,2007.0,True
+gorelhedin,Gorel Hedin,PLDI,2021,2021.0,2021.0,2021.0,False
+gowthamkaki,Gowtham Kaki,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+gowthamkaki,Gowtham Kaki,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+gowthamkaki,Gowtham Kaki,PLDI,2023,2023.0,2023.0,2017.0,False
+gowthamkaki,Gowtham Kaki,POPL,2025,2025.0,2025.0,2025.0,False
+grahamhutton,Graham Hutton,ICFP,2017,2017.0,2007.0,2007.0,False
+gregorrichards,Gregor Richards,OOPSLA,2017,2017.0,2017.0,2015.0,False
+gregorymalecha1,Gregory Malecha,POPL,2024,2024.0,2024.0,2015.0,False
+gretayorsh,Greta Yorsh,PLDI,2023,2023.0,2015.0,2007.0,False
+grigorerosu,Grigore Roşu,OOPSLA1,2024,2024.0,2015.0,2007.0,False
+grigorerosu,Grigore Roşu,OOPSLA2,2024,2024.0,2015.0,2007.0,False
+grigorerosu,Grigore Roşu,PLDI,2018,2018.0,2018.0,2007.0,False
+grigorerosu,Grigore Roşu,POPL,2018,2018.0,2018.0,2016.0,False
+grigoryfedyukovich,Grigory Fedyukovich,PLDI,2025,2025.0,2025.0,2025.0,False
+guannanwei,Guannan Wei,ICFP,2025,2025.0,2023.0,2021.0,False
+guannanwei,Guannan Wei,OOPSLA1,2025,2025.0,2025.0,2024.0,False
+guannanwei,Guannan Wei,OOPSLA2,2025,2025.0,2025.0,2024.0,False
+guannanwei,Guannan Wei,PLDI,2025,2025.0,2021.0,2021.0,False
+guidosalvaneschi,Guido Salvaneschi,OOPSLA1,2023,2023.0,2023.0,2021.0,False
+guidosalvaneschi,Guido Salvaneschi,OOPSLA2,2023,2023.0,2023.0,2021.0,False
+guilhemejaber,Guilhème Jaber,POPL,2024,2024.0,2024.0,2020.0,False
+guilhermeottoni,Guilherme Ottoni,PLDI,2024,2024.0,2016.0,2008.0,False
+guillaumeallais,Guillaume Allais,ICFP,2025,2025.0,2025.0,2024.0,False
+guillaumebaudart,Guillaume Baudart,OOPSLA1,2025,2025.0,2025.0,2023.0,False
+guillaumebaudart,Guillaume Baudart,OOPSLA2,2025,2025.0,2025.0,2023.0,False
+guillaumemelquiond,Guillaume Melquiond,ICFP,2025,2025.0,2025.0,2025.0,False
+gustavopetri,Gustavo Petri,PLDI,2021,2021.0,2021.0,2021.0,False
+gustavosoares,Gustavo Soares,OOPSLA,2021,2021.0,2021.0,2021.0,False
+guygolangueta1,Guy Gueta,PLDI,2019,2019.0,2019.0,2014.0,False
+guylsteelejr,Guy L. Steele Jr.,PLDI,2025,2025.0,2007.0,2007.0,False
+hakjoooh,Hakjoo Oh,ICFP,2025,2025.0,2025.0,2025.0,False
+hakjoooh,Hakjoo Oh,OOPSLA,2018,2018.0,2018.0,2010.0,False
+hakjoooh,Hakjoo Oh,OOPSLA1,2022,2018.0,2018.0,2010.0,True
+hakjoooh,Hakjoo Oh,OOPSLA2,2022,2018.0,2018.0,2010.0,True
+hakjoooh,Hakjoo Oh,PLDI,2022,2022.0,2022.0,2022.0,False
+hakjoooh,Hakjoo Oh,POPL,2025,2025.0,2025.0,2014.0,False
+hanjunkim1,Hanjun Kim,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+hanjunkim1,Hanjun Kim,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+hannahgommerstadt,Hannah Gommerstadt,ICFP,2023,2023.0,2023.0,2023.0,False
+hansjboehm,Hans-J. Boehm,OOPSLA,2017,2017.0,2010.0,2006.0,False
+harleydeadesiii,Harley D. Eades III,ICFP,2021,2021.0,2021.0,2021.0,False
+harrisonjgoldstein,Harrison Goldstein,PLDI,2025,2025.0,2025.0,2025.0,False
+harryxu,Guoqing Harry Xu,OOPSLA,2019,2019.0,2019.0,2019.0,False
+harryxu,Guoqing Harry Xu,PLDI,2018,2018.0,2015.0,2010.0,False
+heathermiller,Heather Miller,ICFP,2018,2018.0,2018.0,2018.0,False
+heathermiller,Heather Miller,OOPSLA,2017,2017.0,2017.0,2017.0,False
+heathermiller,Heather Miller,OOPSLA1,2023,2017.0,2017.0,2017.0,True
+heathermiller,Heather Miller,OOPSLA2,2023,2017.0,2017.0,2017.0,True
+heathermiller,Heather Miller,PLDI,2021,2021.0,2021.0,2017.0,False
+heathermiller,Heather Miller,POPL,2019,2019.0,2019.0,2015.0,False
+henriknilsson,Henrik Nilsson,ICFP,2018,2018.0,2008.0,2006.0,False
+hezhu,He Zhu,OOPSLA1,2022,2022.0,2022.0,2020.0,False
+hezhu,He Zhu,OOPSLA2,2022,2022.0,2022.0,2020.0,False
+hezhu,He Zhu,PLDI,2021,2021.0,2021.0,2021.0,False
+hidehikomasuhara,Hidehiko Masuhara,OOPSLA1,2023,2023.0,2008.0,2008.0,False
+hidehikomasuhara,Hidehiko Masuhara,OOPSLA2,2023,2023.0,2008.0,2008.0,False
+hilapeleg,Hila Peleg,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+hilapeleg,Hila Peleg,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+hilapeleg,Hila Peleg,PLDI,2021,2021.0,2021.0,2014.0,False
+hilapeleg,Hila Peleg,POPL,2024,2024.0,2024.0,2014.0,False
+hiroshiunno,Hiroshi Unno,ICFP,2025,2025.0,2025.0,2012.0,False
+hiroshiunno,Hiroshi Unno,POPL,2020,2020.0,2020.0,2011.0,False
+hoannguyen1,Hoan Nguyen,OOPSLA1,2025,2025.0,2025.0,2020.0,False
+hoannguyen1,Hoan Nguyen,OOPSLA2,2025,2025.0,2025.0,2020.0,False
+hongjinliang,Hongjin Liang,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+hongjinliang,Hongjin Liang,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+hongjinliang,Hongjin Liang,PLDI,2022,2022.0,2022.0,2014.0,False
+hongjinliang,Hongjin Liang,POPL,2019,2019.0,2019.0,2019.0,False
+hongseokyang,Hongseok Yang,PLDI,2021,2021.0,2017.0,2007.0,False
+hongseokyang,Hongseok Yang,POPL,2022,2022.0,2011.0,2006.0,False
+hsiangshangko,Hsiang-Shang ‘Josh’ Ko,POPL,2025,2025.0,2025.0,2019.0,False
+hughleather,Hugh Leather,PLDI,2022,2022.0,2022.0,2014.0,False
+hugoherbelin,Hugo Herbelin,POPL,2019,2019.0,2009.0,2006.0,False
+huiguan,Hui Guan,PLDI,2022,2022.0,2022.0,2022.0,False
+ichirohasuo,Ichiro Hasuo,POPL,2019,2019.0,2019.0,2019.0,False
+ignaciolaguna,Ignacio Laguna,PLDI,2025,2025.0,2025.0,2025.0,False
+ilyasergey,Ilya Sergey,ICFP,2018,2018.0,2018.0,2014.0,False
+ilyasergey,Ilya Sergey,OOPSLA1,2023,2023.0,2023.0,2020.0,False
+ilyasergey,Ilya Sergey,OOPSLA2,2023,2023.0,2023.0,2020.0,False
+ilyasergey,Ilya Sergey,PLDI,2019,2019.0,2019.0,2019.0,False
+ilyasergey,Ilya Sergey,POPL,2019,2017.0,2017.0,2015.0,True
+irenefinocchi,Irene Finocchi,OOPSLA,2017,2017.0,2017.0,2017.0,False
+irenefinocchi,Irene Finocchi,PLDI,2023,2023.0,2023.0,2023.0,False
+ireneyoon,Irene Yoon,ICFP,2025,2025.0,2025.0,2025.0,False
+isabellamastroeni,Isabella Mastroeni,POPL,2023,2017.0,2017.0,2007.0,True
+isildillig,Işıl Dillig,OOPSLA1,2025,2025.0,2012.0,2012.0,False
+isildillig,Işıl Dillig,OOPSLA2,2025,2025.0,2012.0,2012.0,False
+isildillig,Işıl Dillig,PLDI,2018,2018.0,2016.0,2010.0,False
+isildillig,Işıl Dillig,POPL,2018,2018.0,2013.0,2010.0,False
+iulianneamtiu,Iulian Neamtiu,OOPSLA,2020,2020.0,2014.0,2007.0,False
+iulianneamtiu,Iulian Neamtiu,PLDI,2018,2018.0,2014.0,2014.0,False
+jacquescarette,Jacques Carette,ICFP,2024,2024.0,2024.0,2009.0,False
+jacquesgarrigue,Jacques Garrigue,ICFP,2024,2024.0,2005.0,2005.0,False
+jacquesgarrigue,Jacques Garrigue,POPL,2019,2019.0,2019.0,2006.0,False
+jacqueshenrijourdan,Jacques-Henri Jourdan,ICFP,2019,2019.0,2019.0,2015.0,False
+jacqueshenrijourdan,Jacques-Henri Jourdan,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+jacqueshenrijourdan,Jacques-Henri Jourdan,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+jacqueshenrijourdan,Jacques-Henri Jourdan,POPL,2023,2023.0,2023.0,2017.0,False
+jadealglave,Jade Alglave,PLDI,2023,2023.0,2014.0,2014.0,False
+jaejinlee,Jaejin Lee,PLDI,2024,2024.0,2024.0,2011.0,False
+jamesbornholt,James Bornholt,OOPSLA,2020,2020.0,2020.0,2020.0,False
+jamesbornholt,James Bornholt,PLDI,2020,2020.0,2020.0,2015.0,False
+jameschapman1,James Chapman,ICFP,2023,2023.0,2023.0,2009.0,False
+jamescheney,James Cheney,ICFP,2024,2024.0,2010.0,2009.0,False
+jamescheney,James Cheney,OOPSLA,2021,2021.0,2021.0,2021.0,False
+jamescheney,James Cheney,OOPSLA1,2023,2021.0,2021.0,2021.0,True
+jamescheney,James Cheney,OOPSLA2,2023,2021.0,2021.0,2021.0,True
+jamescheney,James Cheney,PLDI,2023,2023.0,2023.0,2023.0,False
+jamescheney,James Cheney,POPL,2018,2018.0,2009.0,2007.0,False
+jamesmckinna,James McKinna,ICFP,2023,2023.0,2023.0,2009.0,False
+jamesnoble,James Noble,OOPSLA,2021,2021.0,2006.0,2005.0,False
+jamesnoble,James Noble,OOPSLA1,2023,2021.0,2006.0,2005.0,True
+jamesnoble,James Noble,OOPSLA2,2023,2021.0,2006.0,2005.0,True
+jamesriely,James Riely,POPL,2024,2024.0,2024.0,2013.0,False
+jamesrwilcox,James R. Wilcox,PLDI,2023,2023.0,2018.0,2016.0,False
+jamesrwilcox,James R. Wilcox,POPL,2022,2022.0,2022.0,2017.0,False
+janadunfield,Jana Dunfield,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+janadunfield,Jana Dunfield,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+janhoffmann,Jan Hoffmann,ICFP,2020,2020.0,2020.0,2020.0,False
+janhoffmann,Jan Hoffmann,PLDI,2017,2017.0,2017.0,2017.0,False
+janhoffmann,Jan Hoffmann,POPL,2019,2019.0,2019.0,2009.0,False
+janmidtgaard,Jan Midtgaard,ICFP,2023,2023.0,2023.0,2013.0,False
+janvitek,Jan Vitek,OOPSLA,2021,2021.0,2007.0,2006.0,False
+janvitek,Jan Vitek,OOPSLA1,2022,2021.0,2007.0,2006.0,True
+janvitek,Jan Vitek,OOPSLA2,2022,2021.0,2007.0,2006.0,True
+jasminblanchette1,Jasmin Blanchette,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+jasminblanchette1,Jasmin Blanchette,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+jasonansel,Jason Ansel,PLDI,2023,2023.0,2023.0,2010.0,False
+jasonmars,Jason Mars,PLDI,2018,2018.0,2018.0,2016.0,False
+jayligatti,Jay Ligatti,PLDI,2024,2024.0,2024.0,2016.0,False
+jaymccarthy,Jay McCarthy,ICFP,2022,2022.0,2014.0,2006.0,False
+jayplim,Jay P. Lim,PLDI,2025,2025.0,2025.0,2025.0,False
+jeanbaptistetristan,Jean-Baptiste Tristan,PLDI,2018,2018.0,2018.0,2011.0,False
+jeanmariemadiot,Jean-Marie Madiot,PLDI,2025,2025.0,2025.0,2025.0,False
+jeanphilippebernardy,Jean-Philippe Bernardy,ICFP,2025,2025.0,2015.0,2009.0,False
+jeanphilippebernardy,Jean-Philippe Bernardy,POPL,2019,2019.0,2019.0,2012.0,False
+jeanpichonpharabod1,Jean Pichon-Pharabod,PLDI,2025,2025.0,2025.0,2025.0,False
+jeanpichonpharabod1,Jean Pichon-Pharabod,POPL,2024,2024.0,2024.0,2024.0,False
+jeanyang,Jean Yang,POPL,2018,2018.0,2018.0,2015.0,False
+jedidiahmcclurg,Jedidiah McClurg,PLDI,2022,2022.0,2022.0,2022.0,False
+jeehoonkang,Jeehoon Kang,OOPSLA,2021,2021.0,2021.0,2021.0,False
+jeehoonkang,Jeehoon Kang,PLDI,2022,2022.0,2022.0,2022.0,False
+jeehoonkang,Jeehoon Kang,POPL,2021,2021.0,2021.0,2020.0,False
+jeevanapriyainala,Jeevana Priya Inala,PLDI,2022,2022.0,2022.0,2022.0,False
+jeffhuang,Jeff Huang,OOPSLA,2018,2018.0,2018.0,2018.0,False
+jeffhuang,Jeff Huang,PLDI,2017,2017.0,2017.0,2014.0,False
+jeffreysfoster,Jeffrey S. Foster,PLDI,2017,2017.0,2006.0,2006.0,False
+jeffreysfoster,Jeffrey S. Foster,POPL,2020,2020.0,2008.0,2006.0,False
+jennadivincenzowise,Jenna DiVincenzo (Wise),PLDI,2025,2025.0,2025.0,2025.0,False
+jenniferpaykin,Jennifer Paykin,ICFP,2019,2019.0,2019.0,2015.0,False
+jenniferpaykin,Jennifer Paykin,POPL,2024,2024.0,2024.0,2017.0,False
+jennifersartor,Jennifer B. Sartor,OOPSLA,2017,2017.0,2013.0,2007.0,False
+jennifersartor,Jennifer B. Sartor,PLDI,2019,2019.0,2018.0,2007.0,False
+jensdietrich,Jens Dietrich,OOPSLA,2017,2017.0,2017.0,2017.0,False
+jenspalsberg,Jens Palsberg,PLDI,2018,2018.0,2009.0,2008.0,False
+jenspalsberg,Jens Palsberg,POPL,2025,2025.0,2005.0,2005.0,False
+jeremygibbons,Jeremy Gibbons,ICFP,2023,2023.0,2007.0,2006.0,False
+jeremygibbons,Jeremy Gibbons,OOPSLA1,2023,2023.0,2023.0,2012.0,False
+jeremygibbons,Jeremy Gibbons,OOPSLA2,2023,2023.0,2023.0,2012.0,False
+jeremysiek,Jeremy G. Siek,ICFP,2022,2022.0,2022.0,2013.0,False
+jeremysiek,Jeremy G. Siek,PLDI,2023,2023.0,2009.0,2009.0,False
+jeremysiek,Jeremy G. Siek,POPL,2020,2020.0,2014.0,2006.0,False
+jeremyyallop,Jeremy Yallop,ICFP,2018,2018.0,2018.0,2011.0,False
+jeremyyallop,Jeremy Yallop,PLDI,2023,2023.0,2023.0,2023.0,False
+jespercockx,Jesper Cockx,ICFP,2022,2022.0,2022.0,2020.0,False
+jespercockx,Jesper Cockx,POPL,2020,2020.0,2020.0,2016.0,False
+jgarrettmorris,J. Garrett Morris,ICFP,2018,2018.0,2018.0,2012.0,False
+jgarrettmorris,J. Garrett Morris,POPL,2022,2022.0,2022.0,2014.0,False
+jialuzhang,Jialu Zhang,OOPSLA1,2025,2025.0,2025.0,2023.0,False
+jialuzhang,Jialu Zhang,OOPSLA2,2025,2025.0,2025.0,2023.0,False
+jiasishen,Jiasi Shen,OOPSLA1,2024,2024.0,2024.0,2016.0,False
+jiasishen,Jiasi Shen,OOPSLA2,2024,2024.0,2024.0,2016.0,False
+jihyeokpark1,Jihyeok Park,OOPSLA1,2025,2025.0,2025.0,2022.0,False
+jihyeokpark1,Jihyeok Park,OOPSLA2,2025,2025.0,2025.0,2022.0,False
+jimlarus,James Larus,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+jimlarus,James Larus,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+jimlarus,James Larus,PLDI,2022,2022.0,2011.0,2011.0,False
+jinglingxue,Jingling Xue,OOPSLA,2020,2020.0,2020.0,2020.0,False
+jinglingxue,Jingling Xue,PLDI,2024,2024.0,2024.0,2007.0,False
+jingmeihu1,Jingmei Hu,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+jingmeihu1,Jingmei Hu,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+joachimbreitner,Joachim Breitner,ICFP,2019,2019.0,2019.0,2018.0,False
+joannasantos,Joanna C. S. Santos,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+joannasantos,Joanna C. S. Santos,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+johnhughes,John Hughes,ICFP,2017,2017.0,2005.0,2005.0,False
+johnregehr,John Regehr,PLDI,2020,2020.0,2015.0,2007.0,False
+johnreppy,John Reppy,ICFP,2025,2025.0,2006.0,2005.0,False
+johnsarracino,John Sarracino,PLDI,2021,2021.0,2021.0,2018.0,False
+johnvilk,John Vilk,PLDI,2020,2020.0,2020.0,2014.0,False
+johnwickerson,John Wickerson,OOPSLA,2020,2020.0,2020.0,2016.0,False
+johnwickerson,John Wickerson,OOPSLA1,2025,2020.0,2020.0,2016.0,True
+johnwickerson,John Wickerson,OOPSLA2,2025,2020.0,2020.0,2016.0,True
+johnwickerson,John Wickerson,PLDI,2019,2019.0,2019.0,2019.0,False
+johnwickerson,John Wickerson,POPL,2022,2022.0,2022.0,2010.0,False
+jonathanaldrich,Jonathan Aldrich,OOPSLA,2017,2017.0,2008.0,2006.0,False
+jonathanaldrich,Jonathan Aldrich,OOPSLA1,2023,2017.0,2008.0,2006.0,True
+jonathanaldrich,Jonathan Aldrich,OOPSLA2,2023,2017.0,2008.0,2006.0,True
+jonathanbalkind,Jonathan Balkind,PLDI,2024,2024.0,2024.0,2024.0,False
+jonathanbell,Jonathan Bell,OOPSLA1,2024,2024.0,2024.0,2014.0,False
+jonathanbell,Jonathan Bell,OOPSLA2,2024,2024.0,2024.0,2014.0,False
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,ICFP,2023,2023.0,2023.0,2023.0,False
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,2024,2024.0,2024.0,2024.0,False
+jonathanprotzenko,Jonathan Protzenko,ICFP,2020,2020.0,2020.0,2019.0,False
+jonathanprotzenko,Jonathan Protzenko,POPL,2024,2024.0,2024.0,2024.0,False
+jonathanragankelley,Jonathan Ragan-Kelley,PLDI,2018,2018.0,2018.0,2010.0,False
+jonathansterling,Jonathan Sterling,ICFP,2023,2023.0,2022.0,2022.0,False
+jonathansterling,Jonathan Sterling,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+jonathansterling,Jonathan Sterling,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+jonathansterling,Jonathan Sterling,POPL,2023,2023.0,2023.0,2023.0,False
+joonwonchoi,Joonwon Choi,PLDI,2024,2024.0,2024.0,2024.0,False
+joostpieterkatoen,Joost-Pieter Katoen,POPL,2023,2023.0,2023.0,2014.0,False
+jorgeanavas,Jorge A. Navas,PLDI,2022,2022.0,2022.0,2011.0,False
+jorgeaperez,Jorge A. Pérez,PLDI,2023,2023.0,2023.0,2023.0,False
+josepedromagalhaes,José Pedro Magalhães,ICFP,2023,2023.0,2023.0,2010.0,False
+josephdevietti,Joseph Devietti,PLDI,2017,2017.0,2017.0,2011.0,False
+josephtassarotti,Joseph Tassarotti,ICFP,2024,2024.0,2024.0,2024.0,False
+josephtassarotti,Joseph Tassarotti,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+josephtassarotti,Joseph Tassarotti,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+josephtassarotti,Joseph Tassarotti,PLDI,2023,2023.0,2023.0,2023.0,False
+josephtassarotti,Joseph Tassarotti,POPL,2023,2023.0,2023.0,2020.0,False
+josesantos,José Fragoso Santos,OOPSLA,2020,2020.0,2020.0,2020.0,False
+josesantos,José Fragoso Santos,PLDI,2021,2021.0,2021.0,2020.0,False
+josesantos,José Fragoso Santos,POPL,2025,2025.0,2025.0,2016.0,False
+joshberdine,Josh Berdine,ICFP,2023,2023.0,2011.0,2005.0,False
+joshberdine,Josh Berdine,POPL,2021,2017.0,2013.0,2006.0,True
+joshuagancher,Joshua Gancher,PLDI,2025,2025.0,2023.0,2023.0,False
+joshuasunshine,Joshua Sunshine,OOPSLA,2017,2017.0,2017.0,2008.0,False
+joshuasunshine,Joshua Sunshine,PLDI,2025,2025.0,2025.0,2010.0,False
+josiahhester,Josiah Hester,PLDI,2023,2023.0,2023.0,2023.0,False
+joxanjaffar,Joxan Jaffar,PLDI,2018,2018.0,2005.0,2005.0,False
+jubitaneja,Jubi Taneja,PLDI,2025,2025.0,2021.0,2016.0,False
+julesjacobs,Jules Jacobs,ICFP,2025,2025.0,2025.0,2024.0,False
+julesjacobs,Jules Jacobs,PLDI,2025,2025.0,2025.0,2022.0,False
+julesvillard2,Jules Villard,POPL,2024,2024.0,2024.0,2014.0,False
+juliabelyakova,Julia Belyakova,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+juliabelyakova,Julia Belyakova,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+julianafranco,Juliana Franco,OOPSLA1,2024,2024.0,2024.0,2016.0,False
+julianafranco,Juliana Franco,OOPSLA2,2024,2024.0,2024.0,2016.0,False
+juliandolby,Julian Dolby,PLDI,2018,2018.0,2018.0,2012.0,False
+julianshun,Julian Shun,PLDI,2021,2021.0,2021.0,2016.0,False
+julienverlaguet,Julien Verlaguet,OOPSLA,2017,2017.0,2017.0,2017.0,False
+juneandronick,June Andronick,PLDI,2019,2019.0,2019.0,2019.0,False
+juneandronick,June Andronick,POPL,2019,2019.0,2019.0,2017.0,False
+juneyounglee2,Juneyoung Lee,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+juneyounglee2,Juneyoung Lee,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+junfengyang,Junfeng Yang,PLDI,2017,2017.0,2017.0,2017.0,False
+jurriaanhage,Jurriaan Hage,ICFP,2021,2021.0,2016.0,2006.0,False
+justingottschlich,Justin Gottschlich,OOPSLA,2021,2021.0,2021.0,2021.0,False
+justingottschlich,Justin Gottschlich,PLDI,2022,2022.0,2022.0,2022.0,False
+justinhsu,Justin Hsu,OOPSLA1,2023,2023.0,2023.0,2020.0,False
+justinhsu,Justin Hsu,OOPSLA2,2023,2023.0,2023.0,2020.0,False
+justinhsu,Justin Hsu,PLDI,2022,2022.0,2022.0,2016.0,False
+justinhsu,Justin Hsu,POPL,2019,2019.0,2019.0,2017.0,False
+kapilvaswani,Kapil Vaswani,PLDI,2021,2021.0,2018.0,2018.0,False
+karimali,Karim Ali,OOPSLA,2020,2020.0,2020.0,2020.0,False
+karimali,Karim Ali,OOPSLA1,2022,2020.0,2020.0,2020.0,True
+karimali,Karim Ali,OOPSLA2,2022,2020.0,2020.0,2020.0,True
+karimali,Karim Ali,PLDI,2025,2025.0,2025.0,2015.0,False
+karineevenmendoza,Karine Even-Mendoza,OOPSLA1,2024,2024.0,2024.0,2021.0,False
+karineevenmendoza,Karine Even-Mendoza,OOPSLA2,2024,2024.0,2024.0,2021.0,False
+karlcrary,Karl Crary,POPL,2018,2018.0,2006.0,2005.0,False
+karlpalmskog,Karl Palmskog,PLDI,2025,2025.0,2025.0,2025.0,False
+karthikeyanbhargavan,Karthikeyan Bhargavan,POPL,2023,2023.0,2015.0,2008.0,False
+kartiknagar1,Kartik Nagar,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+kartiknagar1,Kartik Nagar,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+kathleenfisher,Kathleen Fisher,PLDI,2018,2018.0,2007.0,2006.0,False
+kathrinstark,Kathrin Stark,ICFP,2023,2023.0,2023.0,2021.0,False
+kathrinstark,Kathrin Stark,POPL,2024,2024.0,2024.0,2024.0,False
+kathrynegray,Kathryn E. Gray,ICFP,2017,2017.0,2017.0,2013.0,False
+kathrynegray,Kathryn E. Gray,OOPSLA,2017,2017.0,2017.0,2017.0,False
+kathrynsmckinley,Kathryn S McKinley,OOPSLA,2017,2017.0,2009.0,2007.0,False
+kathrynsmckinley,Kathryn S McKinley,OOPSLA1,2022,2017.0,2009.0,2007.0,True
+kathrynsmckinley,Kathryn S McKinley,OOPSLA2,2022,2017.0,2009.0,2007.0,True
+kathrynsmckinley,Kathryn S McKinley,PLDI,2018,2018.0,2007.0,2005.0,False
+katsuhiroueno,Katsuhiro Ueno,ICFP,2018,2018.0,2018.0,2016.0,False
+kazutakamatsuda,Kazutaka Matsuda,ICFP,2019,2019.0,2019.0,2008.0,False
+kcsivaramakrishnan,KC Sivaramakrishnan,ICFP,2020,2020.0,2020.0,2019.0,False
+kcsivaramakrishnan,KC Sivaramakrishnan,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+kcsivaramakrishnan,KC Sivaramakrishnan,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+kcsivaramakrishnan,KC Sivaramakrishnan,PLDI,2022,2022.0,2022.0,2015.0,False
+kcsivaramakrishnan,KC Sivaramakrishnan,POPL,2024,2024.0,2024.0,2011.0,False
+kedarnamjoshi,Kedar Namjoshi,POPL,2021,2021.0,2021.0,2006.0,False
+kenjimaillard,Kenji Maillard,ICFP,2024,2024.0,2024.0,2024.0,False
+kenjimaillard,Kenji Maillard,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+kenjimaillard,Kenji Maillard,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+kennethlmcmillan,Kenneth L. McMillan,POPL,2022,2022.0,2011.0,2008.0,False
+keshahietala,Kesha Hietala,ICFP,2024,2024.0,2024.0,2024.0,False
+kevinellis,Kevin Ellis,PLDI,2023,2023.0,2023.0,2023.0,False
+kewang,Ke Wang,PLDI,2020,2020.0,2020.0,2020.0,False
+kihongheo,Kihong Heo,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+kihongheo,Kihong Heo,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+kihongheo,Kihong Heo,PLDI,2022,2022.0,2022.0,2019.0,False
+kihongheo,Kihong Heo,POPL,2022,2022.0,2022.0,2022.0,False
+kimbruce,Kim Bruce,OOPSLA,2017,2017.0,2017.0,2008.0,False
+kirangopinathan1,Kiran Gopinathan,ICFP,2025,2025.0,2025.0,2025.0,False
+kirshanthansundararajah,Kirshanthan Sundararajah,PLDI,2025,2025.0,2025.0,2020.0,False
+klausostermann,Klaus Ostermann,ICFP,2019,2019.0,2019.0,2019.0,False
+klausostermann,Klaus Ostermann,OOPSLA1,2023,2023.0,2009.0,2006.0,False
+klausostermann,Klaus Ostermann,OOPSLA2,2023,2023.0,2009.0,2006.0,False
+klausostermann,Klaus Ostermann,PLDI,2020,2020.0,2020.0,2013.0,False
+klausostermann,Klaus Ostermann,POPL,2018,2018.0,2018.0,2018.0,False
+klausvgleissenthall,Klaus v. Gleissenthall,PLDI,2022,2022.0,2022.0,2022.0,False
+koenclaessen,Koen Claessen,ICFP,2024,2024.0,2009.0,2006.0,False
+koenclaessen,Koen Claessen,POPL,2018,2018.0,2018.0,2005.0,False
+koheisuenaga,Kohei Suenaga,POPL,2022,2022.0,2022.0,2009.0,False
+kokomuroya,Koko Muroya,ICFP,2022,2022.0,2022.0,2022.0,False
+kokomuroya,Koko Muroya,POPL,2022,2022.0,2022.0,2022.0,False
+konstantinoskallas,Konstantinos Kallas,PLDI,2025,2025.0,2025.0,2025.0,False
+konstantinosmamouras1,Konstantinos Mamouras,PLDI,2023,2023.0,2023.0,2018.0,False
+kostasferles,Kostas Ferles,PLDI,2022,2022.0,2022.0,2014.0,False
+koushiksen,Koushik Sen,PLDI,2022,2022.0,2014.0,2005.0,False
+kristinasojakova,Kristina Sojakova,POPL,2024,2024.0,2024.0,2024.0,False
+kristofmarussy,Kristóf Marussy,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+kristofmarussy,Kristóf Marussy,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+kuenbanghoufavonia,Kuen-Bang Hou (Favonia),ICFP,2021,2021.0,2021.0,2021.0,False
+kuenbanghoufavonia,Kuen-Bang Hou (Favonia),POPL,2024,2024.0,2024.0,2023.0,False
+kwangkeunyi,Kwangkeun Yi,PLDI,2021,2021.0,2021.0,2017.0,False
+larsbirkedal,Lars Birkedal,ICFP,2022,2022.0,2009.0,2009.0,False
+larsbirkedal,Lars Birkedal,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+larsbirkedal,Lars Birkedal,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+larsbirkedal,Lars Birkedal,POPL,2018,2018.0,2008.0,2007.0,False
+laurabocchi,Laura Bocchi,ICFP,2023,2023.0,2023.0,2015.0,False
+laurakovacs,Laura Kovacs,POPL,2018,2018.0,2016.0,2016.0,False
+lauramcastro,Laura M. Castro,ICFP,2019,2019.0,2019.0,2019.0,False
+lauregonnord,Laure Gonnord,PLDI,2022,2022.0,2022.0,2017.0,False
+lauregonnord,Laure Gonnord,POPL,2021,2021.0,2021.0,2021.0,False
+laurencetratt,Laurence Tratt,OOPSLA,2021,2021.0,2012.0,2012.0,False
+laurenpick,Lauren Pick,PLDI,2023,2023.0,2023.0,2023.0,False
+laurenpick,Lauren Pick,POPL,2025,2025.0,2025.0,2025.0,False
+lennartaugustsson,Lennart Augustsson,ICFP,2023,2023.0,2009.0,2008.0,False
+lennartberinger,Lennart Beringer,ICFP,2019,2019.0,2019.0,2009.0,False
+leonidaslampropoulos,Leonidas Lampropoulos,ICFP,2021,2021.0,2021.0,2020.0,False
+leonidaslampropoulos,Leonidas Lampropoulos,PLDI,2023,2023.0,2023.0,2019.0,False
+leonidaslampropoulos,Leonidas Lampropoulos,POPL,2022,2022.0,2022.0,2022.0,False
+leonidryzhyk,Leonid Ryzhyk,PLDI,2022,2022.0,2022.0,2022.0,False
+leowhite,Leo White,ICFP,2025,2025.0,2025.0,2014.0,False
+liamoconnor,Liam O'Connor,ICFP,2025,2025.0,2025.0,2015.0,False
+liamoconnor,Liam O'Connor,PLDI,2025,2025.0,2025.0,2025.0,False
+liangtingchen,Liang-Ting Chen,ICFP,2023,2023.0,2023.0,2009.0,False
+liminjia,Limin Jia,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+liminjia,Limin Jia,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+liminjia,Limin Jia,PLDI,2019,2019.0,2019.0,2008.0,False
+liminjia,Limin Jia,POPL,2020,2017.0,2017.0,2005.0,True
+lindseykuper,Lindsey Kuper,ICFP,2017,2017.0,2017.0,2013.0,False
+lindseykuper,Lindsey Kuper,OOPSLA,2018,2018.0,2018.0,2018.0,False
+lindseykuper,Lindsey Kuper,OOPSLA1,2025,2018.0,2018.0,2018.0,True
+lindseykuper,Lindsey Kuper,OOPSLA2,2025,2018.0,2018.0,2018.0,True
+lindseykuper,Lindsey Kuper,PLDI,2021,2021.0,2021.0,2015.0,False
+lindseykuper,Lindsey Kuper,POPL,2023,2023.0,2023.0,2016.0,False
+lingmingzhang1,Lingming Zhang,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+lingmingzhang1,Lingming Zhang,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+lionelparreaux,Lionel Parreaux,ICFP,2023,2023.0,2023.0,2023.0,False
+lionelparreaux,Lionel Parreaux,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+lionelparreaux,Lionel Parreaux,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+liyili1,Liyi Li,OOPSLA1,2024,2024.0,2024.0,2023.0,False
+liyili1,Liyi Li,OOPSLA2,2024,2024.0,2024.0,2023.0,False
+liyili1,Liyi Li,PLDI,2025,2025.0,2023.0,2023.0,False
+lorisdantoni,Loris D'Antoni,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+lorisdantoni,Loris D'Antoni,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+lorisdantoni,Loris D'Antoni,PLDI,2021,2021.0,2016.0,2016.0,False
+lorisdantoni,Loris D'Antoni,POPL,2018,2018.0,2018.0,2016.0,False
+louisnoelpouchet,Louis-Noël Pouchet,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+louisnoelpouchet,Louis-Noël Pouchet,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+louisnoelpouchet,Louis-Noël Pouchet,PLDI,2019,2019.0,2019.0,2011.0,False
+lucmaranget,Luc Maranget,POPL,2021,2021.0,2021.0,2009.0,False
+luispina,Luís Pina,PLDI,2024,2024.0,2021.0,2019.0,False
+lukeong,C.-H. Luke Ong,POPL,2022,2022.0,2022.0,2020.0,False
+luzhang,Lu Zhang,OOPSLA,2017,2017.0,2017.0,2017.0,False
+maazbinsafeerahmad,Maaz Bin Safeer Ahmad,PLDI,2025,2025.0,2025.0,2025.0,False
+madanmusuvathi,Madan Musuvathi,PLDI,2017,2017.0,2017.0,2013.0,False
+maemilano,Mae Milano,POPL,2024,2024.0,2024.0,2024.0,False
+magnusmadsen,Magnus Madsen,OOPSLA1,2025,2025.0,2025.0,2015.0,False
+magnusmadsen,Magnus Madsen,OOPSLA2,2025,2025.0,2025.0,2015.0,False
+magnusmadsen,Magnus Madsen,PLDI,2021,2021.0,2021.0,2021.0,False
+magnusomyreen,Magnus O. Myreen,ICFP,2020,2020.0,2020.0,2010.0,False
+magnusomyreen,Magnus O. Myreen,PLDI,2021,2021.0,2021.0,2019.0,False
+magnusomyreen,Magnus O. Myreen,POPL,2020,2020.0,2020.0,2010.0,False
+mahmuttaylankandemir,Mahmut Taylan Kandemir,PLDI,2021,2021.0,2011.0,2007.0,False
+makotohamana,Makoto Hamana,ICFP,2020,2020.0,2020.0,2020.0,False
+malavikasamak,Malavika Samak,OOPSLA,2018,2018.0,2018.0,2015.0,False
+malavikasamak,Malavika Samak,PLDI,2022,2022.0,2022.0,2016.0,False
+malavikasamak,Malavika Samak,POPL,2023,2023.0,2023.0,2016.0,False
+malgorzatabiernacka,Malgorzata Biernacka,ICFP,2022,2022.0,2022.0,2012.0,False
+manasijmukherjee,Manasij Mukherjee,PLDI,2025,2025.0,2025.0,2025.0,False
+manasthakur,Manas Thakur,PLDI,2025,2025.0,2025.0,2025.0,False
+mandanavaziri,Mandana Vaziri,OOPSLA1,2022,2022.0,2007.0,2005.0,False
+mandanavaziri,Mandana Vaziri,OOPSLA2,2022,2022.0,2007.0,2005.0,False
+mandanavaziri,Mandana Vaziri,PLDI,2020,2020.0,2020.0,2007.0,False
+manoskapritsos,Manos Kapritsos,PLDI,2022,2022.0,2022.0,2022.0,False
+manuelrigger,Manuel Rigger,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+manuelrigger,Manuel Rigger,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+manuelserrano,Manuel Serrano,ICFP,2022,2022.0,2005.0,2005.0,False
+manuelserrano,Manuel Serrano,OOPSLA1,2025,2025.0,2025.0,2019.0,False
+manuelserrano,Manuel Serrano,OOPSLA2,2025,2025.0,2025.0,2019.0,False
+manusridharan,Manu Sridharan,OOPSLA,2018,2018.0,2014.0,2010.0,False
+manusridharan,Manu Sridharan,OOPSLA1,2023,2018.0,2014.0,2010.0,True
+manusridharan,Manu Sridharan,OOPSLA2,2023,2018.0,2014.0,2010.0,True
+manusridharan,Manu Sridharan,PLDI,2025,2025.0,2015.0,2009.0,False
+marcbrockschmidt,Marc Brockschmidt,PLDI,2021,2021.0,2021.0,2019.0,False
+marcogaboardi,Marco Gaboardi,ICFP,2018,2018.0,2018.0,2011.0,False
+marcogaboardi,Marco Gaboardi,PLDI,2025,2025.0,2025.0,2019.0,False
+marcogaboardi,Marco Gaboardi,POPL,2021,2017.0,2017.0,2014.0,True
+marcopatrignani,Marco Patrignani,POPL,2023,2023.0,2023.0,2016.0,False
+marcopistoia,Marco Pistoia,PLDI,2017,2017.0,2017.0,2007.0,False
+marcosviera,Marcos Viera,ICFP,2023,2023.0,2023.0,2023.0,False
+marcovassena,Marco Vassena,POPL,2023,2023.0,2023.0,2023.0,False
+margusveanes,Margus Veanes,POPL,2020,2020.0,2020.0,2020.0,False
+mariachristakis,Maria Christakis,OOPSLA,2018,2018.0,2018.0,2013.0,False
+mariannarapoport,Marianna Rapoport,OOPSLA1,2023,2023.0,2023.0,2016.0,False
+mariannarapoport,Marianna Rapoport,OOPSLA2,2023,2023.0,2023.0,2016.0,False
+maribelfernandez,Maribel Fernandez,ICFP,2022,2022.0,2011.0,2011.0,False
+mariekehuisman,Marieke Huisman,OOPSLA,2019,2019.0,2019.0,2013.0,False
+mariekerjean1,Marie Kerjean,ICFP,2025,2025.0,2025.0,2025.0,False
+markbatty,Mark Batty,PLDI,2024,2024.0,2024.0,2015.0,False
+markbatty,Mark Batty,POPL,2018,2018.0,2018.0,2017.0,False
+markjones,Mark Jones,ICFP,2017,2017.0,2007.0,2005.0,False
+marksantolucito,Mark Santolucito,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+marksantolucito,Mark Santolucito,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+markuspuschel,Markus Püschel,PLDI,2021,2021.0,2021.0,2019.0,False
+martinelsman,Martin Elsman,ICFP,2018,2018.0,2018.0,2013.0,False
+martinerwig,Martin Erwig,ICFP,2017,2017.0,2017.0,2012.0,False
+martinerwig,Martin Erwig,POPL,2019,2019.0,2019.0,2019.0,False
+martinhirzel,Martin Hirzel,OOPSLA,2019,2019.0,2019.0,2006.0,False
+martinhirzel,Martin Hirzel,OOPSLA1,2025,2019.0,2019.0,2006.0,True
+martinhirzel,Martin Hirzel,OOPSLA2,2025,2019.0,2019.0,2006.0,True
+martinhirzel,Martin Hirzel,PLDI,2019,2019.0,2013.0,2005.0,False
+martinmaas,Martin Maas,PLDI,2019,2019.0,2019.0,2018.0,False
+martinrinard,Martin C. Rinard,PLDI,2019,2019.0,2007.0,2007.0,False
+martinvechev,Martin Vechev,PLDI,2017,2017.0,2013.0,2008.0,False
+maryammehridehnavi,Maryam Mehri Dehnavi,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+maryammehridehnavi,Maryam Mehri Dehnavi,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+maryammehridehnavi,Maryam Mehri Dehnavi,PLDI,2023,2023.0,2023.0,2023.0,False
+maryhall,Mary Hall,PLDI,2022,2022.0,2014.0,2005.0,False
+maryshe,Mary Sheeran,ICFP,2022,2022.0,2014.0,2014.0,False
+matiastoro,Matías Toro,ICFP,2022,2022.0,2022.0,2022.0,False
+matiastoro,Matías Toro,PLDI,2025,2025.0,2025.0,2025.0,False
+matijapretnar,Matija Pretnar,ICFP,2022,2022.0,2022.0,2013.0,False
+matteocimini,Matteo Cimini,ICFP,2021,2021.0,2021.0,2021.0,False
+matteocimini,Matteo Cimini,POPL,2020,2020.0,2020.0,2020.0,False
+matteomaffei,Matteo Maffei,POPL,2023,2023.0,2016.0,2010.0,False
+matthewflatt,Matthew Flatt,ICFP,2017,2017.0,2005.0,2005.0,False
+matthewflatt,Matthew Flatt,OOPSLA1,2023,2023.0,2011.0,2005.0,False
+matthewflatt,Matthew Flatt,OOPSLA2,2023,2023.0,2011.0,2005.0,False
+matthewflatt,Matthew Flatt,PLDI,2021,2021.0,2006.0,2006.0,False
+matthewfluet,Matthew Fluet,ICFP,2020,2020.0,2016.0,2006.0,False
+matthewhague,Matthew Hague,POPL,2022,2022.0,2022.0,2016.0,False
+matthewhammer,Matthew Hammer,POPL,2019,2019.0,2019.0,2015.0,False
+matthewmight,Matthew Might,POPL,2018,2018.0,2012.0,2007.0,False
+matthewparkinson,Matthew J. Parkinson,OOPSLA1,2024,2024.0,2024.0,2007.0,False
+matthewparkinson,Matthew J. Parkinson,OOPSLA2,2024,2024.0,2024.0,2007.0,False
+matthewparkinson,Matthew J. Parkinson,POPL,2019,2019.0,2012.0,2005.0,False
+matthiashauswirth,Matthias Hauswirth,OOPSLA1,2025,2025.0,2007.0,2007.0,False
+matthiashauswirth,Matthias Hauswirth,OOPSLA2,2025,2025.0,2007.0,2007.0,False
+matthiashauswirth,Matthias Hauswirth,PLDI,2023,2023.0,2009.0,2007.0,False
+matthiasheizmann,Matthias Heizmann,POPL,2021,2021.0,2021.0,2021.0,False
+matthieusozeau,Matthieu Sozeau,ICFP,2024,2024.0,2010.0,2010.0,False
+matthieusozeau,Matthieu Sozeau,POPL,2021,2021.0,2021.0,2012.0,False
+matthijsvakar,Matthijs Vákár,POPL,2025,2025.0,2025.0,2025.0,False
+maxnew,Max S. New,ICFP,2021,2021.0,2021.0,2015.0,False
+maxnew,Max S. New,POPL,2024,2024.0,2024.0,2020.0,False
+maxschaefer,Max Schaefer,OOPSLA,2018,2018.0,2014.0,2014.0,False
+maxschaefer,Max Schaefer,OOPSLA1,2024,2018.0,2014.0,2014.0,True
+maxschaefer,Max Schaefer,OOPSLA2,2024,2018.0,2014.0,2014.0,True
+maxwillsey,Max Willsey,PLDI,2025,2025.0,2025.0,2025.0,False
+maxwillsey,Max Willsey,POPL,2024,2024.0,2024.0,2024.0,False
+mayurnaik,Mayur Naik,PLDI,2017,2017.0,2013.0,2008.0,False
+mayurnaik,Mayur Naik,POPL,2019,2019.0,2015.0,2005.0,False
+mengwang,Meng Wang,ICFP,2024,2024.0,2024.0,2007.0,False
+michaelbond,Michael D. Bond,OOPSLA,2021,2021.0,2010.0,2007.0,False
+michaelbond,Michael D. Bond,PLDI,2020,2020.0,2013.0,2007.0,False
+michaelcarbin,Michael Carbin,OOPSLA,2021,2021.0,2016.0,2010.0,False
+michaelcarbin,Michael Carbin,PLDI,2020,2020.0,2016.0,2012.0,False
+michaelcarbin,Michael Carbin,POPL,2022,2022.0,2022.0,2022.0,False
+michaelcoblenz,Michael Coblenz,OOPSLA1,2024,2024.0,2024.0,2021.0,False
+michaelcoblenz,Michael Coblenz,OOPSLA2,2024,2024.0,2024.0,2021.0,False
+michaeldadams,Michael D. Adams,ICFP,2023,2023.0,2023.0,2011.0,False
+michaeldadams,Michael D. Adams,POPL,2019,2019.0,2019.0,2017.0,False
+michaelemmi,Michael Emmi,PLDI,2019,2019.0,2019.0,2014.0,False
+michaelemmi,Michael Emmi,POPL,2019,2019.0,2015.0,2013.0,False
+michaelfranz,Michael Franz,OOPSLA1,2025,2025.0,2025.0,2013.0,False
+michaelfranz,Michael Franz,OOPSLA2,2025,2025.0,2025.0,2013.0,False
+michaelgreenberg,Michael Greenberg,ICFP,2023,2023.0,2023.0,2008.0,False
+michaelgreenberg,Michael Greenberg,OOPSLA,2021,2021.0,2021.0,2010.0,False
+michaelgreenberg,Michael Greenberg,OOPSLA1,2025,2021.0,2021.0,2010.0,True
+michaelgreenberg,Michael Greenberg,OOPSLA2,2025,2021.0,2021.0,2010.0,True
+michaelgreenberg,Michael Greenberg,PLDI,2019,2019.0,2019.0,2014.0,False
+michaelgreenberg,Michael Greenberg,POPL,2019,2019.0,2019.0,2009.0,False
+michaelhicks,Michael Hicks,OOPSLA,2021,2021.0,2007.0,2005.0,False
+michaelhicks,Michael Hicks,PLDI,2021,2021.0,2007.0,2007.0,False
+michaelhicks,Michael Hicks,POPL,2024,2024.0,2009.0,2006.0,False
+michaelmarcozzi1,Michaël Marcozzi,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+michaelmarcozzi1,Michaël Marcozzi,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+michaelmarcozzi1,Michaël Marcozzi,PLDI,2024,2024.0,2024.0,2019.0,False
+michaeloboyle,Michael F. P. O'Boyle,PLDI,2021,2021.0,2021.0,2014.0,False
+michaelpradel,Michael Pradel,OOPSLA1,2023,2023.0,2015.0,2015.0,False
+michaelpradel,Michael Pradel,OOPSLA2,2023,2023.0,2015.0,2015.0,False
+michaelpradel,Michael Pradel,PLDI,2017,2017.0,2017.0,2011.0,False
+michaelsammler,Michael Sammler,ICFP,2025,2025.0,2025.0,2025.0,False
+michaelsperber,Michael Sperber,ICFP,2018,2018.0,2018.0,2005.0,False
+michelechiari,Michele Chiari,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+michelechiari,Michele Chiari,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+michelepagani,Michele Pagani,POPL,2023,2017.0,2017.0,2017.0,True
+michellemillsstrout,Michelle Mills Strout,PLDI,2020,2020.0,2008.0,2007.0,False
+michelsteuwer,Michel Steuwer,PLDI,2025,2025.0,2025.0,2025.0,False
+mihaibudiu,Mihai Budiu,PLDI,2023,2023.0,2023.0,2009.0,False
+mikedodds,Mike Dodds,OOPSLA,2021,2021.0,2021.0,2014.0,False
+mikedodds,Mike Dodds,PLDI,2022,2022.0,2022.0,2020.0,False
+mikerainey,Mike Rainey,ICFP,2019,2019.0,2015.0,2015.0,False
+miladallapreda,Mila Dalla Preda,POPL,2018,2018.0,2018.0,2017.0,False
+milijanasurbatovich1,Milijana Surbatovich,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+milijanasurbatovich1,Milijana Surbatovich,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+milindkulkarni,Milind Kulkarni,OOPSLA1,2022,2022.0,2014.0,2009.0,False
+milindkulkarni,Milind Kulkarni,OOPSLA2,2022,2022.0,2014.0,2009.0,False
+milindkulkarni,Milind Kulkarni,PLDI,2017,2017.0,2014.0,2007.0,False
+milosgligoric,Milos Gligoric,OOPSLA1,2024,2024.0,2024.0,2013.0,False
+milosgligoric,Milos Gligoric,OOPSLA2,2024,2024.0,2024.0,2013.0,False
+mingshengying,Mingsheng Ying,POPL,2025,2025.0,2025.0,2015.0,False
+minseokjeon,Minseok Jeon,ICFP,2025,2025.0,2025.0,2025.0,False
+minseokjeon,Minseok Jeon,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+minseokjeon,Minseok Jeon,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+miramezini,Mira Mezini,OOPSLA,2017,2017.0,2007.0,2007.0,False
+miramezini,Mira Mezini,OOPSLA1,2023,2017.0,2007.0,2007.0,True
+miramezini,Mira Mezini,OOPSLA2,2023,2017.0,2007.0,2007.0,True
+miramezini,Mira Mezini,PLDI,2022,2022.0,2013.0,2013.0,False
+miramezini,Mira Mezini,POPL,2018,2018.0,2018.0,2017.0,False
+mircotribastone,Mirco Tribastone,POPL,2020,2020.0,2020.0,2017.0,False
+mitchellwand,Mitchell Wand,ICFP,2021,2021.0,2008.0,2005.0,False
+mitchellwand,Mitchell Wand,OOPSLA,2021,2021.0,2021.0,2021.0,False
+mohamedfaouziatig,Mohamed Faouzi Atig,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+mohamedfaouziatig,Mohamed Faouzi Atig,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+mohamedfaouziatig,Mohamed Faouzi Atig,POPL,2021,2021.0,2021.0,2011.0,False
+mohsenlesani,Mohsen Lesani,OOPSLA,2020,2020.0,2020.0,2019.0,False
+mohsenlesani,Mohsen Lesani,PLDI,2023,2023.0,2023.0,2023.0,False
+mohsenlesani,Mohsen Lesani,POPL,2020,2020.0,2020.0,2017.0,False
+mukundraghotaman,Mukund Raghothaman,PLDI,2020,2020.0,2020.0,2016.0,False
+mukundraghotaman,Mukund Raghothaman,POPL,2025,2025.0,2023.0,2016.0,False
+muralidaranvijayaraghavan,Muralidaran Vijayaraghavan,PLDI,2024,2024.0,2024.0,2024.0,False
+muralikrishnaramanathan,Murali Krishna Ramanathan,PLDI,2024,2024.0,2024.0,2016.0,False
+nachiappanvalliappan,Nachiappan Valliappan,ICFP,2025,2025.0,2025.0,2021.0,False
+nadaamin,Nada Amin,ICFP,2025,2025.0,2025.0,2014.0,False
+nadaamin,Nada Amin,OOPSLA,2019,2019.0,2019.0,2019.0,False
+nadaamin,Nada Amin,PLDI,2024,2024.0,2024.0,2017.0,False
+nadaamin,Nada Amin,POPL,2018,2018.0,2018.0,2015.0,False
+nadiapolikarpova,Nadia Polikarpova,ICFP,2020,2020.0,2018.0,2018.0,False
+nadiapolikarpova,Nadia Polikarpova,OOPSLA,2018,2018.0,2018.0,2018.0,False
+nadiapolikarpova,Nadia Polikarpova,OOPSLA1,2023,2018.0,2018.0,2018.0,True
+nadiapolikarpova,Nadia Polikarpova,OOPSLA2,2023,2018.0,2018.0,2018.0,True
+nadiapolikarpova,Nadia Polikarpova,PLDI,2019,2019.0,2019.0,2018.0,False
+nadiapolikarpova,Nadia Polikarpova,POPL,2018,2018.0,2018.0,2017.0,False
+nameng,Na Meng,PLDI,2021,2021.0,2021.0,2011.0,False
+naokikobayashi,Naoki Kobayashi,POPL,2021,2021.0,2005.0,2005.0,False
+natefoster,Nate Foster,OOPSLA1,2025,2025.0,2015.0,2015.0,False
+natefoster,Nate Foster,OOPSLA2,2025,2025.0,2015.0,2015.0,False
+natefoster,Nate Foster,PLDI,2021,2021.0,2015.0,2014.0,False
+natefoster,Nate Foster,POPL,2019,2019.0,2014.0,2005.0,False
+nathanchong,Nathan Chong,PLDI,2021,2021.0,2021.0,2014.0,False
+neelakantankrishnaswami,Neel Krishnaswami,ICFP,2022,2022.0,2015.0,2010.0,False
+neelakantankrishnaswami,Neel Krishnaswami,OOPSLA1,2022,2022.0,2022.0,2008.0,False
+neelakantankrishnaswami,Neel Krishnaswami,OOPSLA2,2022,2022.0,2022.0,2008.0,False
+neelakantankrishnaswami,Neel Krishnaswami,PLDI,2019,2019.0,2019.0,2019.0,False
+neelakantankrishnaswami,Neel Krishnaswami,POPL,2018,2018.0,2014.0,2008.0,False
+nehaagarwal,Neha Agarwal,PLDI,2019,2019.0,2019.0,2019.0,False
+neiljulienross,Neil Julien Ross,PLDI,2025,2025.0,2025.0,2025.0,False
+neiljulienross,Neil Julien Ross,POPL,2024,2024.0,2024.0,2024.0,False
+nevillegrech,Neville Grech,OOPSLA1,2022,2022.0,2022.0,2020.0,False
+nevillegrech,Neville Grech,OOPSLA2,2022,2022.0,2022.0,2020.0,False
+nevillegrech,Neville Grech,PLDI,2022,2022.0,2022.0,2022.0,False
+nevillegrech,Neville Grech,POPL,2025,2025.0,2025.0,2025.0,False
+niccoloveltri,Niccolò Veltri,ICFP,2022,2022.0,2022.0,2021.0,False
+nickbenton1,Nick Benton,ICFP,2025,2025.0,2007.0,2005.0,False
+nickbenton1,Nick Benton,POPL,2024,2024.0,2009.0,2005.0,False
+nickgiannarakis,Nick Giannarakis,PLDI,2022,2022.0,2022.0,2020.0,False
+nicolastabareau,Nicolas Tabareau,POPL,2019,2019.0,2019.0,2011.0,False
+nicolaswu,Nicolas Wu,ICFP,2017,2017.0,2017.0,2014.0,False
+nicolaswu,Nicolas Wu,POPL,2022,2022.0,2022.0,2022.0,False
+nikhilswamy,Nikhil Swamy,ICFP,2017,2017.0,2013.0,2010.0,False
+nikhilswamy,Nikhil Swamy,PLDI,2021,2021.0,2021.0,2012.0,False
+nikhilswamy,Nikhil Swamy,POPL,2019,2019.0,2014.0,2009.0,False
+nikitakoval,Nikita Koval,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+nikitakoval,Nikita Koval,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+nikivazou,Niki Vazou,ICFP,2018,2018.0,2018.0,2018.0,False
+nikivazou,Niki Vazou,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+nikivazou,Niki Vazou,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+nikivazou,Niki Vazou,PLDI,2023,2023.0,2021.0,2016.0,False
+nikivazou,Niki Vazou,POPL,2019,2019.0,2019.0,2016.0,False
+nikostzevelekos,Nikos Tzevelekos,POPL,2024,2024.0,2024.0,2024.0,False
+nikosvasilakis,Nikos Vasilakis,PLDI,2021,2021.0,2021.0,2021.0,False
+nilsandersdanielsson,Nils Anders Danielsson,ICFP,2022,2022.0,2022.0,2008.0,False
+nilsandersdanielsson,Nils Anders Danielsson,POPL,2019,2019.0,2013.0,2008.0,False
+ninanarodytska,Nina Narodytska,OOPSLA,2018,2018.0,2018.0,2018.0,False
+ningluo1,Ning Luo,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+ningluo1,Ning Luo,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+ningningxie,Ningning Xie,ICFP,2022,2022.0,2022.0,2022.0,False
+ningningxie,Ningning Xie,PLDI,2023,2023.0,2023.0,2020.0,False
+ningningxie,Ningning Xie,POPL,2023,2023.0,2023.0,2023.0,False
+noamrinetzky,Noam Rinetzky,OOPSLA1,2024,2024.0,2013.0,2010.0,False
+noamrinetzky,Noam Rinetzky,OOPSLA2,2024,2024.0,2013.0,2010.0,False
+noamrinetzky,Noam Rinetzky,PLDI,2023,2023.0,2014.0,2008.0,False
+noamrinetzky,Noam Rinetzky,POPL,2020,2020.0,2014.0,2007.0,False
+noamzeilberger,Noam Zeilberger,POPL,2019,2019.0,2019.0,2012.0,False
+nobukoyoshida,Nobuko Yoshida,ICFP,2024,2024.0,2016.0,2016.0,False
+nobukoyoshida,Nobuko Yoshida,OOPSLA,2019,2019.0,2015.0,2013.0,False
+nobukoyoshida,Nobuko Yoshida,OOPSLA1,2025,2019.0,2015.0,2013.0,True
+nobukoyoshida,Nobuko Yoshida,OOPSLA2,2025,2019.0,2015.0,2013.0,True
+nobukoyoshida,Nobuko Yoshida,PLDI,2022,2022.0,2022.0,2022.0,False
+nobukoyoshida,Nobuko Yoshida,POPL,2021,2017.0,2008.0,2006.0,True
+normandanner,Norman Danner,ICFP,2022,2022.0,2022.0,2022.0,False
+normanramsey,Norman Ramsey,ICFP,2021,2021.0,2005.0,2005.0,False
+nunoplopes,Nuno P. Lopes,PLDI,2019,2019.0,2019.0,2019.0,False
+odedpadon,Oded Padon,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+odedpadon,Oded Padon,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+odedpadon,Oded Padon,PLDI,2021,2021.0,2021.0,2021.0,False
+odedpadon,Oded Padon,POPL,2023,2023.0,2023.0,2017.0,False
+ohadkammar,Ohad Kammar,ICFP,2025,2025.0,2025.0,2011.0,False
+ohadkammar,Ohad Kammar,POPL,2020,2020.0,2020.0,2014.0,False
+oliverbracevac,Oliver Bračevac,ICFP,2023,2023.0,2022.0,2022.0,False
+oliverbracevac,Oliver Bračevac,POPL,2025,2025.0,2025.0,2025.0,False
+ondrejlhotak,Ondřej Lhoták,OOPSLA,2019,2019.0,2010.0,2006.0,False
+onurmutlu1,Onur Mutlu,PLDI,2017,2017.0,2017.0,2017.0,False
+orilahav,Ori Lahav,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+orilahav,Ori Lahav,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+orilahav,Ori Lahav,PLDI,2023,2023.0,2023.0,2023.0,False
+orilahav,Ori Lahav,POPL,2019,2019.0,2019.0,2019.0,False
+orneladardha,Ornela Dardha,ICFP,2022,2022.0,2022.0,2022.0,False
+orneladardha,Ornela Dardha,POPL,2023,2023.0,2023.0,2023.0,False
+osbertbastani,Osbert Bastani,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+osbertbastani,Osbert Bastani,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+osbertbastani,Osbert Bastani,PLDI,2021,2021.0,2021.0,2018.0,False
+osbertbastani,Osbert Bastani,POPL,2020,2020.0,2020.0,2020.0,False
+owenarden,Owen Arden,PLDI,2024,2024.0,2024.0,2016.0,False
+owolabilegunsen,Owolabi Legunsen,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+owolabilegunsen,Owolabi Legunsen,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+owolabilegunsen,Owolabi Legunsen,PLDI,2023,2023.0,2023.0,2023.0,False
+pamelazave,Pamela Zave,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+pamelazave,Pamela Zave,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+paroshazizabdulla,Parosh Aziz Abdulla,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+paroshazizabdulla,Parosh Aziz Abdulla,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+paroshazizabdulla,Parosh Aziz Abdulla,PLDI,2023,2023.0,2023.0,2023.0,False
+paroshazizabdulla,Parosh Aziz Abdulla,POPL,2021,2021.0,2021.0,2006.0,False
+pascalweisenburger,Pascal Weisenburger,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+pascalweisenburger,Pascal Weisenburger,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+patricegodefroid,Patrice Godefroid,PLDI,2020,2020.0,2016.0,2008.0,False
+patriciapatriciajohann,Patricia Johann,ICFP,2021,2021.0,2006.0,2005.0,False
+patriciapatriciajohann,Patricia Johann,POPL,2019,2019.0,2009.0,2009.0,False
+patrickbahr,Patrick Bahr,ICFP,2024,2024.0,2024.0,2010.0,False
+patrickeugster,Patrick Eugster,OOPSLA1,2022,2022.0,2013.0,2012.0,False
+patrickeugster,Patrick Eugster,OOPSLA2,2022,2022.0,2013.0,2012.0,False
+patricklam,Patrick Lam,OOPSLA,2020,2020.0,2010.0,2010.0,False
+patricklam,Patrick Lam,PLDI,2022,2022.0,2018.0,2014.0,False
+patrikjansson,Patrik Jansson,ICFP,2023,2023.0,2023.0,2009.0,False
+pauldownen,Paul Downen,ICFP,2023,2023.0,2023.0,2012.0,False
+paulgazzillo,Paul Gazzillo,PLDI,2021,2021.0,2021.0,2021.0,False
+pavelchuprikov,Pavel Chuprikov,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+pavelchuprikov,Pavel Chuprikov,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+pavelpanchekha,Pavel Panchekha,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+pavelpanchekha,Pavel Panchekha,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+pavelpanchekha,Pavel Panchekha,PLDI,2021,2021.0,2018.0,2018.0,False
+pavelpanchekha,Pavel Panchekha,POPL,2022,2022.0,2022.0,2021.0,False
+pavelparizek,Pavel Parizek,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+pavelparizek,Pavel Parizek,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+pavolbielik,Pavol Bielik,PLDI,2021,2021.0,2021.0,2014.0,False
+pavolcerny,Pavol Cerny,POPL,2018,2018.0,2018.0,2015.0,False
+peisenyao,Peisen Yao,OOPSLA1,2025,2025.0,2025.0,2024.0,False
+peisenyao,Peisen Yao,OOPSLA2,2025,2025.0,2025.0,2024.0,False
+peisenyao,Peisen Yao,PLDI,2023,2023.0,2023.0,2023.0,False
+peisenyao,Peisen Yao,POPL,2025,2025.0,2025.0,2025.0,False
+pengwu,Peng Wu,OOPSLA,2017,2017.0,2017.0,2017.0,False
+petartsankov,Petar Tsankov,PLDI,2020,2020.0,2020.0,2017.0,False
+peteralvaro,Peter Alvaro,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+peteralvaro,Peter Alvaro,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+peterhawkins,Peter Hawkins,PLDI,2020,2020.0,2020.0,2014.0,False
+petermichaelosera,Peter-Michael Osera,PLDI,2023,2023.0,2023.0,2016.0,False
+petermller,Peter Müller,PLDI,2022,2022.0,2022.0,2019.0,False
+petermller,Peter Müller,POPL,2018,2018.0,2011.0,2005.0,False
+peterohearn,Peter O'Hearn,POPL,2019,2019.0,2006.0,2005.0,False
+peterohmann1,Peter Ohmann,PLDI,2024,2024.0,2024.0,2013.0,False
+peterselinger,Peter Selinger,POPL,2019,2019.0,2005.0,2005.0,False
+petersewell,Peter Sewell,OOPSLA1,2022,2022.0,2022.0,2007.0,False
+petersewell,Peter Sewell,OOPSLA2,2022,2022.0,2022.0,2007.0,False
+petersewell,Peter Sewell,POPL,2018,2018.0,2010.0,2007.0,False
+peterthiemann,Peter Thiemann,ICFP,2023,2023.0,2005.0,2005.0,False
+peterthiemann,Peter Thiemann,OOPSLA1,2023,2023.0,2023.0,2007.0,False
+peterthiemann,Peter Thiemann,OOPSLA2,2023,2023.0,2023.0,2007.0,False
+peterthiemann,Peter Thiemann,POPL,2020,2020.0,2008.0,2006.0,False
+philippagardner,Philippa Gardner,OOPSLA1,2022,2022.0,2009.0,2009.0,False
+philippagardner,Philippa Gardner,OOPSLA2,2022,2022.0,2009.0,2009.0,False
+philippghaselwarter,Philipp G. Haselwarter,PLDI,2025,2025.0,2025.0,2025.0,False
+philipphaller,Philipp Haller,OOPSLA1,2023,2023.0,2023.0,2006.0,False
+philipphaller,Philipp Haller,OOPSLA2,2023,2023.0,2023.0,2006.0,False
+philipphaller,Philipp Haller,POPL,2025,2025.0,2025.0,2008.0,False
+philippruemmer,Philipp Ruemmer,POPL,2022,2022.0,2022.0,2009.0,False
+philipwadler,Philip Wadler,POPL,2018,2018.0,2006.0,2005.0,False
+phitchayamangpophothilimthana,Phitchaya Mangpo Phothilimthana,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+phitchayamangpophothilimthana,Phitchaya Mangpo Phothilimthana,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+phitchayamangpophothilimthana,Phitchaya Mangpo Phothilimthana,PLDI,2020,2020.0,2020.0,2018.0,False
+pierreclairambault,Pierre Clairambault,POPL,2022,2022.0,2022.0,2022.0,False
+pierreevaristedagand,Pierre-Evariste Dagand,ICFP,2019,2019.0,2019.0,2012.0,False
+pierreganty,Pierre Ganty,POPL,2021,2021.0,2021.0,2007.0,False
+pierregeneves,Pierre Geneves,PLDI,2023,2023.0,2023.0,2023.0,False
+pierremariepedrot,Pierre-Marie Pédrot,POPL,2024,2024.0,2024.0,2024.0,False
+pierreyvesstrub,Pierre-Yves Strub,ICFP,2019,2019.0,2019.0,2013.0,False
+pierreyvesstrub,Pierre-Yves Strub,POPL,2020,2020.0,2020.0,2014.0,False
+pietroferrara1,Pietro Ferrara,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+pietroferrara1,Pietro Ferrara,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+pinjiahe,Pinjia He,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+pinjiahe,Pinjia He,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+pmadhusudan,P. Madhusudan,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+pmadhusudan,P. Madhusudan,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+pmadhusudan,P. Madhusudan,PLDI,2024,2024.0,2014.0,2009.0,False
+pmadhusudan,P. Madhusudan,POPL,2019,2019.0,2012.0,2012.0,False
+qirunzhang,Qirun Zhang,OOPSLA1,2023,2023.0,2023.0,2013.0,False
+qirunzhang,Qirun Zhang,OOPSLA2,2023,2023.0,2023.0,2013.0,False
+qirunzhang,Qirun Zhang,PLDI,2020,2020.0,2020.0,2017.0,False
+qirunzhang,Qirun Zhang,POPL,2022,2022.0,2022.0,2022.0,False
+quentinstievenart,Quentin Stiévenart,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+quentinstievenart,Quentin Stiévenart,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+rachitnigam,Rachit Nigam,PLDI,2025,2025.0,2025.0,2019.0,False
+radhajagadeesan,Radha Jagadeesan,POPL,2020,2020.0,2020.0,2008.0,False
+radugrigore,Radu Grigore,POPL,2019,2019.0,2019.0,2019.0,False
+raghuprabhakar,Raghu Prabhakar,PLDI,2022,2022.0,2022.0,2022.0,False
+ragnarmogk,Ragnar Mogk,OOPSLA1,2023,2023.0,2023.0,2021.0,False
+ragnarmogk,Ragnar Mogk,OOPSLA2,2023,2023.0,2023.0,2021.0,False
+rahulgopinath,Rahul Gopinath,OOPSLA1,2024,2024.0,2024.0,2019.0,False
+rahulgopinath,Rahul Gopinath,OOPSLA2,2024,2024.0,2024.0,2019.0,False
+rahulsharma,Rahul Sharma,OOPSLA,2018,2018.0,2018.0,2016.0,False
+rahulsharma,Rahul Sharma,PLDI,2018,2018.0,2018.0,2013.0,False
+rahulsharma,Rahul Sharma,POPL,2021,2021.0,2021.0,2016.0,False
+rajivgupta,Rajiv Gupta,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+rajivgupta,Rajiv Gupta,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+ralfhinze,Ralf Hinze,ICFP,2024,2024.0,2014.0,2005.0,False
+ralfhinze,Ralf Hinze,POPL,2022,2022.0,2005.0,2005.0,False
+ralfjung,Ralf Jung,ICFP,2021,2021.0,2021.0,2019.0,False
+ralfjung,Ralf Jung,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+ralfjung,Ralf Jung,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+ralfjung,Ralf Jung,PLDI,2022,2022.0,2022.0,2022.0,False
+ralfjung,Ralf Jung,POPL,2023,2023.0,2023.0,2017.0,False
+ranjitjhala,Ranjit Jhala,ICFP,2017,2017.0,2017.0,2010.0,False
+ranjitjhala,Ranjit Jhala,OOPSLA1,2022,2022.0,2022.0,2007.0,False
+ranjitjhala,Ranjit Jhala,OOPSLA2,2022,2022.0,2022.0,2007.0,False
+ranjitjhala,Ranjit Jhala,PLDI,2021,2021.0,2010.0,2005.0,False
+ranjitjhala,Ranjit Jhala,POPL,2022,2017.0,2008.0,2005.0,True
+rastislavbodik,Rastislav Bodík,PLDI,2023,2023.0,2010.0,2007.0,False
+rastislavbodik,Rastislav Bodík,POPL,2020,2020.0,2005.0,2005.0,False
+ravichugh,Ravi Chugh,PLDI,2017,2017.0,2017.0,2014.0,False
+ravichugh,Ravi Chugh,POPL,2021,2021.0,2015.0,2014.0,False
+retoachermann,Reto Achermann,PLDI,2025,2025.0,2025.0,2025.0,False
+rezwanakarim,Rezwana Karim,OOPSLA,2017,2017.0,2017.0,2017.0,False
+richardeisenberg,Richard A. Eisenberg,ICFP,2020,2020.0,2020.0,2015.0,False
+richardeisenberg,Richard A. Eisenberg,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+richardeisenberg,Richard A. Eisenberg,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+richardeisenberg,Richard A. Eisenberg,POPL,2023,2023.0,2023.0,2017.0,False
+rishabhsingh,Rishabh Singh,PLDI,2017,2017.0,2017.0,2017.0,False
+rishabhsingh,Rishabh Singh,POPL,2021,2017.0,2017.0,2011.0,True
+rishiyurnikhil,Rishiyur Nikhil,ICFP,2021,2021.0,2021.0,2021.0,False
+robbertkrebbers,Robbert Krebbers,ICFP,2020,2020.0,2020.0,2011.0,False
+robbertkrebbers,Robbert Krebbers,OOPSLA1,2022,2022.0,2022.0,2019.0,False
+robbertkrebbers,Robbert Krebbers,OOPSLA2,2022,2022.0,2022.0,2019.0,False
+robbertkrebbers,Robbert Krebbers,PLDI,2023,2023.0,2023.0,2023.0,False
+robbertkrebbers,Robbert Krebbers,POPL,2019,2019.0,2019.0,2017.0,False
+robbyfindler,Robert Bruce Findler,ICFP,2025,2025.0,2006.0,2005.0,False
+robbyfindler,Robert Bruce Findler,POPL,2023,2023.0,2008.0,2006.0,False
+robertagori1,Roberta Gori,POPL,2025,2025.0,2025.0,2025.0,False
+robertatkey,Robert Atkey,ICFP,2017,2017.0,2017.0,2010.0,False
+robertatkey,Robert Atkey,POPL,2019,2019.0,2016.0,2011.0,False
+robertharper1,Robert Harper,ICFP,2022,2022.0,2022.0,2006.0,False
+roberthirschfeld,Robert Hirschfeld,OOPSLA,2020,2020.0,2008.0,2006.0,False
+robertogiacobazzi,Roberto Giacobazzi,POPL,2024,2024.0,2010.0,2007.0,False
+robertrand,Robert Rand,PLDI,2022,2022.0,2022.0,2019.0,False
+robertrand,Robert Rand,POPL,2023,2023.0,2023.0,2021.0,False
+robsison,Rob Sison,PLDI,2024,2024.0,2024.0,2024.0,False
+rodolphelepigre,Rodolphe Lepigre,POPL,2024,2024.0,2024.0,2017.0,False
+rohanbavishi,Rohan Bavishi,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+rohanbavishi,Rohan Bavishi,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+rohanpadhye,Rohan Padhye,PLDI,2025,2025.0,2025.0,2018.0,False
+rolandmeyer,Roland Meyer,POPL,2021,2021.0,2021.0,2010.0,False
+romainrobbes,Romain Robbes,OOPSLA,2017,2017.0,2017.0,2017.0,False
+ronaldgarcia,Ronald Garcia,ICFP,2017,2017.0,2011.0,2009.0,False
+ronaldgarcia,Ronald Garcia,OOPSLA,2019,2019.0,2019.0,2016.0,False
+ronaldgarcia,Ronald Garcia,OOPSLA1,2025,2019.0,2019.0,2016.0,True
+ronaldgarcia,Ronald Garcia,OOPSLA2,2025,2019.0,2019.0,2016.0,True
+ronaldgarcia,Ronald Garcia,PLDI,2024,2024.0,2024.0,2020.0,False
+ronaldgarcia,Ronald Garcia,POPL,2022,2017.0,2017.0,2017.0,True
+ronghuigu,Ronghui Gu,PLDI,2020,2020.0,2020.0,2018.0,False
+ronghuigu,Ronghui Gu,POPL,2022,2022.0,2022.0,2022.0,False
+roopshasamanta,Roopsha Samanta,OOPSLA,2018,2018.0,2018.0,2018.0,False
+roopshasamanta,Roopsha Samanta,PLDI,2021,2021.0,2021.0,2014.0,False
+roopshasamanta,Roopsha Samanta,POPL,2020,2020.0,2020.0,2020.0,False
+rosstate,Ross Tate,OOPSLA,2019,2019.0,2019.0,2019.0,False
+rosstate,Ross Tate,OOPSLA1,2023,2019.0,2019.0,2019.0,True
+rosstate,Ross Tate,OOPSLA2,2023,2019.0,2019.0,2019.0,True
+rosstate,Ross Tate,PLDI,2018,2018.0,2018.0,2018.0,False
+rubenmartins,Ruben Martins,OOPSLA1,2025,2025.0,2025.0,2020.0,False
+rubenmartins,Ruben Martins,OOPSLA2,2025,2025.0,2025.0,2020.0,False
+rubenmartins,Ruben Martins,PLDI,2022,2022.0,2022.0,2022.0,False
+rupakmajumdar,Rupak Majumdar,PLDI,2022,2022.0,2014.0,2005.0,False
+rupakmajumdar,Rupak Majumdar,POPL,2021,2021.0,2012.0,2005.0,False
+ruzicapiskac,Ruzica Piskac,PLDI,2018,2018.0,2015.0,2011.0,False
+ruzicapiskac,Ruzica Piskac,POPL,2018,2018.0,2015.0,2011.0,False
+ryanbeckett1,Ryan Beckett,PLDI,2023,2023.0,2023.0,2018.0,False
+ryanbeckett1,Ryan Beckett,POPL,2025,2025.0,2025.0,2025.0,False
+ryanrnewton,Ryan R. Newton,ICFP,2022,2022.0,2013.0,2013.0,False
+ryanrnewton,Ryan R. Newton,PLDI,2018,2018.0,2018.0,2008.0,False
+ryanrnewton,Ryan R. Newton,POPL,2019,2019.0,2019.0,2014.0,False
+ryosukesato,Ryosuke Sato,ICFP,2024,2024.0,2024.0,2020.0,False
+saeedmaleki,Saeed Maleki,PLDI,2022,2022.0,2022.0,2014.0,False
+samanamarasinghe,Saman Amarasinghe,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+samanamarasinghe,Saman Amarasinghe,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+samanamarasinghe,Saman Amarasinghe,PLDI,2025,2025.0,2011.0,2007.0,False
+samguyer,Sam Guyer,PLDI,2020,2020.0,2016.0,2005.0,False
+samlindley,Sam Lindley,ICFP,2018,2018.0,2011.0,2009.0,False
+samlindley,Sam Lindley,PLDI,2025,2025.0,2025.0,2025.0,False
+samlindley,Sam Lindley,POPL,2020,2020.0,2020.0,2007.0,False
+samstaton,Sam Staton,ICFP,2019,2019.0,2013.0,2013.0,False
+samstaton,Sam Staton,POPL,2022,2017.0,2017.0,2011.0,True
+samtobinhochstadt,Sam Tobin-Hochstadt,ICFP,2017,2017.0,2012.0,2008.0,False
+samtobinhochstadt,Sam Tobin-Hochstadt,OOPSLA,2018,2018.0,2012.0,2009.0,False
+samtobinhochstadt,Sam Tobin-Hochstadt,PLDI,2023,2023.0,2015.0,2014.0,False
+samtobinhochstadt,Sam Tobin-Hochstadt,POPL,2019,2019.0,2019.0,2015.0,False
+samuelgruetter,Samuel Gruetter,PLDI,2025,2025.0,2025.0,2025.0,False
+samwestrick,Sam Westrick,PLDI,2025,2025.0,2023.0,2023.0,False
+sandeepdasgupta,Sandeep Dasgupta,PLDI,2021,2021.0,2021.0,2021.0,False
+sandrineblazy,Sandrine Blazy,ICFP,2018,2018.0,2018.0,2018.0,False
+sandrineblazy,Sandrine Blazy,POPL,2020,2020.0,2020.0,2009.0,False
+santiagozanellabeguelin,Santiago Zanella-Béguelin,POPL,2021,2021.0,2021.0,2021.0,False
+santoshnagarakatte,Santosh Nagarakatte,OOPSLA,2018,2018.0,2014.0,2014.0,False
+santoshnagarakatte,Santosh Nagarakatte,PLDI,2020,2020.0,2015.0,2015.0,False
+santoshnagarakatte,Santosh Nagarakatte,POPL,2018,2018.0,2018.0,2014.0,False
+santoshpande1,Santosh Pande,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+santoshpande1,Santosh Pande,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+saraachour,Sara Achour,OOPSLA,2019,2019.0,2019.0,2019.0,False
+saraachour,Sara Achour,PLDI,2021,2021.0,2018.0,2017.0,False
+sarahchasins,Sarah E. Chasins,OOPSLA,2020,2020.0,2020.0,2020.0,False
+sarahchasins,Sarah E. Chasins,PLDI,2022,2022.0,2021.0,2020.0,False
+sarahchasins,Sarah E. Chasins,POPL,2025,2025.0,2025.0,2025.0,False
+sarahnadi,Sarah Nadi,OOPSLA,2017,2017.0,2017.0,2017.0,False
+sarahnadi,Sarah Nadi,OOPSLA1,2023,2017.0,2017.0,2017.0,True
+sarahnadi,Sarah Nadi,OOPSLA2,2023,2017.0,2017.0,2017.0,True
+sasamisailovic,Sasa Misailovic,OOPSLA,2017,2017.0,2017.0,2010.0,False
+sasamisailovic,Sasa Misailovic,PLDI,2017,2017.0,2017.0,2016.0,False
+saswatpadhi,Saswat Padhi,PLDI,2021,2021.0,2021.0,2020.0,False
+satishchandra,Satish Chandra,OOPSLA1,2023,2023.0,2023.0,2007.0,False
+satishchandra,Satish Chandra,OOPSLA2,2023,2023.0,2023.0,2007.0,False
+satishchandra,Satish Chandra,PLDI,2020,2020.0,2006.0,2006.0,False
+satishchandra,Satish Chandra,POPL,2025,2025.0,2015.0,2006.0,False
+satishnarayanasamy,Satish Narayanasamy,PLDI,2022,2022.0,2013.0,2007.0,False
+satnamsingh,Satnam Singh,ICFP,2023,2023.0,2012.0,2009.0,False
+satnamsingh,Satnam Singh,POPL,2024,2024.0,2024.0,2012.0,False
+saumyadebray,Saumya Debray,PLDI,2021,2021.0,2006.0,2006.0,False
+sauravmuralidharan,Saurav Muralidharan,PLDI,2021,2021.0,2021.0,2014.0,False
+scottowens,Scott Owens,ICFP,2024,2024.0,2016.0,2005.0,False
+scottowens,Scott Owens,POPL,2019,2019.0,2019.0,2010.0,False
+seanmoss,Sean Moss,ICFP,2023,2023.0,2023.0,2023.0,False
+seantreichler,Sean Treichler,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+seantreichler,Sean Treichler,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+seantreichler,Sean Treichler,PLDI,2022,2022.0,2022.0,2013.0,False
+sebastianburckhardt,Sebastian Burckhardt,OOPSLA,2020,2020.0,2011.0,2010.0,False
+sebastianburckhardt,Sebastian Burckhardt,OOPSLA1,2023,2020.0,2011.0,2010.0,True
+sebastianburckhardt,Sebastian Burckhardt,OOPSLA2,2023,2020.0,2011.0,2010.0,True
+sebastianburckhardt,Sebastian Burckhardt,PLDI,2020,2020.0,2020.0,2008.0,False
+sebastianerdweg,Sebastian Erdweg,ICFP,2023,2023.0,2023.0,2018.0,False
+sebastianerdweg,Sebastian Erdweg,OOPSLA,2019,2019.0,2019.0,2014.0,False
+sebastianerdweg,Sebastian Erdweg,OOPSLA1,2023,2019.0,2019.0,2014.0,True
+sebastianerdweg,Sebastian Erdweg,OOPSLA2,2023,2019.0,2019.0,2014.0,True
+sebastianhack,Sebastian Hack,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+sebastianhack,Sebastian Hack,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+sebastianhack,Sebastian Hack,PLDI,2021,2021.0,2021.0,2018.0,False
+sebastienbardin,Sébastien Bardin,PLDI,2025,2025.0,2025.0,2025.0,False
+senchen,Sen Chen,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+senchen,Sen Chen,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+shacharitzhaky,Shachar Itzhaky,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+shacharitzhaky,Shachar Itzhaky,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+shacharitzhaky,Shachar Itzhaky,PLDI,2018,2018.0,2018.0,2017.0,False
+shanemcintosh,Shane McIntosh,OOPSLA,2017,2017.0,2017.0,2017.0,False
+shanlu,Shan Lu,PLDI,2017,2017.0,2013.0,2008.0,False
+shaohuali,Shaohua Li,PLDI,2025,2025.0,2023.0,2023.0,False
+sharadmalik,Sharad Malik,PLDI,2025,2025.0,2025.0,2012.0,False
+sharonshoham,Sharon Shoham,PLDI,2017,2017.0,2017.0,2017.0,False
+sharonshoham,Sharon Shoham,POPL,2025,2017.0,2017.0,2017.0,True
+shazqadeer,Shaz Qadeer,OOPSLA1,2023,2023.0,2010.0,2010.0,False
+shazqadeer,Shaz Qadeer,OOPSLA2,2023,2023.0,2010.0,2010.0,False
+shazqadeer,Shaz Qadeer,PLDI,2019,2019.0,2009.0,2007.0,False
+shazqadeer,Shaz Qadeer,POPL,2025,2025.0,2015.0,2005.0,False
+shengchen1,Sheng Chen,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+shengchen1,Sheng Chen,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+shengchen1,Sheng Chen,POPL,2021,2021.0,2021.0,2021.0,False
+shigeruchiba,Shigeru Chiba,OOPSLA,2021,2021.0,2006.0,2005.0,False
+shigeruchiba,Shigeru Chiba,OOPSLA1,2024,2021.0,2006.0,2005.0,True
+shigeruchiba,Shigeru Chiba,OOPSLA2,2024,2021.0,2006.0,2005.0,True
+shinchengmu,Shin-Cheng Mu,ICFP,2024,2024.0,2009.0,2007.0,False
+shinyakatsumata,Shin-ya Katsumata,ICFP,2017,2017.0,2013.0,2013.0,False
+shinyakatsumata,Shin-ya Katsumata,POPL,2022,2022.0,2022.0,2020.0,False
+shoaibkamil,Shoaib Kamil,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+shoaibkamil,Shoaib Kamil,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+shoaibkamil,Shoaib Kamil,PLDI,2020,2020.0,2018.0,2014.0,False
+shriramkrishnamurthi,Shriram Krishnamurthi,OOPSLA1,2023,2023.0,2008.0,2007.0,False
+shriramkrishnamurthi,Shriram Krishnamurthi,OOPSLA2,2023,2023.0,2008.0,2007.0,False
+shriramkrishnamurthi,Shriram Krishnamurthi,PLDI,2019,2019.0,2014.0,2014.0,False
+shumochu,Shumo Chu,PLDI,2022,2022.0,2022.0,2017.0,False
+shuvendulahiri,Shuvendu K. Lahiri,PLDI,2022,2022.0,2022.0,2010.0,False
+shuvendulahiri,Shuvendu K. Lahiri,POPL,2020,2020.0,2020.0,2005.0,False
+silviaghilezan,Silvia Ghilezan,ICFP,2022,2022.0,2013.0,2012.0,False
+simonjgay,Simon J. Gay,ICFP,2023,2023.0,2023.0,2023.0,False
+simonpeytonjones,Simon Peyton Jones,ICFP,2022,2022.0,2007.0,2005.0,False
+simonpeytonjones,Simon Peyton Jones,PLDI,2021,2021.0,2010.0,2007.0,False
+simonpeytonjones,Simon Peyton Jones,POPL,2021,2021.0,2006.0,2005.0,False
+sohamchakraborty,Soham Chakraborty,POPL,2024,2024.0,2024.0,2020.0,False
+someshjha,Somesh Jha,POPL,2021,2021.0,2016.0,2012.0,False
+soniamarin,Sonia Marin,ICFP,2023,2023.0,2023.0,2023.0,False
+sooyoungcha1,Sooyoung Cha,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+sooyoungcha1,Sooyoung Cha,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+sophiadrossopoulou,Sophia Drossopoulou,OOPSLA,2020,2020.0,2009.0,2006.0,False
+sophiadrossopoulou,Sophia Drossopoulou,OOPSLA1,2022,2020.0,2009.0,2006.0,True
+sophiadrossopoulou,Sophia Drossopoulou,OOPSLA2,2022,2020.0,2009.0,2006.0,True
+sophiadrossopoulou,Sophia Drossopoulou,PLDI,2024,2024.0,2024.0,2011.0,False
+sophiadrossopoulou,Sophia Drossopoulou,POPL,2018,2018.0,2006.0,2006.0,False
+soravbansal1,Sorav Bansal,PLDI,2021,2021.0,2021.0,2021.0,False
+soravbansal1,Sorav Bansal,POPL,2025,2025.0,2025.0,2025.0,False
+sorinlerner,Sorin Lerner,OOPSLA1,2023,2023.0,2011.0,2011.0,False
+sorinlerner,Sorin Lerner,OOPSLA2,2023,2023.0,2011.0,2011.0,False
+sorinlerner,Sorin Lerner,PLDI,2018,2018.0,2013.0,2007.0,False
+sorinlerner,Sorin Lerner,POPL,2018,2018.0,2008.0,2006.0,False
+sotirisapostolakis,Sotiris Apostolakis,PLDI,2023,2023.0,2023.0,2023.0,False
+sreepathipai,Sreepathi Pai,OOPSLA1,2024,2024.0,2024.0,2021.0,False
+sreepathipai,Sreepathi Pai,OOPSLA2,2024,2024.0,2024.0,2021.0,False
+sreepathipai,Sreepathi Pai,PLDI,2022,2022.0,2021.0,2014.0,False
+sriramkrishnamoorthy,Sriram Krishnamoorthy,PLDI,2020,2020.0,2020.0,2018.0,False
+sriramrajamani,Sriram Rajamani,POPL,2024,2024.0,2005.0,2005.0,False
+sriramsankaranarayanan,Sriram Sankaranarayanan,POPL,2021,2021.0,2021.0,2005.0,False
+stefanbrunthaler,Stefan Brunthaler,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+stefanbrunthaler,Stefan Brunthaler,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+stefankmuller,Stefan K. Muller,ICFP,2021,2021.0,2021.0,2020.0,False
+stefankmuller,Stefan K. Muller,POPL,2024,2024.0,2024.0,2024.0,False
+stefanmarr,Stefan Marr,OOPSLA1,2022,2022.0,2022.0,2010.0,False
+stefanmarr,Stefan Marr,OOPSLA2,2022,2022.0,2022.0,2010.0,False
+stefanmonnier,Stefan Monnier,ICFP,2024,2024.0,2024.0,2008.0,False
+stephaniebalzer,Stephanie Balzer,ICFP,2021,2021.0,2021.0,2020.0,False
+stephaniebalzer,Stephanie Balzer,OOPSLA1,2023,2023.0,2023.0,2013.0,False
+stephaniebalzer,Stephanie Balzer,OOPSLA2,2023,2023.0,2023.0,2013.0,False
+stephaniebalzer,Stephanie Balzer,POPL,2023,2023.0,2023.0,2016.0,False
+stephanieweirich,Stephanie Weirich,ICFP,2022,2022.0,2007.0,2005.0,False
+stephanieweirich,Stephanie Weirich,POPL,2018,2018.0,2006.0,2005.0,False
+stephenchang,Stephen Chang,PLDI,2024,2024.0,2024.0,2019.0,False
+stephenchong,Stephen Chong,PLDI,2023,2023.0,2023.0,2008.0,False
+stephendolan,Stephen Dolan,ICFP,2023,2023.0,2023.0,2014.0,False
+stephendolan,Stephen Dolan,POPL,2024,2024.0,2024.0,2024.0,False
+stephenfreund,Stephen N. Freund,PLDI,2020,2020.0,2017.0,2005.0,False
+stephenkell,Stephen Kell,OOPSLA1,2022,2022.0,2022.0,2019.0,False
+stephenkell,Stephen Kell,OOPSLA2,2022,2022.0,2022.0,2019.0,False
+stephenkell,Stephen Kell,PLDI,2021,2021.0,2021.0,2020.0,False
+steveblackburn,Steve Blackburn,OOPSLA,2018,2018.0,2006.0,2006.0,False
+steveblackburn,Steve Blackburn,OOPSLA1,2024,2018.0,2006.0,2006.0,True
+steveblackburn,Steve Blackburn,OOPSLA2,2024,2018.0,2006.0,2006.0,True
+steveblackburn,Steve Blackburn,PLDI,2021,2021.0,2005.0,2005.0,False
+stevenholtzen,Steven Holtzen,OOPSLA1,2023,2023.0,2023.0,2022.0,False
+stevenholtzen,Steven Holtzen,OOPSLA2,2023,2023.0,2023.0,2022.0,False
+stevenholtzen,Steven Holtzen,PLDI,2022,2022.0,2022.0,2022.0,False
+stevenholtzen,Steven Holtzen,POPL,2025,2025.0,2025.0,2023.0,False
+stevenramsay,Steven Ramsay,POPL,2024,2024.0,2024.0,2017.0,False
+stevezdancewic,Steve Zdancewic,ICFP,2021,2021.0,2006.0,2005.0,False
+stevezdancewic,Steve Zdancewic,POPL,2020,2020.0,2008.0,2005.0,False
+subhajitroy,Subhajit Roy,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+subhajitroy,Subhajit Roy,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+sugumanbansal1,Suguman Bansal,POPL,2024,2024.0,2024.0,2024.0,False
+sukyoungryu,Sukyoung Ryu,OOPSLA,2018,2018.0,2014.0,2010.0,False
+sukyoungryu,Sukyoung Ryu,OOPSLA1,2023,2018.0,2014.0,2010.0,True
+sukyoungryu,Sukyoung Ryu,OOPSLA2,2023,2018.0,2014.0,2010.0,True
+sukyoungryu,Sukyoung Ryu,PLDI,2018,2018.0,2018.0,2018.0,False
+sukyoungryu,Sukyoung Ryu,POPL,2020,2020.0,2020.0,2013.0,False
+suparnabhattacharya,Suparna Bhattacharya,OOPSLA,2017,2017.0,2017.0,2011.0,False
+sureshjagannathan,Suresh Jagannathan,ICFP,2021,2021.0,2006.0,2005.0,False
+sureshjagannathan,Suresh Jagannathan,OOPSLA1,2022,2022.0,2009.0,2009.0,False
+sureshjagannathan,Suresh Jagannathan,OOPSLA2,2022,2022.0,2009.0,2009.0,False
+sureshjagannathan,Suresh Jagannathan,PLDI,2019,2019.0,2011.0,2010.0,False
+sureshjagannathan,Suresh Jagannathan,POPL,2019,2019.0,2012.0,2006.0,False
+susmitjha1,Susmit Jha,PLDI,2022,2022.0,2022.0,2022.0,False
+susmitsarkar,Susmit Sarkar,ICFP,2023,2023.0,2023.0,2010.0,False
+susmitsarkar,Susmit Sarkar,PLDI,2023,2023.0,2023.0,2013.0,False
+susmitsarkar,Susmit Sarkar,POPL,2020,2020.0,2020.0,2010.0,False
+swaratchaudhuri,Swarat Chaudhuri,PLDI,2017,2017.0,2013.0,2013.0,False
+swaratchaudhuri,Swarat Chaudhuri,POPL,2019,2019.0,2012.0,2010.0,False
+swarnendubiswas,Swarnendu Biswas,OOPSLA1,2024,2024.0,2024.0,2015.0,False
+swarnendubiswas,Swarnendu Biswas,OOPSLA2,2024,2024.0,2024.0,2015.0,False
+swarnendubiswas,Swarnendu Biswas,PLDI,2024,2024.0,2024.0,2014.0,False
+sylvanclebsch,Sylvan Clebsch,OOPSLA1,2024,2024.0,2024.0,2016.0,False
+sylvanclebsch,Sylvan Clebsch,OOPSLA2,2024,2024.0,2024.0,2016.0,False
+sylvieputot,Sylvie Putot,POPL,2020,2020.0,2020.0,2016.0,False
+tachioterauchi,Tachio Terauchi,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+tachioterauchi,Tachio Terauchi,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+tachioterauchi,Tachio Terauchi,PLDI,2022,2022.0,2022.0,2010.0,False
+tachioterauchi,Tachio Terauchi,POPL,2018,2018.0,2012.0,2010.0,False
+tahinaramananandro,Tahina Ramananandro,ICFP,2023,2023.0,2023.0,2023.0,False
+tahinaramananandro,Tahina Ramananandro,PLDI,2021,2021.0,2021.0,2020.0,False
+tahinaramananandro,Tahina Ramananandro,POPL,2025,2025.0,2025.0,2023.0,False
+takeshitsukada,Takeshi Tsukada,ICFP,2023,2023.0,2023.0,2012.0,False
+taliaringer,Talia Ringer,ICFP,2023,2023.0,2023.0,2020.0,False
+taliaringer,Talia Ringer,PLDI,2022,2022.0,2022.0,2022.0,False
+taliaringer,Talia Ringer,POPL,2024,2024.0,2024.0,2024.0,False
+tamararezk,Tamara Rezk,PLDI,2021,2021.0,2021.0,2018.0,False
+tamasszabo1,Tamás Szabó,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+tamasszabo1,Tamás Szabó,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+tarosekiyama,Taro Sekiyama,ICFP,2021,2021.0,2021.0,2021.0,False
+tarosekiyama,Taro Sekiyama,PLDI,2025,2025.0,2025.0,2019.0,False
+tarosekiyama,Taro Sekiyama,POPL,2021,2021.0,2021.0,2014.0,False
+tatianashpeisman,Tatiana Shpeisman,PLDI,2018,2018.0,2013.0,2005.0,False
+tejchajed,Tej Chajed,PLDI,2022,2022.0,2022.0,2020.0,False
+tejchajed,Tej Chajed,POPL,2023,2023.0,2023.0,2022.0,False
+thanhvunguyen,ThanhVu Nguyen,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+thanhvunguyen,ThanhVu Nguyen,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+thanhvunguyen,ThanhVu Nguyen,PLDI,2024,2024.0,2024.0,2018.0,False
+theowinterhalter,Théo Winterhalter,ICFP,2025,2025.0,2025.0,2025.0,False
+theowinterhalter,Théo Winterhalter,POPL,2023,2023.0,2023.0,2022.0,False
+thodorissotiropoulos,Thodoris Sotiropoulos,PLDI,2024,2024.0,2023.0,2022.0,False
+thomasball,Thomas Ball,PLDI,2025,2025.0,2006.0,2005.0,False
+thomasbourgeat2,Thomas Bourgeat,PLDI,2024,2024.0,2024.0,2024.0,False
+thomaskoehler,Thomas Koehler,PLDI,2025,2025.0,2025.0,2025.0,False
+thomaspjensen,Thomas P. Jensen,ICFP,2024,2024.0,2024.0,2024.0,False
+thomasreps,Thomas Reps,PLDI,2021,2021.0,2021.0,2021.0,False
+thomasreps,Thomas Reps,POPL,2024,2024.0,2024.0,2024.0,False
+thomasshull,Thomas Shull,PLDI,2021,2021.0,2021.0,2021.0,False
+thomaswahl,Thomas Wahl,PLDI,2022,2022.0,2022.0,2022.0,False
+thomaswies,Thomas Wies,PLDI,2022,2022.0,2022.0,2022.0,False
+thomaswies,Thomas Wies,POPL,2020,2020.0,2014.0,2006.0,False
+thorstenaltenkirch,Thorsten Altenkirch,POPL,2018,2018.0,2018.0,2008.0,False
+tiagocogumbreiro,Tiago Cogumbreiro,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+tiagocogumbreiro,Tiago Cogumbreiro,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+tiarkrompf,Tiark Rompf,ICFP,2025,2025.0,2014.0,2014.0,False
+tiarkrompf,Tiark Rompf,OOPSLA,2019,2019.0,2015.0,2015.0,False
+tiarkrompf,Tiark Rompf,OOPSLA1,2024,2019.0,2015.0,2015.0,True
+tiarkrompf,Tiark Rompf,OOPSLA2,2024,2019.0,2015.0,2015.0,True
+tiarkrompf,Tiark Rompf,PLDI,2018,2018.0,2015.0,2015.0,False
+tiarkrompf,Tiark Rompf,POPL,2020,2020.0,2016.0,2016.0,False
+tiennguyen,Tien N. Nguyen,OOPSLA1,2024,2024.0,2024.0,2011.0,False
+tiennguyen,Tien N. Nguyen,OOPSLA2,2024,2024.0,2024.0,2011.0,False
+tijsvanderstorm,Tijs van der Storm,OOPSLA1,2023,2023.0,2016.0,2013.0,False
+tijsvanderstorm,Tijs van der Storm,OOPSLA2,2023,2023.0,2016.0,2013.0,False
+timharris,Tim Harris,PLDI,2017,2017.0,2007.0,2005.0,False
+timongehr,Timon Gehr,PLDI,2021,2021.0,2021.0,2020.0,False
+timongehr,Timon Gehr,POPL,2025,2025.0,2025.0,2024.0,False
+tingcao,Ting Cao,PLDI,2021,2021.0,2021.0,2019.0,False
+tobiasgrosser,Tobias Grosser,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+tobiasgrosser,Tobias Grosser,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+tobiaswrigstad,Tobias Wrigstad,OOPSLA,2018,2018.0,2011.0,2005.0,False
+tobiaswrigstad,Tobias Wrigstad,OOPSLA1,2024,2018.0,2011.0,2005.0,True
+tobiaswrigstad,Tobias Wrigstad,OOPSLA2,2024,2018.0,2011.0,2005.0,True
+tobiaswrigstad,Tobias Wrigstad,PLDI,2018,2018.0,2018.0,2015.0,False
+tobymurray,Toby Murray,PLDI,2021,2021.0,2021.0,2020.0,False
+toddmillstein,Todd Millstein,OOPSLA,2018,2018.0,2006.0,2005.0,False
+toddmillstein,Todd Millstein,PLDI,2021,2021.0,2006.0,2006.0,False
+toddmillstein,Todd Millstein,POPL,2023,2023.0,2012.0,2005.0,False
+toddmytkowicz,Todd Mytkowicz,OOPSLA,2019,2019.0,2014.0,2014.0,False
+toddmytkowicz,Todd Mytkowicz,PLDI,2018,2018.0,2016.0,2014.0,False
+tomaspetricek,Tomas Petricek,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+tomaspetricek,Tomas Petricek,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+tomofumiyuki,Tomofumi Yuki,PLDI,2021,2021.0,2021.0,2021.0,False
+tomokinakamaru,Tomoki Nakamaru,OOPSLA1,2025,2025.0,2025.0,2021.0,False
+tomokinakamaru,Tomoki Nakamaru,OOPSLA2,2025,2025.0,2025.0,2021.0,False
+tomvancutsem,Tom Van Cutsem,OOPSLA,2017,2017.0,2012.0,2012.0,False
+tongpingliu1,Tongping Liu,PLDI,2024,2024.0,2024.0,2019.0,False
+tonyhosking,Tony Hosking,PLDI,2018,2018.0,2016.0,2007.0,False
+tylersorensen,Tyler Sorensen,OOPSLA1,2025,2025.0,2025.0,2020.0,False
+tylersorensen,Tyler Sorensen,OOPSLA2,2025,2025.0,2025.0,2020.0,False
+tylersorensen,Tyler Sorensen,PLDI,2020,2020.0,2020.0,2014.0,False
+udaybondhugula,Uday Bondhugula,PLDI,2017,2017.0,2017.0,2014.0,False
+ugodallago,Ugo Dal Lago,ICFP,2022,2022.0,2022.0,2018.0,False
+ugodallago,Ugo Dal Lago,POPL,2020,2020.0,2020.0,2014.0,False
+ulfnorell,Ulf Norell,POPL,2024,2024.0,2024.0,2008.0,False
+umangmathur,Umang Mathur,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+umangmathur,Umang Mathur,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+umangmathur,Umang Mathur,PLDI,2025,2025.0,2025.0,2019.0,False
+umangmathur,Umang Mathur,POPL,2023,2023.0,2023.0,2023.0,False
+umutacar,Umut A. Acar,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+umutacar,Umut A. Acar,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+umutacar,Umut A. Acar,PLDI,2023,2023.0,2013.0,2007.0,False
+umutacar,Umut A. Acar,POPL,2021,2021.0,2015.0,2008.0,False
+urialon,Uri Alon,PLDI,2021,2021.0,2021.0,2021.0,False
+vaishnavisundararajan,Vaishnavi Sundararajan,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+vaishnavisundararajan,Vaishnavi Sundararajan,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+vascotvasconcelos,Vasco T. Vasconcelos,OOPSLA1,2023,2023.0,2023.0,2023.0,False
+vascotvasconcelos,Vasco T. Vasconcelos,OOPSLA2,2023,2023.0,2023.0,2023.0,False
+vascotvasconcelos,Vasco T. Vasconcelos,POPL,2025,2025.0,2025.0,2014.0,False
+veselinraychev,Veselin Raychev,PLDI,2020,2020.0,2020.0,2016.0,False
+vijayaraghavanmurali,Vijayaraghavan Murali,PLDI,2022,2022.0,2022.0,2022.0,False
+vijayganesh,Vijay Ganesh,PLDI,2021,2021.0,2021.0,2017.0,False
+vijayganesh,Vijay Ganesh,POPL,2020,2020.0,2020.0,2016.0,False
+vijaynagarajan,Vijay Nagarajan,PLDI,2022,2022.0,2022.0,2014.0,False
+vikashmansinghka,Vikash K. Mansinghka,PLDI,2017,2017.0,2017.0,2017.0,False
+viktorkuncak,Viktor Kunčak,OOPSLA,2020,2020.0,2020.0,2012.0,False
+viktorkuncak,Viktor Kunčak,PLDI,2021,2021.0,2007.0,2007.0,False
+viktorvafeiadis,Viktor Vafeiadis,OOPSLA,2021,2021.0,2021.0,2009.0,False
+viktorvafeiadis,Viktor Vafeiadis,OOPSLA1,2023,2021.0,2021.0,2009.0,True
+viktorvafeiadis,Viktor Vafeiadis,OOPSLA2,2023,2021.0,2021.0,2009.0,True
+viktorvafeiadis,Viktor Vafeiadis,PLDI,2021,2021.0,2021.0,2013.0,False
+viktorvafeiadis,Viktor Vafeiadis,POPL,2018,2018.0,2014.0,2009.0,False
+vineethkashyap,Vineeth Kashyap,PLDI,2022,2022.0,2022.0,2014.0,False
+vinodgrover,Vinod Grover,PLDI,2022,2022.0,2022.0,2022.0,False
+viveksarkar,Vivek Sarkar,PLDI,2021,2021.0,2010.0,2005.0,False
+vivianabono,Viviana Bono,OOPSLA,2017,2017.0,2017.0,2017.0,False
+vkrishnanandivada,V Krishna Nandivada,OOPSLA1,2025,2025.0,2025.0,2011.0,False
+vkrishnanandivada,V Krishna Nandivada,OOPSLA2,2025,2025.0,2025.0,2011.0,False
+vkrishnanandivada,V Krishna Nandivada,PLDI,2024,2024.0,2024.0,2024.0,False
+vladimirzamdzhiev,Vladimir Zamdzhiev,POPL,2025,2025.0,2025.0,2025.0,False
+walterbinder,Walter Binder,OOPSLA1,2024,2024.0,2024.0,2019.0,False
+walterbinder,Walter Binder,OOPSLA2,2024,2024.0,2024.0,2019.0,False
+walterbinder,Walter Binder,PLDI,2019,2019.0,2019.0,2019.0,False
+weihangwang,Weihang Wang,OOPSLA,2021,2021.0,2021.0,2020.0,False
+weile,Wei Le,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+weile,Wei Le,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+weinganchin,Wei-Ngan Chin,POPL,2022,2022.0,2010.0,2010.0,False
+weizhang,Wei Zhang,OOPSLA1,2024,2024.0,2024.0,2013.0,False
+weizhang,Wei Zhang,OOPSLA2,2024,2024.0,2024.0,2013.0,False
+wenxiwang,Wenxi Wang,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+wenxiwang,Wenxi Wang,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+wernerdietl,Werner Dietl,OOPSLA1,2024,2024.0,2015.0,2009.0,False
+wernerdietl,Werner Dietl,OOPSLA2,2024,2024.0,2015.0,2009.0,False
+willcrichton,Will Crichton,PLDI,2025,2025.0,2025.0,2025.0,False
+willemvisser,Willem Visser,PLDI,2021,2021.0,2021.0,2021.0,False
+williamcook,William Cook,POPL,2018,2018.0,2005.0,2005.0,False
+williamebyrd,William E. Byrd,ICFP,2025,2025.0,2015.0,2014.0,False
+williamjbowman,William J. Bowman,ICFP,2022,2022.0,2022.0,2015.0,False
+williamjbowman,William J. Bowman,POPL,2021,2021.0,2021.0,2021.0,False
+williammansky,William Mansky,POPL,2024,2024.0,2024.0,2024.0,False
+willowahrens,Willow Ahrens,PLDI,2025,2025.0,2025.0,2025.0,False
+wolfgangdemeuter,Wolfgang De Meuter,OOPSLA1,2023,2023.0,2013.0,2006.0,False
+wolfgangdemeuter,Wolfgang De Meuter,OOPSLA2,2023,2023.0,2013.0,2006.0,False
+woosuklee,Woosuk Lee,OOPSLA1,2025,2025.0,2025.0,2010.0,False
+woosuklee,Woosuk Lee,OOPSLA2,2025,2025.0,2025.0,2010.0,False
+woosuklee,Woosuk Lee,PLDI,2019,2019.0,2019.0,2019.0,False
+woosuklee,Woosuk Lee,POPL,2022,2022.0,2022.0,2022.0,False
+wouterswierstra,Wouter Swierstra,ICFP,2018,2018.0,2018.0,2009.0,False
+xavierleroy,Xavier Leroy,POPL,2018,2018.0,2013.0,2005.0,False
+xavierrival,Xavier Rival,PLDI,2024,2024.0,2024.0,2014.0,False
+xavierrival,Xavier Rival,POPL,2020,2020.0,2014.0,2005.0,False
+xiangyuzhang,Xiangyu Zhang,OOPSLA1,2025,2025.0,2012.0,2009.0,False
+xiangyuzhang,Xiangyu Zhang,OOPSLA2,2025,2025.0,2012.0,2009.0,False
+xiaodiwu,Xiaodi Wu,PLDI,2022,2022.0,2022.0,2022.0,False
+xiaodiwu,Xiaodi Wu,POPL,2024,2024.0,2024.0,2021.0,False
+xiaokangqiu,Xiaokang Qiu,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+xiaokangqiu,Xiaokang Qiu,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+xiaokangqiu,Xiaokang Qiu,PLDI,2022,2022.0,2022.0,2014.0,False
+xiaokangqiu,Xiaokang Qiu,POPL,2024,2024.0,2024.0,2016.0,False
+xiaoningdu,Xiaoning Du,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+xiaoningdu,Xiaoning Du,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+xinyufeng,Xinyu Feng,PLDI,2019,2019.0,2019.0,2008.0,False
+xinyufeng,Xinyu Feng,POPL,2018,2018.0,2013.0,2008.0,False
+xinyuwang,Xinyu Wang,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+xinyuwang,Xinyu Wang,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+xinyuwang,Xinyu Wang,PLDI,2021,2021.0,2021.0,2021.0,False
+xinyuwang,Xinyu Wang,POPL,2025,2025.0,2025.0,2020.0,False
+xinzhang,Xin Zhang,OOPSLA1,2024,2024.0,2024.0,2016.0,False
+xinzhang,Xin Zhang,OOPSLA2,2024,2024.0,2024.0,2016.0,False
+xinzhang,Xin Zhang,PLDI,2018,2018.0,2018.0,2017.0,False
+xipengshen,Xipeng Shen,PLDI,2018,2018.0,2014.0,2005.0,False
+xujiesi,Xujie Si,PLDI,2022,2022.0,2022.0,2018.0,False
+xulongtang,Xulong Tang,PLDI,2021,2021.0,2021.0,2021.0,False
+yahuisong1,Yahui Song,ICFP,2025,2025.0,2025.0,2025.0,False
+yakirvizel,Yakir Vizel,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+yakirvizel,Yakir Vizel,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+yanivdavid,Yaniv David,PLDI,2021,2021.0,2021.0,2014.0,False
+yanjuchen,Yanju Chen,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+yanjuchen,Yanju Chen,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+yannherklotz,Yann Herklotz,PLDI,2025,2025.0,2025.0,2022.0,False
+yannickforster,Yannick Forster,PLDI,2025,2025.0,2025.0,2025.0,False
+yannickzakowski1,Yannick Zakowski,ICFP,2022,2022.0,2022.0,2022.0,False
+yannickzakowski1,Yannick Zakowski,OOPSLA1,2025,2025.0,2025.0,2023.0,False
+yannickzakowski1,Yannick Zakowski,OOPSLA2,2025,2025.0,2025.0,2023.0,False
+yannickzakowski1,Yannick Zakowski,POPL,2024,2024.0,2024.0,2021.0,False
+yannissmaragdakis,Yannis Smaragdakis,OOPSLA,2018,2018.0,2007.0,2007.0,False
+yannissmaragdakis,Yannis Smaragdakis,PLDI,2018,2018.0,2009.0,2009.0,False
+yannissmaragdakis,Yannis Smaragdakis,POPL,2018,2018.0,2008.0,2007.0,False
+yannregisgianas,Yann Régis-Gianas,ICFP,2022,2022.0,2022.0,2006.0,False
+yaoli,Yao Li,PLDI,2023,2023.0,2023.0,2023.0,False
+yaoli,Yao Li,POPL,2025,2025.0,2025.0,2022.0,False
+yatinmanerkar,Yatin Manerkar,PLDI,2024,2024.0,2021.0,2021.0,False
+yingfeixiong,Yingfei Xiong,OOPSLA1,2024,2024.0,2024.0,2013.0,False
+yingfeixiong,Yingfei Xiong,OOPSLA2,2024,2024.0,2024.0,2013.0,False
+yingfeixiong,Yingfei Xiong,PLDI,2023,2023.0,2023.0,2023.0,False
+yizhouzhang,Yizhou Zhang,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+yizhouzhang,Yizhou Zhang,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+yizhouzhang,Yizhou Zhang,PLDI,2022,2022.0,2022.0,2022.0,False
+yizhouzhang,Yizhou Zhang,POPL,2024,2024.0,2024.0,2017.0,False
+youyoucong,Youyou Cong,ICFP,2021,2021.0,2021.0,2020.0,False
+youyoucong,Youyou Cong,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+youyoucong,Youyou Cong,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+yudavidliu,Yu David Liu,OOPSLA,2019,2019.0,2013.0,2013.0,False
+yudavidliu,Yu David Liu,OOPSLA1,2024,2019.0,2013.0,2013.0,True
+yudavidliu,Yu David Liu,OOPSLA2,2024,2019.0,2013.0,2013.0,True
+yudavidliu,Yu David Liu,PLDI,2023,2023.0,2023.0,2018.0,False
+yuepengwang,Yuepeng Wang,OOPSLA1,2024,2024.0,2024.0,2023.0,False
+yuepengwang,Yuepeng Wang,OOPSLA2,2024,2024.0,2024.0,2023.0,False
+yuepengwang,Yuepeng Wang,PLDI,2022,2022.0,2022.0,2022.0,False
+yufeiding,Yufei Ding,OOPSLA,2019,2019.0,2019.0,2019.0,False
+yufeiding,Yufei Ding,PLDI,2020,2020.0,2020.0,2019.0,False
+yufeng,Yu Feng,OOPSLA1,2024,2024.0,2024.0,2020.0,False
+yufeng,Yu Feng,OOPSLA2,2024,2024.0,2024.0,2020.0,False
+yufeng,Yu Feng,PLDI,2022,2022.0,2021.0,2020.0,False
+yukiyoshikameyama,Yukiyoshi Kameyama,ICFP,2023,2023.0,2006.0,2006.0,False
+yuleisui,Yulei Sui,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+yuleisui,Yulei Sui,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+yunhuizheng,Yunhui Zheng,OOPSLA,2020,2020.0,2020.0,2020.0,False
+zacharykincaid,Zachary Kincaid,PLDI,2017,2017.0,2017.0,2014.0,False
+zacharykincaid,Zachary Kincaid,POPL,2021,2017.0,2017.0,2017.0,True
+zacharytatlock,Zachary Tatlock,PLDI,2019,2019.0,2016.0,2014.0,False
+zacharytatlock,Zachary Tatlock,POPL,2018,2018.0,2018.0,2015.0,False
+zenaariola,Zena M. Ariola,ICFP,2021,2021.0,2010.0,2010.0,False
+zhendongsu,Zhendong Su,PLDI,2019,2019.0,2010.0,2008.0,False
+zhendongsu,Zhendong Su,POPL,2018,2018.0,2018.0,2006.0,False
+zhengzhang,Zheng Zhang,PLDI,2024,2024.0,2015.0,2015.0,False
+zhenjianghu,Zhenjiang Hu,ICFP,2023,2023.0,2008.0,2008.0,False
+zhenjianghu,Zhenjiang Hu,OOPSLA1,2025,2025.0,2025.0,2025.0,False
+zhenjianghu,Zhenjiang Hu,OOPSLA2,2025,2025.0,2025.0,2025.0,False
+zhenjianghu,Zhenjiang Hu,POPL,2019,2019.0,2019.0,2005.0,False
+zhihaojia1,Zhihao Jia,PLDI,2022,2022.0,2022.0,2022.0,False
+zhiqiangzuo,Zhiqiang Zuo,OOPSLA1,2024,2024.0,2024.0,2024.0,False
+zhiqiangzuo,Zhiqiang Zuo,OOPSLA2,2024,2024.0,2024.0,2024.0,False
+zhiqiangzuo,Zhiqiang Zuo,PLDI,2022,2022.0,2022.0,2022.0,False
+zhongshao,Zhong Shao,OOPSLA1,2022,2022.0,2022.0,2022.0,False
+zhongshao,Zhong Shao,OOPSLA2,2022,2022.0,2022.0,2022.0,False
+zhongshao,Zhong Shao,POPL,2018,2018.0,2005.0,2005.0,False
+zhoulaifu,Zhoulai Fu,PLDI,2023,2023.0,2023.0,2017.0,False
+zoeparaskevopoulou,Zoe Paraskevopoulou,ICFP,2024,2024.0,2019.0,2019.0,False
+zoeparaskevopoulou,Zoe Paraskevopoulou,PLDI,2023,2023.0,2023.0,2023.0,False
+zvonimirrakamaric,Zvonimir Rakamaric,POPL,2018,2018.0,2018.0,2018.0,False

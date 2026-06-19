@@ -1,0 +1,5 @@
+citation_match_basis,citation_rows,zero_rows,pc_researchers,mean_citations,median_citations,zero_researchers,zero_share
+ambiguous_name_match,226,40,84,5.535398230088496,4.0,30,0.17699115044247787
+manual_accepted_name,122,29,51,3.9754098360655736,3.0,16,0.23770491803278687
+name_only_match,25,14,13,0.8,0.0,9,0.56
+openalex_author_id,2112,412,791,5.313920454545454,3.0,309,0.19507575757575757

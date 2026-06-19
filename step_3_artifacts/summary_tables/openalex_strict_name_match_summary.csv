@@ -1,0 +1,4 @@
+status,n_researchers,share_of_pc_researchers
+strict one-name / one-ID match,793,0.832983193277311
+PC name maps to multiple OpenAlex Author IDs in the cited-author table.,84,0.08823529411764706
+PC name not found with an OpenAlex Author ID in the cited-author table.,75,0.07878151260504201

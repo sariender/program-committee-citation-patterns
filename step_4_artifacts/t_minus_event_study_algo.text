@@ -1,0 +1,79 @@
+Algorithm 1: Descriptive Event-Study Check
+
+For each researcher-conference pair (r,c):
+    Find the first same-conference PC year y0.
+    Define event time t = y - y0.
+    Keep the pair only if all years t ∈ {-2,-1,0,+1,+2} are observed.
+    Exclude the pair if same-conference PC service occurs at t = +1 or t = +2.
+    Define the remaining five-year trajectory as event unit i.
+
+For each event unit i and event time t:
+    x_{i,t} = log10(citations_{i,t} + 1).
+
+For each event unit i:
+    b_i = x_{i,-2}.
+
+For each event unit i and event time t:
+    d_{i,t} = x_{i,t} - b_i.
+
+For each event time t:
+    mean_d_t = average_i(d_{i,t}).
+
+Bootstrap:
+    Repeat B times:
+        Resample event units i with replacement.
+        Keep each sampled unit's full five-year trajectory.
+        Recompute mean_d_t at each event time.
+
+Confidence intervals:
+    For each t, report the 2.5th and 97.5th percentiles of the
+    bootstrapped mean_d_t values.
+
+Plot:
+    Plot mean_d_t for t = -2,-1,0,+1,+2.
+    Do not show an error bar at t = -2.
+
+
+begin{algorithm}[H]
+\caption{Descriptive $t=-2$ event-study analysis with bootstrap confidence intervals}
+\begin{algorithmic}[1]
+\Require Researcher--conference--year panel of conference-specific citation counts
+\Require Event window $T=\{-2,-1,0,+1,+2\}$;\quad bootstrap replicates $B=2000$
+
+\Statex
+\Statex \textit{// Phase 1 --- collect clean, aligned event units}
+\State $E \gets \emptyset$
+\For{each researcher--conference pair $(r,c)$}
+    \State $y^{0} \gets$ first year $r$ is publicly listed on conference $c$'s PC
+    \Statex \hfill\Comment{align this pair at its own ``event year 0''}
+    \If{$\{\,y^{0}+t : t\in T\,\}$ is not fully inside $c$'s observed years}
+        \State \textbf{skip} $(r,c)$ \Comment{need all five years present}
+    \ElsIf{$r$ is again on $c$'s PC at $t=+1$ or $t=+2$}
+        \State \textbf{skip} $(r,c)$ \Comment{keep only an isolated first-service episode}
+    \Else
+        \State $i \gets (r,c)$;\quad $E \gets E\cup\{i\}$
+        \For{$t\in T$}
+            \State $x_{i,t} \gets \log_{10}\!\bigl(\mathrm{cit}_{i,t}+1\bigr)$
+                   \Comment{$\mathrm{cit}_{i,t}$: citations to $r$ from $c$'s papers in year $y^{0}+t$}
+            \State $d_{i,t} \gets x_{i,t}-x_{i,-2}$
+                   \Comment{change vs.\ the unit's own $t=-2$ baseline; $d_{i,-2}\equiv 0$}
+        \EndFor
+    \EndIf
+\EndFor
+
+\Statex
+\Statex \textit{// Phase 2 --- estimate the average aligned change, with uncertainty}
+\For{$t\in T$}\quad $\hat{\delta}_t \gets \dfrac{1}{|E|}\displaystyle\sum_{i\in E} d_{i,t}$ \EndFor
+       \Comment{point estimate: mean change at each event time}
+
+\For{$b=1$ \textbf{to} $B$}
+    \State $E^{\*} \gets$ sample $|E|$ event units from $E$ \emph{with replacement}
+           \Comment{resample researchers once per replicate}
+    \For{$t\in T$}\quad $\hat{\delta}^{(b)}_t \gets \dfrac{1}{|E^{\*}|}\displaystyle\sum_{i\in E^{\*}} d_{i,t}$ \EndFor
+           \Comment{recompute all $t$ on the \emph{same} resample}
+\EndFor
+
+\State \textbf{return}, for each $t\in T$, the estimate $\hat{\delta}_t$ and the
+       $2.5$th/$97.5$th percentiles of $\{\hat{\delta}^{(b)}_t\}_{b=1}^{B}$
+\end{algorithmic}
+\end{algorithm}

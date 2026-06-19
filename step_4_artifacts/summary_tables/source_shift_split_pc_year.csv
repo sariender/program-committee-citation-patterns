@@ -1,0 +1,73 @@
+analysis_group,sample_key,sample_label,split_kind,cohort_key,cohort_label,event_units,defined_pc_year_deltas,zero_total_citation_pc_years,median_career_age_in_sample,mean_pc_year_share_pct,mean_baseline_share_pct,mean_delta_source_share_pp,median_delta_source_share_pp
+All,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,263,220,22,16.0,35.191,32.886,2.504,2.429
+All,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,51,41,2,16.0,36.725,34.353,4.228,11.364
+All,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,114,94,11,16.0,33.392,32.758,1.231,2.429
+All,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,98,85,9,16.0,36.429,32.333,3.081,0.0
+All,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,193,155,19,14.0,35.405,31.098,4.866,7.143
+All,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,49,39,2,14.0,37.13,33.102,6.095,12.5
+All,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,98,78,11,14.0,33.855,31.296,3.464,5.515
+All,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,46,38,6,14.0,36.751,28.675,6.483,8.906
+All,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,87,62,11,12.0,39.26,28.785,9.196,12.031
+All,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,25,18,1,12.0,36.386,31.0,5.606,5.959
+All,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,46,34,6,12.0,41.555,27.283,12.58,12.897
+All,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,16,10,4,12.0,37.356,30.009,4.151,12.854
+ICFP,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,85,72,4,16.0,30.068,32.663,-1.155,0.0
+ICFP,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,21,14,2,16.0,34.117,40.702,3.883,6.25
+ICFP,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,35,32,1,16.0,24.722,29.812,-5.518,0.0
+ICFP,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,29,26,1,16.0,33.812,31.642,1.502,0.0
+ICFP,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,63,51,4,13.0,29.256,27.707,3.548,7.692
+ICFP,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,20,13,2,13.0,34.624,36.466,9.951,12.5
+ICFP,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,29,26,1,13.0,23.384,25.437,-2.515,3.846
+ICFP,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,14,12,1,13.0,34.469,22.594,9.747,10.238
+ICFP,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,26,18,3,11.0,29.021,26.076,6.628,2.273
+ICFP,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,9,5,1,11.0,39.075,40.278,17.519,0.0
+ICFP,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,11,9,1,11.0,17.823,9.976,10.571,9.091
+ICFP,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,6,4,1,11.0,35.333,45.022,-15.855,-6.061
+OOPSLA,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,21,19,1,15.0,42.434,45.151,-2.86,-15.359
+OOPSLA,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,3,3,0,15.0,58.889,35.185,23.704,10.0
+OOPSLA,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,12,12,0,15.0,39.036,39.728,-0.692,-5.365
+OOPSLA,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,6,4,1,15.0,40.714,64.146,-29.289,-24.65
+OOPSLA,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,13,11,1,16.0,47.23,53.115,-6.42,-24.749
+OOPSLA,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,3,3,0,16.0,58.889,35.185,23.704,10.0
+OOPSLA,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,6,6,0,16.0,39.42,50.096,-10.675,-25.121
+OOPSLA,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,4,2,1,16.0,51.19,77.083,-38.839,-38.839
+OOPSLA,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,6,6,0,15.0,49.856,54.38,-4.524,-11.993
+OOPSLA,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,2,2,0,15.0,63.333,25.0,38.333,38.333
+OOPSLA,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,3,3,0,15.0,40.824,58.761,-17.937,-28.615
+OOPSLA,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,1,1,0,15.0,50.0,100.0,-50.0,-50.0
+PLDI 2021 onward,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,84,60,17,16.0,38.986,34.692,4.245,7.897
+PLDI 2021 onward,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,17,15,0,16.0,30.188,34.353,-6.807,10.662
+PLDI 2021 onward,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,40,26,10,16.0,42.15,41.386,2.249,3.802
+PLDI 2021 onward,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,27,19,7,16.0,41.721,24.734,15.701,16.742
+PLDI 2021 onward,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,67,46,14,15.0,37.5,35.63,2.19,7.897
+PLDI 2021 onward,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,16,14,0,15.0,30.236,35.468,-8.055,6.25
+PLDI 2021 onward,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,35,21,10,15.0,42.632,41.16,3.466,4.68
+PLDI 2021 onward,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,16,11,4,15.0,36.492,23.378,12.791,16.742
+PLDI 2021 onward,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,38,23,8,14.0,42.355,34.801,4.673,8.966
+PLDI 2021 onward,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,9,7,0,14.0,25.247,31.633,-13.458,0.0
+PLDI 2021 onward,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,21,12,5,14.0,51.989,40.14,10.682,5.515
+PLDI 2021 onward,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,8,4,3,14.0,42.322,24.288,18.375,18.829
+PLDI before 2021,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,16,14,2,17.5,26.513,28.997,-3.364,-11.968
+PLDI before 2021,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,2,1,1,17.5,61.538,100.0,-38.462,-38.462
+PLDI before 2021,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,7,7,0,17.5,26.705,26.569,0.136,-13.935
+PLDI before 2021,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,7,6,1,17.5,20.452,21.281,-1.598,7.143
+PLDI before 2021,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,11,9,2,17.0,23.46,32.646,-10.961,-13.935
+PLDI before 2021,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,2,1,1,17.0,61.538,100.0,-38.462,-38.462
+PLDI before 2021,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,5,5,0,17.0,20.245,32.197,-11.952,-13.935
+PLDI before 2021,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,4,3,1,17.0,16.126,16.369,-0.144,0.0
+PLDI before 2021,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,1,1,0,16.0,0.0,10.0,-10.0,-10.0
+PLDI before 2021,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,0,0,0,16.0,,,,
+PLDI before 2021,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,1,1,0,16.0,0.0,10.0,-10.0,-10.0
+PLDI before 2021,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,0,0,0,16.0,,,,
+POPL,all_balanced_event_units,All isolated balanced event units,fixed_buckets,all_in_sample,All in sample,94,88,1,18.0,36.919,31.693,4.312,0.0
+POPL,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_0_9,Career age 0-9 years,13,12,0,18.0,49.085,26.417,18.424,15.682
+POPL,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_10_19,Career age 10-19 years,39,36,0,18.0,34.213,27.79,6.496,3.436
+POPL,all_balanced_event_units,All isolated balanced event units,fixed_buckets,career_age_20_plus,Career age 20+ years,42,40,1,18.0,35.636,36.664,-1.887,-0.483
+POPL,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,all_in_sample,All in sample,63,58,1,15.0,39.466,30.074,8.147,3.713
+POPL,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_0_9,Career age 0-9 years,13,12,0,15.0,49.085,26.417,18.424,15.682
+POPL,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_10_19,Career age 10-19 years,34,31,0,15.0,36.023,27.807,8.476,6.872
+POPL,no_earlier_main_pc_evidence,No earlier main-PC evidence found,fixed_buckets,career_age_20_plus,Career age 20+ years,16,15,1,15.0,38.935,37.208,-0.754,-2.5
+POPL,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,all_in_sample,All in sample,23,21,0,12.0,45.46,23.916,16.35,17.647
+POPL,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_0_9,Career age 0-9 years,7,6,0,12.0,47.633,20.985,17.921,15.682
+POPL,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_10_19,Career age 10-19 years,14,13,0,12.0,46.582,26.751,15.722,17.647
+POPL,no_earlier_broad_service_evidence,No earlier service,fixed_buckets,career_age_20_plus,Career age 20+ years,2,2,0,12.0,30.0,14.286,15.714,15.714

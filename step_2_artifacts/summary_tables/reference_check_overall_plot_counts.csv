@@ -1,0 +1,9 @@
+scope,author_info_type,author_info,n
+global,author_id,available,38660
+global,author_id,missing,5674
+global,author_name,available,40774
+global,author_name,missing,3560
+conference,author_id,available,61530
+conference,author_id,missing,8098
+conference,author_name,available,64415
+conference,author_name,missing,5213

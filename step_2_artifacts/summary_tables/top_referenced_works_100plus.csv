@@ -1,0 +1,6 @@
+referenced_work_id,citation_count,threshold_group,title,publication_year,authors,doi,openalex_url
+W1480909796,227,200+,Z3: An Efficient SMT Solver,2008.0,"Leonardo de Moura, Nikolaj Bjørner",https://doi.org/10.1007/978-3-540-78800-3_24,https://openalex.org/W1480909796
+W2901454403,151,150+,Iris from the ground up: A modular foundation for higher-order concurrent separation logic,2018.0,"Ralf Jung, Robbert Krebbers, Jacques-Henri Jourdan, Aleš Bizjak, et al.",https://doi.org/10.1017/s0956796818000151,https://openalex.org/W2901454403
+W2043100293,130,100+,Abstract interpretation,1977.0,"Patrick Cousot, Radhia Cousot",https://doi.org/10.1145/512950.512973,https://openalex.org/W2043100293
+W2137628566,109,100+,Separation logic: a logic for shared mutable data structures,2003.0,John Reynolds,https://doi.org/10.1109/lics.2002.1029817,https://openalex.org/W2137628566
+W4285719527,105,100+,W4285719527,,,,https://openalex.org/W4285719527

@@ -1,17 +1,12 @@
-# Data
-data/
-*.parquet
-*.csv
-*.csv.gz
-*.json
-
-# Jupyter
+.DS_Store
 .ipynb_checkpoints/
-
-# Python
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Environment
+# Local environment
 .env
-.venv
+.venv/
+key.env
+
+# Large validation PDFs kept locally, not in Git
+assets/validation_pdfs/

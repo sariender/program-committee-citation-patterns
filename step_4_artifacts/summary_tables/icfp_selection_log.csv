@@ -1,0 +1,21 @@
+conference,sample,sample_label,value_scale,event_time,mean,ci_lower,ci_upper,n_event_units
+ICFP,all_isolated_balanced_event_units,All isolated balanced events,log10_citations_plus_one,-2,-0.016997443853348577,-0.05338590268080787,0.018000447742044852,106
+ICFP,all_isolated_balanced_event_units,All isolated balanced events,log10_citations_plus_one,-1,0.016997443853348577,-0.018000447742044873,0.05338590268080785,106
+ICFP,all_isolated_balanced_event_units,All isolated balanced events,log10_citations_plus_one,0,0.08270861328125276,0.02392234521810879,0.14415346042665103,106
+ICFP,all_isolated_balanced_event_units,All isolated balanced events,log10_citations_plus_one,1,0.025469497859825083,-0.047923323608750144,0.09211046640647676,106
+ICFP,all_isolated_balanced_event_units,All isolated balanced events,log10_citations_plus_one,2,0.030813428446971672,-0.034258808255571836,0.09445559911786766,106
+ICFP,all_isolated_balanced_career_age_20_plus,"All isolated balanced events, career age 20+ years",log10_citations_plus_one,-2,-0.03277655257959298,-0.10010297586863498,0.026557130758769035,39
+ICFP,all_isolated_balanced_career_age_20_plus,"All isolated balanced events, career age 20+ years",log10_citations_plus_one,-1,0.03277655257959299,-0.026557130758769056,0.100102975868635,39
+ICFP,all_isolated_balanced_career_age_20_plus,"All isolated balanced events, career age 20+ years",log10_citations_plus_one,0,0.026586761577305173,-0.0787840229668541,0.13506916828865742,39
+ICFP,all_isolated_balanced_career_age_20_plus,"All isolated balanced events, career age 20+ years",log10_citations_plus_one,1,-0.04016079903885718,-0.1384678613729138,0.05510715417191046,39
+ICFP,all_isolated_balanced_career_age_20_plus,"All isolated balanced events, career age 20+ years",log10_citations_plus_one,2,-0.10875110091267633,-0.20459095290519325,-0.008926604111578841,39
+ICFP,no_earlier_broad_service_career_age_0_9,"No earlier service, career age 0-9 years",log10_citations_plus_one,-2,-0.03305907217233095,-0.13235284003775066,0.05791812460476248,10
+ICFP,no_earlier_broad_service_career_age_0_9,"No earlier service, career age 0-9 years",log10_citations_plus_one,-1,0.033059072172330964,-0.05791812460476248,0.13235284003775066,10
+ICFP,no_earlier_broad_service_career_age_0_9,"No earlier service, career age 0-9 years",log10_citations_plus_one,0,0.19404760505632285,0.031447468415444414,0.3492494960023556,10
+ICFP,no_earlier_broad_service_career_age_0_9,"No earlier service, career age 0-9 years",log10_citations_plus_one,1,0.1401803038099659,0.008804562952784062,0.2722296987517999,10
+ICFP,no_earlier_broad_service_career_age_0_9,"No earlier service, career age 0-9 years",log10_citations_plus_one,2,0.06905985773466286,-0.08856875810618449,0.20088434696778631,10
+ICFP,no_earlier_broad_service_career_age_10_19,"No earlier service, career age 10-19 years",log10_citations_plus_one,-2,-0.041251457938095815,-0.0988180822026379,0.016910621085032888,15
+ICFP,no_earlier_broad_service_career_age_10_19,"No earlier service, career age 10-19 years",log10_citations_plus_one,-1,0.041251457938095815,-0.016910621085032912,0.0988180822026379,15
+ICFP,no_earlier_broad_service_career_age_10_19,"No earlier service, career age 10-19 years",log10_citations_plus_one,0,0.049580707045315815,-0.10079415056457147,0.18912708090183228,15
+ICFP,no_earlier_broad_service_career_age_10_19,"No earlier service, career age 10-19 years",log10_citations_plus_one,1,0.08784945822716374,-0.06896720550683269,0.2509555383960068,15
+ICFP,no_earlier_broad_service_career_age_10_19,"No earlier service, career age 10-19 years",log10_citations_plus_one,2,0.10088210159434631,-0.05328617040200349,0.23872531080577053,15

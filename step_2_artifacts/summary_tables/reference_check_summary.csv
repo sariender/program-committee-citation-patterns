@@ -1,0 +1,11 @@
+metric,value
+accepted_papers,2528.0
+reference_edges,110167.0
+unique_referenced_works_in_edges,44334.0
+unique_referenced_works_with_authors,40774.0
+unique_cited_authors,50345.0
+share_unique_cited_works_missing_author_ids,0.1279830378490549
+share_issue_cited_works_missing_author_ids,0.11630378583328546
+share_issue_cited_works_missing_author_names,0.07486930545182972
+median_reference_count_per_paper,41.0
+mean_reference_count_per_paper,43.57871835443038

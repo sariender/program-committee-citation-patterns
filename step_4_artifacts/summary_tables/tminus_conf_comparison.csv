@@ -1,0 +1,7 @@
+page,sample_key,plot_group,n_event_units,median_career_age,mean_career_age,median_h_index,mean_h_index
+All researchers,all_retained_event_units,ICFP,106,16.0,17.462264150943398,15.5,17.641509433962263
+All researchers,all_retained_event_units,POPL,138,17.0,18.615942028985508,20.0,24.514492753623188
+All researchers,all_retained_event_units,PLDI 2021 onward,105,16.0,17.266666666666666,17.0,21.83809523809524
+No earlier service,no_earlier_broad_service_evidence,ICFP,31,11.0,14.32258064516129,9.0,14.709677419354838
+No earlier service,no_earlier_broad_service_evidence,POPL,28,12.5,14.928571428571429,15.0,16.285714285714285
+No earlier service,no_earlier_broad_service_evidence,PLDI 2021 onward,42,14.5,15.904761904761905,14.5,17.595238095238095

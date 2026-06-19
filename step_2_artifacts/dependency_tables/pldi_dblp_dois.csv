@@ -1,0 +1,411 @@
+conference,conference_year,doi,dblp_title,dblp_url
+PLDI,2017,https://doi.org/10.1145/3062341.3062366,"Low-synchronization, mostly lock-free, elastic scheduling for streaming runtimes.",https://dblp.org/rec/conf/pldi/0001W17
+PLDI,2017,https://doi.org/10.1145/3062341.3062384,Flatten and conquer: a framework for efficient analysis of string constraints.,https://dblp.org/rec/conf/pldi/AbdullaACDHRR17
+PLDI,2017,https://doi.org/10.1145/3062341.3062378,Decomposition instead of self-composition for proving the absence of timing channels.,https://dblp.org/rec/conf/pldi/AntonopoulosGHK17
+PLDI,2017,https://doi.org/10.1145/3062341.3062349,Synthesizing program input grammars.,https://dblp.org/rec/conf/pldi/Bastani0AL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062367,Network configuration synthesis with abstract topologies.,https://dblp.org/rec/conf/pldi/BeckettMMPW17
+PLDI,2017,https://doi.org/10.1145/3062341.3062364,Systematic black-box analysis of collaborative web applications.,https://dblp.org/rec/conf/pldi/BillesMP17
+PLDI,2017,https://doi.org/10.1145/3062341.3062353,Synthesizing memory models from framework sketches and Litmus tests.,https://dblp.org/rec/conf/pldi/BornholtT17
+PLDI,2017,https://doi.org/10.1145/3062341.3062358,A formally verified compiler for Lustre.,https://dblp.org/rec/conf/pldi/BourkeBDLPR17
+PLDI,2017,https://doi.org/10.1145/3062341.3062356,Proactive and adaptive energy-aware programming with mixed typechecking.,https://dblp.org/rec/conf/pldi/CaninoL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062344,Instruction punning: lightweight instrumentation for x86-64.,https://dblp.org/rec/conf/pldi/ChamithSDN17
+PLDI,2017,https://doi.org/10.1145/3062341.3062348,HoTTSQL: proving query rewrites with univalent SQL semantics.,https://dblp.org/rec/conf/pldi/ChuWCS17
+PLDI,2017,https://doi.org/10.1145/3062341.3062371,Low overhead dynamic binary translation on ARM.,https://dblp.org/rec/conf/pldi/DAntrasGGL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062387,Similarity of binaries through re-optimization.,https://dblp.org/rec/conf/pldi/DavidPY17
+PLDI,2017,https://doi.org/10.1145/3062341.3062377,Generalizations of the theory and deployment of triangular inequality for compiler-based strength reduction.,https://dblp.org/rec/conf/pldi/DingNGS17
+PLDI,2017,https://doi.org/10.1145/3062341.3062388,Rigorous analysis of software countermeasures against cache attacks.,https://dblp.org/rec/conf/pldi/DoychevK17
+PLDI,2017,https://doi.org/10.1145/3062341.3062357,Levity polymorphism.,https://dblp.org/rec/conf/pldi/EisenbergJ17
+PLDI,2017,https://doi.org/10.1145/3062341.3062342,BARRACUDA: binary-level analysis of runtime RAces in CUDA programs.,https://dblp.org/rec/conf/pldi/EizenbergPPMD17
+PLDI,2017,https://doi.org/10.1145/3062341.3062355,Synthesis of divide and conquer parallelism for loops.,https://dblp.org/rec/conf/pldi/FarzanN17
+PLDI,2017,https://doi.org/10.1145/3062341.3062382,Gradual synthesis for static parallelization of single-pass array-processing programs.,https://dblp.org/rec/conf/pldi/FedyukovichAB17
+PLDI,2017,https://doi.org/10.1145/3062341.3062351,Component-based synthesis of table consolidation and transformation tasks from examples.,https://dblp.org/rec/conf/pldi/FengMGDC17
+PLDI,2017,https://doi.org/10.1145/3062341.3062383,Achieving high coverage for floating-point code via unconstrained programming.,https://dblp.org/rec/conf/pldi/FuS17
+PLDI,2017,https://doi.org/10.1145/3062341.3062363,Bringing the web up to speed with WebAssembly.,https://dblp.org/rec/conf/pldi/HaasRSTHGWZB17
+PLDI,2017,https://doi.org/10.1145/3062341.3062354,Futhark: purely functional GPU-programming with nested parallelism and in-place array updates.,https://dblp.org/rec/conf/pldi/HenriksenSEHO17
+PLDI,2017,https://doi.org/10.1145/3062341.3062345,Automatic program inversion using symbolic transducers.,https://dblp.org/rec/conf/pldi/HuD17
+PLDI,2017,https://doi.org/10.1145/3062341.3062375,Compiling Markov chain Monte Carlo algorithms for probabilistic modeling.,https://dblp.org/rec/conf/pldi/HuangTM17
+PLDI,2017,https://doi.org/10.1145/3062341.3062376,"Simple, fast, and safe manual memory management.",https://dblp.org/rec/conf/pldi/KediaCPVVB17
+PLDI,2017,https://doi.org/10.1145/3062341.3062373,Compositional recurrence analysis revisited.,https://dblp.org/rec/conf/pldi/KincaidBBR17
+PLDI,2017,https://doi.org/10.1145/3062341.3062374,Dynamic race prediction in linear time.,https://dblp.org/rec/conf/pldi/KiniM017
+PLDI,2017,https://doi.org/10.1145/3062341.3062352,Repairing sequential consistency in C/C++11.,https://dblp.org/rec/conf/pldi/LahavVKHD17
+PLDI,2017,https://doi.org/10.1145/3062341.3062343,Taming undefined behavior in LLVM.,https://dblp.org/rec/conf/pldi/LeeKSHDMRL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062385,Cache locality optimization for recursive programs.,https://dblp.org/rec/conf/pldi/LifflanderK17
+PLDI,2017,https://doi.org/10.1145/3062341.3062369,StreamQRE: modular specification and efficient evaluation of quantitative queries over streaming data.,https://dblp.org/rec/conf/pldi/MamourasRAIK17
+PLDI,2017,https://doi.org/10.1145/3062341.3062380,Compiling without continuations.,https://dblp.org/rec/conf/pldi/MaurerDAJ17
+PLDI,2017,https://doi.org/10.1145/3062341.3062372,Alive-Infer: data-driven precondition inference for peephole optimizations in LLVM.,https://dblp.org/rec/conf/pldi/MenendezN17
+PLDI,2017,https://doi.org/10.1145/3062341.3062370,Responsive parallel computation: bridging competitive and cooperative threading.,https://dblp.org/rec/conf/pldi/MullerA017
+PLDI,2017,https://doi.org/10.1145/3062341.3062368,Control-flow recovery from partial failure reports.,https://dblp.org/rec/conf/pldi/OhmannBDL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062347,FunTAL: reasonably mixing a functional language with assembly.,https://dblp.org/rec/conf/pldi/PattersonPDA17
+PLDI,2017,https://doi.org/10.1145/3062341.3062346,Miniphases: compilation using modular and efficient tree transformations.,https://dblp.org/rec/conf/pldi/PetrashkoLO17
+PLDI,2017,https://doi.org/10.1145/3062341.3062350,BigFoot: static check placement for dynamic race detection.,https://dblp.org/rec/conf/pldi/RhodesFF17
+PLDI,2017,https://doi.org/10.1145/3062341.3062362,Fusing effectful comprehensions.,https://dblp.org/rec/conf/pldi/SaarikiviVMM17
+PLDI,2017,https://doi.org/10.1145/3062341.3062361,Static deadlock detection for asynchronous C# programs.,https://dblp.org/rec/conf/pldi/SanthiarK17
+PLDI,2017,https://doi.org/10.1145/3062341.3062360,Efficient and precise points-to analysis: modeling the heap by merging equivalent automata.,https://dblp.org/rec/conf/pldi/TanLX17
+PLDI,2017,https://doi.org/10.1145/3062341.3062359,Context transformations for pointer analysis.,https://dblp.org/rec/conf/pldi/ThiessenL17
+PLDI,2017,https://doi.org/10.1145/3062341.3062365,Synthesizing highly expressive SQL queries from input-output examples.,https://dblp.org/rec/conf/pldi/WangCB17
+PLDI,2017,https://doi.org/10.1145/3062341.3062381,Practical partial evaluation for high-performance dynamic language runtimes.,https://dblp.org/rec/conf/pldi/WurthingerWHWSS17
+PLDI,2017,https://doi.org/10.1145/3062341.3062386,DemoMatch: API discovery from demonstrations.,https://dblp.org/rec/conf/pldi/YessenovKS17
+PLDI,2017,https://doi.org/10.1145/3062341.3062379,Skeletal program enumeration for rigorous compiler testing.,https://dblp.org/rec/conf/pldi/ZhangSS17
+PLDI,2018,https://doi.org/10.1145/3192366.3192412,A general path-based representation for predicting program properties.,https://dblp.org/rec/conf/pldi/0002ZLY18
+PLDI,2018,https://doi.org/10.1145/3192366.3192391,Heartbeat scheduling: provable efficiency for nested parallelism.,https://dblp.org/rec/conf/pldi/AcarCGRS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192401,Polyhedral auto-transformation with no integer linear programming.,https://dblp.org/rec/conf/pldi/AcharyaB018
+PLDI,2018,https://doi.org/10.1145/3192366.3192369,Ryū: fast float-to-string conversion.,https://dblp.org/rec/conf/pldi/Adams18
+PLDI,2018,https://doi.org/10.1145/3192366.3192392,Write-rationing garbage collection for hybrid memories.,https://dblp.org/rec/conf/pldi/AkramSME18
+PLDI,2018,https://doi.org/10.1145/3192366.3192383,Active learning of points-to specifications.,https://dblp.org/rec/conf/pldi/Bastani0AL18
+PLDI,2018,https://doi.org/10.1145/3192366.3192370,Putting in all the stops: execution control for JavaScript.,https://dblp.org/rec/conf/pldi/BaxterNPKG18
+PLDI,2018,https://doi.org/10.1145/3192366.3192406,VeriPhy: verified controller executables from verified cyber-physical system models.,https://dblp.org/rec/conf/pldi/BohrerTMMP18
+PLDI,2018,https://doi.org/10.1145/3192366.3192372,Typed closure conversion for the calculus of constructions.,https://dblp.org/rec/conf/pldi/BowmanA18
+PLDI,2018,https://doi.org/10.1145/3192366.3192415,Static serializability analysis for causal consistency.,https://dblp.org/rec/conf/pldi/BrutschyD0V18
+PLDI,2018,https://doi.org/10.1145/3192366.3192378,Calling-to-reference context translation via constraint-guided CFL-reachability.,https://dblp.org/rec/conf/pldi/CaiZZNXS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192405,Advanced automata-based algorithms for program termination checking.,https://dblp.org/rec/conf/pldi/ChenHLLTTZ18
+PLDI,2018,https://doi.org/10.1145/3192366.3192402,Locality analysis through static parallel sampling.,https://dblp.org/rec/conf/pldi/ChenLDP18
+PLDI,2018,https://doi.org/10.1145/3192366.3192373,"The semantics of transactions and weak memory in x86, Power, ARM, and C++.",https://dblp.org/rec/conf/pldi/ChongSW18
+PLDI,2018,https://doi.org/10.1145/3192366.3192399,Incremental inference for probabilistic programs.,https://dblp.org/rec/conf/pldi/Cusumano-Towner18a
+PLDI,2018,https://doi.org/10.1145/3192366.3192396,"On-stack replacement, distilled.",https://dblp.org/rec/conf/pldi/DEliaD18
+PLDI,2018,https://doi.org/10.1145/3192366.3192404,Gluon: a communication-optimizing substrate for distributed heterogeneous graph analytics.,https://dblp.org/rec/conf/pldi/DathathriGHDBDS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192421,Bounding data races in space and time.,https://dblp.org/rec/conf/pldi/DolanSM18
+PLDI,2018,https://doi.org/10.1145/3192366.3192388,EffectiveSan: type and memory error detection using dynamically typed C/C++.,https://dblp.org/rec/conf/pldi/DuckY18
+PLDI,2018,https://doi.org/10.1145/3192366.3192382,Program synthesis using conflict-driven learning.,https://dblp.org/rec/conf/pldi/FengMBD18
+PLDI,2018,https://doi.org/10.1145/3192366.3192395,Symbolic reasoning for automatic signal placement.,https://dblp.org/rec/conf/pldi/FerlesGDS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192400,Bayonet: probabilistic inference for networks.,https://dblp.org/rec/conf/pldi/GehrMTVWV18
+PLDI,2018,https://doi.org/10.1145/3192366.3192367,Persistency for synchronization-free regions.,https://dblp.org/rec/conf/pldi/GogteDWNCW18
+PLDI,2018,https://doi.org/10.1145/3192366.3192381,Certified concurrent abstraction layers.,https://dblp.org/rec/conf/pldi/GuSKWKS0CR18
+PLDI,2018,https://doi.org/10.1145/3192366.3192387,Automated clustering and program repair for introductory programming assignments.,https://dblp.org/rec/conf/pldi/GulwaniRZ18
+PLDI,2018,https://doi.org/10.1145/3192366.3192397,GPU code optimization using abstract kernel emulation and sensitivity analysis.,https://dblp.org/rec/conf/pldi/HongSKRKPRS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192377,Crellvm: verified credible compilation for LLVM.,https://dblp.org/rec/conf/pldi/KangKSLPSKCCHY18
+PLDI,2018,https://doi.org/10.1145/3192366.3192386,Enhancing computation-to-core assignment with physical location information.,https://dblp.org/rec/conf/pldi/KislalKTKJ18
+PLDI,2018,https://doi.org/10.1145/3192366.3192379,Spatial: a language and compiler for application accelerators.,https://dblp.org/rec/conf/pldi/KoeplingerFPZHF18
+PLDI,2018,https://doi.org/10.1145/3192366.3192410,Accelerating search-based program synthesis using learned probabilistic models.,https://dblp.org/rec/conf/pldi/LeeHAN18
+PLDI,2018,https://doi.org/10.1145/3192366.3192371,Mapping spiking neural networks onto a manycore neuromorphic architecture.,https://dblp.org/rec/conf/pldi/LinWCLDW18
+PLDI,2018,https://doi.org/10.1145/3192366.3192390,D4: fast concurrency debugging with parallel differential analysis.,https://dblp.org/rec/conf/pldi/LiuH18
+PLDI,2018,https://doi.org/10.1145/3192366.3192380,iReplayer: in-situ and identical record-and-replay for multithreaded applications.,https://dblp.org/rec/conf/pldi/LiuSWTL18
+PLDI,2018,https://doi.org/10.1145/3192366.3192419,CUBA: interprocedural Context-UnBounded Analysis of concurrent programs.,https://dblp.org/rec/conf/pldi/LiuW18
+PLDI,2018,https://doi.org/10.1145/3192366.3192409,Probabilistic programming with programmable inference.,https://dblp.org/rec/conf/pldi/MansinghkaSHRCR18
+PLDI,2018,https://doi.org/10.1145/3192366.3192375,MixT: a language for mixing consistency in geodistributed transactions.,https://dblp.org/rec/conf/pldi/MilanoM18
+PLDI,2018,https://doi.org/10.1145/3192366.3192413,Partial control-flow linearization.,https://dblp.org/rec/conf/pldi/MollH18
+PLDI,2018,https://doi.org/10.1145/3192366.3192394,Bounded expectations: resource analysis for probabilistic programs.,https://dblp.org/rec/conf/pldi/NgoC018
+PLDI,2018,https://doi.org/10.1145/3192366.3192374,"HHVM JIT: a profile-guided, region-based compiler for PHP and Hack.",https://dblp.org/rec/conf/pldi/Ottoni18
+PLDI,2018,https://doi.org/10.1145/3192366.3192403,Inferring crypto API rules from code changes.,https://dblp.org/rec/conf/pldi/PaletovTRV18
+PLDI,2018,https://doi.org/10.1145/3192366.3192407,Verifying that web pages have accessible layout.,https://dblp.org/rec/conf/pldi/PanchekhaGETK18
+PLDI,2018,https://doi.org/10.1145/3192366.3192368,CURD: a dynamic CUDA race detector.,https://dblp.org/rec/conf/pldi/PengGD18
+PLDI,2018,https://doi.org/10.1145/3192366.3192398,Inferring type rules for syntactic sugar.,https://dblp.org/rec/conf/pldi/PombrioK18
+PLDI,2018,https://doi.org/10.1145/3192366.3192417,User-guided program reasoning using Bayesian inference.,https://dblp.org/rec/conf/pldi/RaghothamanKHN18
+PLDI,2018,https://doi.org/10.1145/3192366.3192385,"High-coverage, unbounded sound predictive race detection.",https://dblp.org/rec/conf/pldi/RoemerGB18
+PLDI,2018,https://doi.org/10.1145/3192366.3192411,Finding root causes of floating point error.,https://dblp.org/rec/conf/pldi/Sanchez-SternPL18
+PLDI,2018,https://doi.org/10.1145/3192366.3192389,Guarded impredicative polymorphism.,https://dblp.org/rec/conf/pldi/SerranoHVJ18
+PLDI,2018,https://doi.org/10.1145/3192366.3192418,Pinpoint: fast and precise sparse value flow analysis for million lines of code.,https://dblp.org/rec/conf/pldi/ShiXWZFZ18
+PLDI,2018,https://doi.org/10.1145/3192366.3192420,To-many or to-one? all-in-one! efficient purely functional multi-maps with type-heterogeneous hash-tries.,https://dblp.org/rec/conf/pldi/SteindorferV18
+PLDI,2018,https://doi.org/10.1145/3192366.3192414,Modularity for decidability of deductive verification with applications to distributed systems.,https://dblp.org/rec/conf/pldi/TaubeLMPSSWW18
+PLDI,2018,https://doi.org/10.1145/3192366.3192393,"SWOOP: software-hardware co-design for non-speculative, execute-ahead, in-order cores.",https://dblp.org/rec/conf/pldi/TranJCKSK18
+PLDI,2018,https://doi.org/10.1145/3192366.3192376,BLeak: automatically debugging memory leaks in web applications.,https://dblp.org/rec/conf/pldi/VilkB18
+PLDI,2018,https://doi.org/10.1145/3192366.3192408,PMAF: an algebraic framework for static analysis of probabilistic programs.,https://dblp.org/rec/conf/pldi/WangHR18
+PLDI,2018,https://doi.org/10.1145/3192366.3192384,"Search, align, and repair: data-driven feedback generation for introductory programming exercises.",https://dblp.org/rec/conf/pldi/WangSS18
+PLDI,2018,https://doi.org/10.1145/3192366.3192416,A data-driven CHC solver.,https://dblp.org/rec/conf/pldi/ZhuMJ18
+PLDI,2019,https://doi.org/10.1145/3314221.3314588,Synthesizing database programs for schema refactoring.,https://dblp.org/rec/conf/pldi/0001DSD19
+PLDI,2019,https://doi.org/10.1145/3314221.3314591,Using active learning to synthesize models of applications that access databases.,https://dblp.org/rec/conf/pldi/0001R19
+PLDI,2019,https://doi.org/10.1145/3314221.3314649,Verification of programs under the release-acquire semantics.,https://dblp.org/rec/conf/pldi/AbdullaAAK19
+PLDI,2019,https://doi.org/10.1145/3314221.3314614,Optimization and abstraction: a synergistic approach for analyzing neural network robustness.,https://dblp.org/rec/conf/pldi/AndersonPDC19
+PLDI,2019,https://doi.org/10.1145/3314221.3314641,Learning stateful preconditions modulo a test generator.,https://dblp.org/rec/conf/pldi/AstorgaMSWX19
+PLDI,2019,https://doi.org/10.1145/3314221.3314615,Generating piecewise-regular code from irregular structures.,https://dblp.org/rec/conf/pldi/AugustineSP019
+PLDI,2019,https://doi.org/10.1145/3314221.3314594,Genie: a generator of natural language semantic parsers for virtual assistant commands.,https://dblp.org/rec/conf/pldi/CampagnaXMSL19
+PLDI,2019,https://doi.org/10.1145/3314221.3314605,FaCT: a DSL for timing-sensitive computation.,https://dblp.org/rec/conf/pldi/CauligiSJBWRGBJ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314585,Argosy: verifying layered storage systems with recovery refinement.,https://dblp.org/rec/conf/pldi/ChajedTKZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314648,Scalable taint specification inference with big code.,https://dblp.org/rec/conf/pldi/ChibotaruBRV19
+PLDI,2019,https://doi.org/10.1145/3314221.3314587,Reusable inline caching for JavaScript performance.,https://dblp.org/rec/conf/pldi/ChoiST19
+PLDI,2019,https://doi.org/10.1145/3314221.3314596,Semantic program alignment for equivalence checking.,https://dblp.org/rec/conf/pldi/ChurchillP0A19
+PLDI,2019,https://doi.org/10.1145/3314221.3314603,Bidirectional type checking for relational properties.,https://dblp.org/rec/conf/pldi/CicekQBG019
+PLDI,2019,https://doi.org/10.1145/3314221.3314642,Gen: a general-purpose probabilistic programming system with programmable inference.,https://dblp.org/rec/conf/pldi/Cusumano-Towner19
+PLDI,2019,https://doi.org/10.1145/3314221.3314601,A complete formal semantics of x86-64 user-level instruction set architecture.,https://dblp.org/rec/conf/pldi/Dasgupta0KAR19
+PLDI,2019,https://doi.org/10.1145/3314221.3314628,CHET: an optimizing compiler for fully-homomorphic neural-network inferencing.,https://dblp.org/rec/conf/pldi/DathathriS0LLMM19
+PLDI,2019,https://doi.org/10.1145/3314221.3314598,Low-latency graph streaming using compressed purely-functional trees.,https://dblp.org/rec/conf/pldi/DhulipalaBS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314640,Unsupervised learning of API aliasing specifications.,https://dblp.org/rec/conf/pldi/EberhardtSRV19
+PLDI,2019,https://doi.org/10.1145/3314221.3314612,Modular divide-and-conquer parallelization of nested loops.,https://dblp.org/rec/conf/pldi/FarzanN19
+PLDI,2019,https://doi.org/10.1145/3314221.3314633,Scenic: a language for scenario specification and scene generation.,https://dblp.org/rec/conf/pldi/FremontDGYSS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314632,Effective floating-point analysis via weak-distance minimization.,https://dblp.org/rec/conf/pldi/FuS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314590,Simple and precise static analysis of untrusted Linux kernel extensions.,https://dblp.org/rec/conf/pldi/GershuniAGNNRRS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314597,Compiling KB-sized machine learning models to tiny IoT devices.,https://dblp.org/rec/conf/pldi/GopinathGSS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314652,Wootz: a compiler-based framework for fast CNN pruning via composability.,https://dblp.org/rec/conf/pldi/GuanSL19
+PLDI,2019,https://doi.org/10.1145/3314221.3314606,A fast analytical model of fully associative caches.,https://dblp.org/rec/conf/pldi/GysiGBH19
+PLDI,2019,https://doi.org/10.1145/3314221.3314618,Lazy counterfactual symbolic execution.,https://dblp.org/rec/conf/pldi/HallahanXBJP19
+PLDI,2019,https://doi.org/10.1145/3314221.3314616,Continuously reasoning about programs using differential Bayesian inference.,https://dblp.org/rec/conf/pldi/HeoRSN19
+PLDI,2019,https://doi.org/10.1145/3314221.3322485,Synthesis and machine learning for heterogeneous extraction.,https://dblp.org/rec/conf/pldi/IyerJPRR19
+PLDI,2019,https://doi.org/10.1145/3314221.3314595,Towards certified separate compilation for concurrent programs.,https://dblp.org/rec/conf/pldi/JiangLXZF19
+PLDI,2019,https://doi.org/10.1145/3314221.3314610,Computing summaries of string loops in C for better testing and refactoring.,https://dblp.org/rec/conf/pldi/KapusIIRC19
+PLDI,2019,https://doi.org/10.1145/3314221.3314630,Type-level computations for Ruby libraries.,https://dblp.org/rec/conf/pldi/KazerounianGVFH19
+PLDI,2019,https://doi.org/10.1145/3314221.3314644,Huron: hybrid false sharing detection and repair.,https://dblp.org/rec/conf/pldi/KhanZPMK19
+PLDI,2019,https://doi.org/10.1145/3314221.3314602,Resource-guided program synthesis.,https://dblp.org/rec/conf/pldi/KnothWP019
+PLDI,2019,https://doi.org/10.1145/3314221.3314609,Model checking for weakly consistent libraries.,https://dblp.org/rec/conf/pldi/Kokologiannakis19
+PLDI,2019,https://doi.org/10.1145/3314221.3314653,Model-driven transformations for multi- and many-core CPUs.,https://dblp.org/rec/conf/pldi/KongP19
+PLDI,2019,https://doi.org/10.1145/3314221.3314625,"A typed, algebraic approach to parsing.",https://dblp.org/rec/conf/pldi/KrishnaswamiY19
+PLDI,2019,https://doi.org/10.1145/3314221.3314627,Toward efficient gradual typing for structural types via coercions.,https://dblp.org/rec/conf/pldi/KuhlenschmidtAS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314604,Robustness against release/acquire semantics.,https://dblp.org/rec/conf/pldi/LahavM19
+PLDI,2019,https://doi.org/10.1145/3314221.3314634,SLING: using dynamic analysis to infer program invariants in separation logic.,https://dblp.org/rec/conf/pldi/LeZN19
+PLDI,2019,https://doi.org/10.1145/3314221.3314593,Programming support for autonomizing software.,https://dblp.org/rec/conf/pldi/LeeLLMZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314620,DFix: automatically fixing timing bugs in distributed systems.,https://dblp.org/rec/conf/pldi/LiLCGL19
+PLDI,2019,https://doi.org/10.1145/3314221.3314607,"ILC: a calculus for composable, computational cryptography.",https://dblp.org/rec/conf/pldi/LiaoHM19
+PLDI,2019,https://doi.org/10.1145/3314221.3314635,Sparse record and replay with controlled scheduling.,https://dblp.org/rec/conf/pldi/LidburyD19
+PLDI,2019,https://doi.org/10.1145/3314221.3314611,Accelerating sequential consistency for Java with speculative compilation.,https://dblp.org/rec/conf/pldi/LiuMM19
+PLDI,2019,https://doi.org/10.1145/3314221.3314622,Verified compilation on a verified processor.,https://dblp.org/rec/conf/pldi/LoowKTMNAF19
+PLDI,2019,https://doi.org/10.1145/3314221.3314645,Sound regular expression semantics for dynamic symbolic execution of JavaScript.,https://dblp.org/rec/conf/pldi/LoringMK19
+PLDI,2019,https://doi.org/10.1145/3314221.3314613,Supporting peripherals in intermittent systems with just-in-time checkpoints.,https://dblp.org/rec/conf/pldi/MaengL19
+PLDI,2019,https://doi.org/10.1145/3314221.3314580,Data-trace types for distributed stream processing systems.,https://dblp.org/rec/conf/pldi/MamourasSAIT19
+PLDI,2019,https://doi.org/10.1145/3314221.3314651,Parser-directed fuzzing.,https://dblp.org/rec/conf/pldi/MathisGMKHZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314636,"Usuba: high-throughput and constant-time ciphers, by construction.",https://dblp.org/rec/conf/pldi/MercadierD19
+PLDI,2019,https://doi.org/10.1145/3314221.3314646,Sparse computation data dependence simplification for efficient compiler-generated inspectors.,https://dblp.org/rec/conf/pldi/MohammadiYCDHDN19
+PLDI,2019,https://doi.org/10.1145/3314221.3314643,Size-change termination as a contract: dynamically and statically enforcing termination for higher-order programs.,https://dblp.org/rec/conf/pldi/NguyenGTH19
+PLDI,2019,https://doi.org/10.1145/3314221.3314629,SemCluster: clustering of imperative programming assignments based on quantitative semantic features.,https://dblp.org/rec/conf/pldi/PerryKSZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314582,Mesh: compacting memory management for C/C++ applications.,https://dblp.org/rec/conf/pldi/PowersTB019
+PLDI,2019,https://doi.org/10.1145/3314221.3314637,Renaissance: benchmarking suite for parallel applications on the JVM.,https://dblp.org/rec/conf/pldi/ProkopecRLD0SBZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314624,Promising-ARM/RISC-V: a simpler and faster operational concurrency model.,https://dblp.org/rec/conf/pldi/PultePKLH19
+PLDI,2019,https://doi.org/10.1145/3314221.3314600,Characterising renaming within OCaml&apos;s module system: theory and implementation.,https://dblp.org/rec/conf/pldi/RoweFTO19
+PLDI,2019,https://doi.org/10.1145/3314221.3314583,"Transactional concurrency control for intermittent, energy-harvesting computing systems.",https://dblp.org/rec/conf/pldi/RuppelL19
+PLDI,2019,https://doi.org/10.1145/3314221.3314626,"Sound, fine-grained traversal fusion for heterogeneous trees.",https://dblp.org/rec/conf/pldi/SakkaSN019
+PLDI,2019,https://doi.org/10.1145/3314221.3322484,Verifying message-passing programs with dependent behavioural types.,https://dblp.org/rec/conf/pldi/ScalasYB19
+PLDI,2019,https://doi.org/10.1145/3314221.3314608,AutoPersist: an easy-to-use Java NVM framework based on reachability.,https://dblp.org/rec/conf/pldi/ShullHT19
+PLDI,2019,https://doi.org/10.1145/3314221.3314639,Scalable verification of probabilistic networks.,https://dblp.org/rec/conf/pldi/SmolkaKKFHK019
+PLDI,2019,https://doi.org/10.1145/3314221.3314592,"Composable, sound transformations of nested recursion and loops.",https://dblp.org/rec/conf/pldi/Sundararajah019
+PLDI,2019,https://doi.org/10.1145/3314221.3314599,Co-optimizing memory-level parallelism and cache-level parallelism.,https://dblp.org/rec/conf/pldi/TangKKA19
+PLDI,2019,https://doi.org/10.1145/3314221.3314589,Lightweight multi-language syntax transformation with parser parser combinators.,https://dblp.org/rec/conf/pldi/TonderG19
+PLDI,2019,https://doi.org/10.1145/3314221.3314586,Ignis: scaling distribution-oblivious systems with light-touch distribution.,https://dblp.org/rec/conf/pldi/VasilakisKPSDS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314631,LoCal: a language for programs operating on serialized data.,https://dblp.org/rec/conf/pldi/VollmerKRS0N19
+PLDI,2019,https://doi.org/10.1145/3314221.3314581,Cost analysis of nondeterministic probabilistic programs.,https://dblp.org/rec/conf/pldi/Wang0GCQS19
+PLDI,2019,https://doi.org/10.1145/3314221.3314650,Panthera: holistic memory management for big data processing over hybrid memories.,https://dblp.org/rec/conf/pldi/WangCCZVML0X19
+PLDI,2019,https://doi.org/10.1145/3314221.3314619,Proving differential privacy with shadow execution.,https://dblp.org/rec/conf/pldi/WangDWKZ19
+PLDI,2019,https://doi.org/10.1145/3314221.3314617,Replication-aware linearizability.,https://dblp.org/rec/conf/pldi/WangEMP19
+PLDI,2019,https://doi.org/10.1145/3314221.3314647,Abstract interpretation under speculative execution.,https://dblp.org/rec/conf/pldi/Wu019
+PLDI,2019,https://doi.org/10.1145/3314221.3314621,Parallelism-centric what-if and differential analyses.,https://dblp.org/rec/conf/pldi/YogaN19
+PLDI,2019,https://doi.org/10.1145/3314221.3314623,Incremental precision-preserving symbolic inference for probabilistic programs.,https://dblp.org/rec/conf/pldi/ZhangX19
+PLDI,2019,https://doi.org/10.1145/3314221.3314584,An applied quantum Hoare logic.,https://dblp.org/rec/conf/pldi/ZhouYY19
+PLDI,2019,https://doi.org/10.1145/3314221.3314638,An inductive synthesis framework for verifiable reinforcement learning.,https://dblp.org/rec/conf/pldi/ZhuXMJ19
+PLDI,2020,https://doi.org/10.1145/3385412.3385995,PMEvo: portable inference of port mappings for out-of-order processors by evolutionary optimization.,https://dblp.org/rec/conf/pldi/0002H20
+PLDI,2020,https://doi.org/10.1145/3385412.3385999,"Blended, precise semantic program embeddings.",https://dblp.org/rec/conf/pldi/0022S20
+PLDI,2020,https://doi.org/10.1145/3385412.3386015,A study of the learnability of relational properties: model counting meets machine learning (MCML).,https://dblp.org/rec/conf/pldi/0024WVWVK20
+PLDI,2020,https://doi.org/10.1145/3385412.3386034,Efficient handling of string-number conversion.,https://dblp.org/rec/conf/pldi/AbdullaACDDJLHW20
+PLDI,2020,https://doi.org/10.1145/3385412.3385997,Typilus: neural type hints.,https://dblp.org/rec/conf/pldi/AllamanisBDG20
+PLDI,2020,https://doi.org/10.1145/3385412.3386026,"Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room.",https://dblp.org/rec/conf/pldi/AntoniadisFKRAS20
+PLDI,2020,https://doi.org/10.1145/3385412.3386028,SCAF: a speculation-aware collaborative dependence analysis framework.,https://dblp.org/rec/conf/pldi/ApostolakisXTCC20
+PLDI,2020,https://doi.org/10.1145/3385412.3386009,Reactive probabilistic programming.,https://dblp.org/rec/conf/pldi/BaudartMASPC20
+PLDI,2020,https://doi.org/10.1145/3385412.3386022,Behavioral simulation for smart contracts.,https://dblp.org/rec/conf/pldi/BeillahiCEE20
+PLDI,2020,https://doi.org/10.1145/3385412.3385984,HipHop.js: (A)Synchronous reactive web programming.,https://dblp.org/rec/conf/pldi/BerryS20
+PLDI,2020,https://doi.org/10.1145/3385412.3386007,Silq: a high-level quantum language with safe uncomputation and intuitive semantics.,https://dblp.org/rec/conf/pldi/BichselBGV20
+PLDI,2020,https://doi.org/10.1145/3385412.3386037,Towards an API for the real numbers.,https://dblp.org/rec/conf/pldi/Boehm20
+PLDI,2020,https://doi.org/10.1145/3385412.3385965,The essence of Bluespec: a core language for rule-based hardware design.,https://dblp.org/rec/conf/pldi/BourgeatPCA20
+PLDI,2020,https://doi.org/10.1145/3385412.3386035,Templates and recurrences: better together.,https://dblp.org/rec/conf/pldi/BreckCKR20
+PLDI,2020,https://doi.org/10.1145/3385412.3385990,Ethainter: a smart contract security analyzer for composite vulnerabilities.,https://dblp.org/rec/conf/pldi/BrentGLSS20
+PLDI,2020,https://doi.org/10.1145/3385412.3385968,Towards a verified range analysis for JavaScript JITs.,https://dblp.org/rec/conf/pldi/BrownRNLSS20
+PLDI,2020,https://doi.org/10.1145/3385412.3385970,Constant-time foundations for the new spectre era.,https://dblp.org/rec/conf/pldi/CauligiDGTSRB20
+PLDI,2020,https://doi.org/10.1145/3385412.3385969,Polynomial invariant generation for non-deterministic recursive programs.,https://dblp.org/rec/conf/pldi/Chatterjee0GG20
+PLDI,2020,https://doi.org/10.1145/3385412.3385988,Multi-modal synthesis of regular expressions.,https://dblp.org/rec/conf/pldi/Chen0YDD20
+PLDI,2020,https://doi.org/10.1145/3385412.3386002,Proving almost-sure termination by omega-regular decomposition.,https://dblp.org/rec/conf/pldi/ChenH20
+PLDI,2020,https://doi.org/10.1145/3385412.3385963,Automatic generation of efficient sparse tensor format conversion routines.,https://dblp.org/rec/conf/pldi/ChouKA20
+PLDI,2020,https://doi.org/10.1145/3385412.3386004,Debugging and detecting numerical errors in computation with posits.,https://dblp.org/rec/conf/pldi/ChowdharyLN20
+PLDI,2020,https://doi.org/10.1145/3385412.3385964,Scalable validation of binary lifters.,https://dblp.org/rec/conf/pldi/DasguptaDVAF20
+PLDI,2020,https://doi.org/10.1145/3385412.3386023,EVA: an encrypted vector arithmetic language and compiler for efficient homomorphic computation.,https://dblp.org/rec/conf/pldi/DathathriKSDLM20
+PLDI,2020,https://doi.org/10.1145/3385412.3385975,Proving data-poisoning robustness in decision trees.,https://dblp.org/rec/conf/pldi/DrewsAD20
+PLDI,2020,https://doi.org/10.1145/3385412.3385972,Binary rewriting without control flow recovery.,https://dblp.org/rec/conf/pldi/DuckGR20
+PLDI,2020,https://doi.org/10.1145/3385412.3385983,Type-directed scheduling of streaming accelerators.,https://dblp.org/rec/conf/pldi/DurstFHADBPFH20
+PLDI,2020,https://doi.org/10.1145/3385412.3385992,Zippy LL(1) parsing with derivatives.,https://dblp.org/rec/conf/pldi/EdelmannHK20
+PLDI,2020,https://doi.org/10.1145/3385412.3386003,FreezeML: complete and easy type inference for first-class polymorphism.,https://dblp.org/rec/conf/pldi/EmrichLSCC20
+PLDI,2020,https://doi.org/10.1145/3385412.3385994,From folklore to fact: comparing implementations of stacks and continuations.,https://dblp.org/rec/conf/pldi/FarvardinR20
+PLDI,2020,https://doi.org/10.1145/3385412.3385981,Compiler and runtime support for continuation marks.,https://dblp.org/rec/conf/pldi/FlattD20
+PLDI,2020,https://doi.org/10.1145/3385412.3386031,"NVTraverse: in NVRAM data structures, the destination is more important than the journey.",https://dblp.org/rec/conf/pldi/FriedmanBWBP20
+PLDI,2020,https://doi.org/10.1145/3385412.3386006,λPSI: exact inference for higher-order probabilistic programs.,https://dblp.org/rec/conf/pldi/GehrSV20
+PLDI,2020,https://doi.org/10.1145/3385412.3385991,"Crafty: efficient, HTM-compatible persistent transactions.",https://dblp.org/rec/conf/pldi/GencBX20
+PLDI,2020,https://doi.org/10.1145/3385412.3386019,NV: an intermediate language for verification of network control planes.,https://dblp.org/rec/conf/pldi/GiannarakisLBW20
+PLDI,2020,https://doi.org/10.1145/3385412.3386016,Learning fast and precise numerical analysis.,https://dblp.org/rec/conf/pldi/HeSPV20
+PLDI,2020,https://doi.org/10.1145/3385412.3386032,Faster general parsing through context-free memoization.,https://dblp.org/rec/conf/pldi/Herman20
+PLDI,2020,https://doi.org/10.1145/3385412.3385979,Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems.,https://dblp.org/rec/conf/pldi/HuCDR20
+PLDI,2020,https://doi.org/10.1145/3385412.3386027,Reconciling enumerative and deductive program synthesis.,https://dblp.org/rec/conf/pldi/HuangQSW20
+PLDI,2020,https://doi.org/10.1145/3385412.3386025,Question selection for interactive program synthesis.,https://dblp.org/rec/conf/pldi/JiLXZH20
+PLDI,2020,https://doi.org/10.1145/3385412.3385978,A marriage of pointer- and epoch-based reclamation.,https://dblp.org/rec/conf/pldi/KangJ20
+PLDI,2020,https://doi.org/10.1145/3385412.3386033,Compiler-directed soft error resilience for lightweight GPU register file protection.,https://dblp.org/rec/conf/pldi/KimZLALJ20
+PLDI,2020,https://doi.org/10.1145/3385412.3386018,First-order quantified separators.,https://dblp.org/rec/conf/pldi/KoenigPIA20
+PLDI,2020,https://doi.org/10.1145/3385412.3385980,Inductive sequentialization of asynchronous programs.,https://dblp.org/rec/conf/pldi/KraglEHMQ20
+PLDI,2020,https://doi.org/10.1145/3385412.3386029,Verifying concurrent search structure templates.,https://dblp.org/rec/conf/pldi/KrishnaPSW20
+PLDI,2020,https://doi.org/10.1145/3385412.3385966,Decidable verification under a causally consistent shared memory.,https://dblp.org/rec/conf/pldi/LahavB20
+PLDI,2020,https://doi.org/10.1145/3385412.3386010,Promising 2.0: global optimizations in relaxed memory concurrency.,https://dblp.org/rec/conf/pldi/LeeCPCHLV20
+PLDI,2020,https://doi.org/10.1145/3385412.3385996,Optimizing homomorphic evaluation circuits by program synthesis and term rewriting.,https://dblp.org/rec/conf/pldi/LeeLOY20
+PLDI,2020,https://doi.org/10.1145/3385412.3385982,Securing smart contract with runtime validation.,https://dblp.org/rec/conf/pldi/LiCL20
+PLDI,2020,https://doi.org/10.1145/3385412.3386020,Debug information validation for optimized code.,https://dblp.org/rec/conf/pldi/LiDZI20
+PLDI,2020,https://doi.org/10.1145/3385412.3386021,Fast graph simplification for interleaved Dyck-reachability.,https://dblp.org/rec/conf/pldi/LiZR20
+PLDI,2020,https://doi.org/10.1145/3385412.3385971,Armada: low-effort verification of high-performance concurrent programs.,https://dblp.org/rec/conf/pldi/LorchCKPQSWZ20
+PLDI,2020,https://doi.org/10.1145/3385412.3385998,Adaptive low-overhead scheduling for periodic and reactive intermittent execution.,https://dblp.org/rec/conf/pldi/MaengL20
+PLDI,2020,https://doi.org/10.1145/3385412.3385967,Data-driven inference of representation invariants.,https://dblp.org/rec/conf/pldi/MiltnerPMW20
+PLDI,2020,https://doi.org/10.1145/3385412.3386013,Responsive parallelism with futures and state.,https://dblp.org/rec/conf/pldi/MullerSGAAL20
+PLDI,2020,https://doi.org/10.1145/3385412.3386012,Synthesizing structured CAD models with equality saturation and inverse transformations.,https://dblp.org/rec/conf/pldi/NandiWAWDGT20
+PLDI,2020,https://doi.org/10.1145/3385412.3385974,Predictable accelerator design with time-sensitive affine types.,https://dblp.org/rec/conf/pldi/NigamATLBYKSZ20
+PLDI,2020,https://doi.org/10.1145/3385412.3385989,Automated derivation of parametric data movement lower bounds for affine programs.,https://dblp.org/rec/conf/pldi/OlivryLPSR20
+PLDI,2020,https://doi.org/10.1145/3385412.3385962,OOElala: order-of-evaluation based alias analysis for compiler optimization.,https://dblp.org/rec/conf/pldi/PhuliaBB20
+PLDI,2020,https://doi.org/10.1145/3385412.3386017,BlankIt library debloating: getting what you want instead of cutting what you don&apos;t.,https://dblp.org/rec/conf/pldi/PorterMBP20
+PLDI,2020,https://doi.org/10.1145/3385412.3386001,Semantic code search via equational reasoning.,https://dblp.org/rec/conf/pldi/PremtoonKS20
+PLDI,2020,https://doi.org/10.1145/3385412.3386036,Understanding memory and thread safety practices and issues in real-world Rust programs.,https://dblp.org/rec/conf/pldi/QinCYSZ20
+PLDI,2020,https://doi.org/10.1145/3385412.3386030,Effective function merging in the SSA form.,https://dblp.org/rec/conf/pldi/RochaP0CL20
+PLDI,2020,https://doi.org/10.1145/3385412.3385993,SmartTrack: efficient predictive race detection.,https://dblp.org/rec/conf/pldi/RoemerGB20
+PLDI,2020,https://doi.org/10.1145/3385412.3386005,Type error feedback via analytic program repair.,https://dblp.org/rec/conf/pldi/SakkasECWJ20
+PLDI,2020,https://doi.org/10.1145/3385412.3386014,"Gillian, part i: a multi-language platform for symbolic execution.",https://dblp.org/rec/conf/pldi/SantosMAG20
+PLDI,2020,https://doi.org/10.1145/3385412.3386024,LLHD: a multi-level intermediate representation for hardware description languages.,https://dblp.org/rec/conf/pldi/SchuikiKGB20
+PLDI,2020,https://doi.org/10.1145/3385412.3385976,Detecting network load violations for distributed control planes.,https://dblp.org/rec/conf/pldi/SubramanianADA20
+PLDI,2020,https://doi.org/10.1145/3385412.3385987,CARAT: a case for virtual memory through compiler- and runtime-based address translation.,https://dblp.org/rec/conf/pldi/SuchyCHD20
+PLDI,2020,https://doi.org/10.1145/3385412.3386008,CacheQuery: learning replacement policies from hardware caches.,https://dblp.org/rec/conf/pldi/VilaGGK20
+PLDI,2020,https://doi.org/10.1145/3385412.3385973,Repairing and mechanising the JavaScript relaxed memory model.,https://dblp.org/rec/conf/pldi/WattPPBDFPG20
+PLDI,2020,https://doi.org/10.1145/3385412.3385985,Validating SMT solvers via semantic fusion.,https://dblp.org/rec/conf/pldi/WintererZS20
+PLDI,2020,https://doi.org/10.1145/3385412.3386000,PMThreads: persistent memory threads harnessing versioned shadow copies.,https://dblp.org/rec/conf/pldi/WuLNZL20
+PLDI,2020,https://doi.org/10.1145/3385412.3385977,Improving program locality in the GC using hotness.,https://dblp.org/rec/conf/pldi/YangOW20
+PLDI,2020,https://doi.org/10.1145/3385412.3385986,Learning nonlinear loop invariants with gated continuous logic networks.,https://dblp.org/rec/conf/pldi/YaoRWJG20
+PLDI,2020,https://doi.org/10.1145/3385412.3386011,On the principles of differentiable quantum programming languages.,https://dblp.org/rec/conf/pldi/ZhuHCW20
+PLDI,2020,https://doi.org/10.1145/3385412.3385961,SympleGraph: distributed graph processing with precise loop-carried dependency guarantee.,https://dblp.org/rec/conf/pldi/ZhuoCLWYQQ20
+PLDI,2021,https://doi.org/10.1145/3453483.3454110,Termination analysis without the tears.,https://dblp.org/rec/conf/pldi/0001K21
+PLDI,2021,https://doi.org/10.1145/3453483.3454090,"Snapshot-free, transparent, and robust memory reclamation for lock-free data structures.",https://dblp.org/rec/conf/pldi/0001R21
+PLDI,2021,https://doi.org/10.1145/3453483.3454037,Wire sorts: a language abstraction for safe hardware composition.,https://dblp.org/rec/conf/pldi/0001SBH21
+PLDI,2021,https://doi.org/10.1145/3453483.3454044,Demanded abstract interpretation.,https://dblp.org/rec/conf/pldi/0002CS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454096,JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace.,https://dblp.org/rec/conf/pldi/0002JWTWLX21
+PLDI,2021,https://doi.org/10.1145/3453483.3454085,Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code.,https://dblp.org/rec/conf/pldi/0002ZPLLWLX21
+PLDI,2021,https://doi.org/10.1145/3453483.3454074,"Viaduct: an extensible, optimizing compiler for secure distributed programs.",https://dblp.org/rec/conf/pldi/AcayRGMS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454060,Concurrent deferred reference counting with constant-time overhead.,https://dblp.org/rec/conf/pldi/AndersonBW21
+PLDI,2021,https://doi.org/10.1145/3453483.3454076,Polynomial reachability witnesses via Stellensätze.,https://dblp.org/rec/conf/pldi/AsadiC0GM21
+PLDI,2021,https://doi.org/10.1145/3453483.3454107,"Frequent background polling on a shared thread, using light-weight compiler interrupts.",https://dblp.org/rec/conf/pldi/BasuME21
+PLDI,2021,https://doi.org/10.1145/3453483.3454058,Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming.,https://dblp.org/rec/conf/pldi/BaudartBHMS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454111,On probabilistic termination of functional programs with continuous distributions.,https://dblp.org/rec/conf/pldi/BeutnerO21
+PLDI,2021,https://doi.org/10.1145/3453483.3454056,Fast and precise certification of transformers.,https://dblp.org/rec/conf/pldi/BonaertDBV21
+PLDI,2021,https://doi.org/10.1145/3453483.3454034,Compiler-assisted object inlining with value fields.,https://dblp.org/rec/conf/pldi/BrunoJWA21
+PLDI,2021,https://doi.org/10.1145/3453483.3454099,Canary: practical static detection of inter-thread value-flow bugs.,https://dblp.org/rec/conf/pldi/CaiYZ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454041,Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes.,https://dblp.org/rec/conf/pldi/Castro-Perez0GY21
+PLDI,2021,https://doi.org/10.1145/3453483.3454093,Proving non-termination by program reversal.,https://dblp.org/rec/conf/pldi/ChatterjeeG0Z21
+PLDI,2021,https://doi.org/10.1145/3453483.3454047,Web question answering with neurosymbolic program synthesis.,https://dblp.org/rec/conf/pldi/ChenL0DBD21
+PLDI,2021,https://doi.org/10.1145/3453483.3454082,Modular data-race-freedom guarantees in the promising semantics.,https://dblp.org/rec/conf/pldi/ChoLHL21
+PLDI,2021,https://doi.org/10.1145/3453483.3454027,Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8.,https://dblp.org/rec/conf/pldi/ChoLRK21
+PLDI,2021,https://doi.org/10.1145/3453483.3454050,Porcupine: a synthesizing compiler for vectorized homomorphic encryption.,https://dblp.org/rec/conf/pldi/CowanDATLR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454092,Test-case reduction and deduplication almost for free with transformation-based compiler testing.,https://dblp.org/rec/conf/pldi/DonaldsonTTMMK21
+PLDI,2021,https://doi.org/10.1145/3453483.3454080,DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning.,https://dblp.org/rec/conf/pldi/EllisWNSMHCST21
+PLDI,2021,https://doi.org/10.1145/3453483.3454065,Integration verification across software and hardware for a simple embedded system.,https://dblp.org/rec/conf/pldi/ErbsenGCWC21
+PLDI,2021,https://doi.org/10.1145/3453483.3454052,"Concise, type-safe, and efficient structural diffing.",https://dblp.org/rec/conf/pldi/ErdwegSP21
+PLDI,2021,https://doi.org/10.1145/3453483.3454089,Phased synthesis of divide and conquer programs.,https://dblp.org/rec/conf/pldi/FarzanN21
+PLDI,2021,https://doi.org/10.1145/3453483.3454046,DIY assistant: a multi-modal end-user programmable virtual assistant.,https://dblp.org/rec/conf/pldi/FischerCCL21
+PLDI,2021,https://doi.org/10.1145/3453483.3454105,Mirror: making lock-free data structures persistent.,https://dblp.org/rec/conf/pldi/FriedmanPR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454048,RbSyn: type- and effect-guided program synthesis.,https://dblp.org/rec/conf/pldi/GuriaFH21
+PLDI,2021,https://doi.org/10.1145/3453483.3454045,Learning to find naming issues with big code and small supervision.,https://dblp.org/rec/conf/pldi/HeLRV21
+PLDI,2021,https://doi.org/10.1145/3453483.3454108,Satisfiability modulo ordering consistency theory for multi-threaded program verification.,https://dblp.org/rec/conf/pldi/HeSF21
+PLDI,2021,https://doi.org/10.1145/3453483.3454070,An efficient interpreter for Datalog by de-specializing relations.,https://dblp.org/rec/conf/pldi/HuZJS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454087,Cyclic program synthesis.,https://dblp.org/rec/conf/pldi/ItzhakyPPRS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454042,Fluid: a framework for approximate concurrency via controlled dependency relaxation.,https://dblp.org/rec/conf/pldi/Jiang0TGSKZ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454038,DeepCuts: a deep learning optimization framework for versatile GPU workloads.,https://dblp.org/rec/conf/pldi/JungDL21
+PLDI,2021,https://doi.org/10.1145/3453483.3454091,Logical bytecode reduction.,https://dblp.org/rec/conf/pldi/KalhaugeP21
+PLDI,2021,https://doi.org/10.1145/3453483.3454069,Distance-in-time versus distance-in-space.,https://dblp.org/rec/conf/pldi/KandemirT0RK21
+PLDI,2021,https://doi.org/10.1145/3453483.3454071,Adaptive restarts for stochastic synthesis.,https://dblp.org/rec/conf/pldi/KoenigPA21
+PLDI,2021,https://doi.org/10.1145/3453483.3454097,CompCertO: compiling certified open C components.,https://dblp.org/rec/conf/pldi/KoenigS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454055,Beyond the elementary representations of program invariants over algebraic data types.,https://dblp.org/rec/conf/pldi/KostyukovMF21
+PLDI,2021,https://doi.org/10.1145/3453483.3454053,CoStar: a verified ALL(*) parser.,https://dblp.org/rec/conf/pldi/LasserCFR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454067,Abstraction for conflict-free replicated data types.,https://dblp.org/rec/conf/pldi/LiangF21
+PLDI,2021,https://doi.org/10.1145/3453483.3454049,High performance correctly rounded math libraries for 32-bit floating point representations.,https://dblp.org/rec/conf/pldi/LimN21
+PLDI,2021,https://doi.org/10.1145/3453483.3454073,When threads meet events: efficient and precise static race detection with origins.,https://dblp.org/rec/conf/pldi/LiuLLTS021
+PLDI,2021,https://doi.org/10.1145/3453483.3454030,Alive2: bounded translation validation for LLVM.,https://dblp.org/rec/conf/pldi/LopesLHLR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454094,Vectorized secure evaluation of decision forests.,https://dblp.org/rec/conf/pldi/MalikSG021
+PLDI,2021,https://doi.org/10.1145/3453483.3454088,Hashing modulo alpha-equivalence.,https://dblp.org/rec/conf/pldi/MaziarzELFJ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454100,Robustness certification with generative models.,https://dblp.org/rec/conf/pldi/MirmanHBGV21
+PLDI,2021,https://doi.org/10.1145/3453483.3454057,Trace-based control-flow analysis.,https://dblp.org/rec/conf/pldi/MontaguJ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454079,Reverse engineering for reduction parallelization via semiring polynomials.,https://dblp.org/rec/conf/pldi/MorihataS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454043,Developer and user-transparent compiler optimization for interactive applications.,https://dblp.org/rec/conf/pldi/MpeisPHL21
+PLDI,2021,https://doi.org/10.1145/3453483.3454083,DNNFusion: accelerating deep neural networks execution with advanced operator fusion.,https://dblp.org/rec/conf/pldi/NiuGWAR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454103,IOOpt: automatic derivation of I/O complexity bounds for affine programs.,https://dblp.org/rec/conf/pldi/OlivryITRSR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454059,Filling typed holes with live GUIs.,https://dblp.org/rec/conf/pldi/OmarMBVCC21
+PLDI,2021,https://doi.org/10.1145/3453483.3454063,Synthesizing data structure refinements from integrity constraints.,https://dblp.org/rec/conf/pldi/Pailoor00D21
+PLDI,2021,https://doi.org/10.1145/3453483.3454040,Unqomp: synthesizing uncomputation in Quantum circuits.,https://dblp.org/rec/conf/pldi/ParadisBSV21
+PLDI,2021,https://doi.org/10.1145/3453483.3454112,Practical smart contract sharding with ownership and commutativity analysis.,https://dblp.org/rec/conf/pldi/Pirlea0S21
+PLDI,2021,https://doi.org/10.1145/3453483.3454028,Repairing serializability bugs in distributed database programs via automated schema refactoring.,https://dblp.org/rec/conf/pldi/RahmaniNDJ21
+PLDI,2021,https://doi.org/10.1145/3453483.3460969,Task parallel assembly language for uncompromising parallelism.,https://dblp.org/rec/conf/pldi/RaineyNHHCDA21
+PLDI,2021,https://doi.org/10.1145/3453483.3454032,Perceus: garbage free reference counting with reuse.,https://dblp.org/rec/conf/pldi/ReinkingXML21
+PLDI,2021,https://doi.org/10.1145/3453483.3454035,Unleashing the hidden power of compiler optimization on binary code difference: an empirical study.,https://dblp.org/rec/conf/pldi/RenHMLL21
+PLDI,2021,https://doi.org/10.1145/3453483.3454072,Scooter &amp; Sidecar: a domain-specific approach to writing secure database migrations.,https://dblp.org/rec/conf/pldi/RennerSBLS21
+PLDI,2021,https://doi.org/10.1145/3453483.3454033,Proof repair across type equivalences.,https://dblp.org/rec/conf/pldi/RingerPYLG21
+PLDI,2021,https://doi.org/10.1145/3453483.3454109,Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models.,https://dblp.org/rec/conf/pldi/RoyPGT21
+PLDI,2021,https://doi.org/10.1145/3453483.3454104,Specification synthesis with constrained Horn clauses.,https://dblp.org/rec/conf/pldi/SFMD21
+PLDI,2021,https://doi.org/10.1145/3453483.3454078,SPPL: probabilistic programming with fast exact symbolic inference.,https://dblp.org/rec/conf/pldi/SaadRM21
+PLDI,2021,https://doi.org/10.1145/3453483.3454036,RefinedC: automating the foundational verification of C code with refined ownership types.,https://dblp.org/rec/conf/pldi/SammlerLKMD021
+PLDI,2021,https://doi.org/10.1145/3453483.3454051,Concolic program repair.,https://dblp.org/rec/conf/pldi/ShariffdeenNGR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454086,Path-sensitive sparse analysis without path conditions.,https://dblp.org/rec/conf/pldi/ShiYWZ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454039,Retrofitting effect handlers onto OCaml.,https://dblp.org/rec/conf/pldi/Sivaramakrishnan21
+PLDI,2021,https://doi.org/10.1145/3453483.3454064,Provable repair of deep neural networks.,https://dblp.org/rec/conf/pldi/SotoudehT21
+PLDI,2021,https://doi.org/10.1145/3453483.3454031,Transfinite Iris: resolving an existential dilemma of step-indexed separation logic.,https://dblp.org/rec/conf/pldi/SpiesGGTKDB21
+PLDI,2021,https://doi.org/10.1145/3453483.3454066,Symbolic Boolean derivatives for efficiently solving extended regular expression constraints.,https://dblp.org/rec/conf/pldi/StanfordVB21
+PLDI,2021,https://doi.org/10.1145/3453483.3454081,Automatically enforcing fresh and consistent inputs in intermittent systems.,https://dblp.org/rec/conf/pldi/Surbatovich0L21
+PLDI,2021,https://doi.org/10.1145/3453483.3454026,Incremental whole-program analysis in Datalog with lattices.,https://dblp.org/rec/conf/pldi/SzaboEB21
+PLDI,2021,https://doi.org/10.1145/3453483.3454084,SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.,https://dblp.org/rec/conf/pldi/TakashimaM0P21
+PLDI,2021,https://doi.org/10.1145/3453483.3454029,Gleipnir: toward practical error analysis for Quantum programs.,https://dblp.org/rec/conf/pldi/TaoSYHCG21
+PLDI,2021,https://doi.org/10.1145/3453483.3454098,Example-guided synthesis of relational queries.,https://dblp.org/rec/conf/pldi/ThakkarNSANR21
+PLDI,2021,https://doi.org/10.1145/3453483.3454075,Reticle: a virtual machine for programming modern FPGAs.,https://dblp.org/rec/conf/pldi/VegaMSGC21
+PLDI,2021,https://doi.org/10.1145/3453483.3454062,Central moment analysis for cost accumulators in probabilistic programs.,https://dblp.org/rec/conf/pldi/Wang0R21
+PLDI,2021,https://doi.org/10.1145/3453483.3454077,Sound probabilistic inference via guide types.,https://dblp.org/rec/conf/pldi/Wang0R21a
+PLDI,2021,https://doi.org/10.1145/3453483.3454102,Quantitative analysis of assertion violations in probabilistic programs.,https://dblp.org/rec/conf/pldi/WangS0CG21
+PLDI,2021,https://doi.org/10.1145/3453483.3454068,Boosting SMT solver performance on mixed-bitwise-arithmetic expressions.,https://dblp.org/rec/conf/pldi/XuLFMZLY21
+PLDI,2021,https://doi.org/10.1145/3453483.3454054,Automated conformance testing for JavaScript engines via deep compiler fuzzing.,https://dblp.org/rec/conf/pldi/YeTTHFSBW021
+PLDI,2021,https://doi.org/10.1145/3453483.3454061,Quantum abstract interpretation.,https://dblp.org/rec/conf/pldi/YuP21
+PLDI,2021,https://doi.org/10.1145/3453483.3454106,AKG: automatic kernel generation for neural processing units using polyhedral transformations.,https://dblp.org/rec/conf/pldi/ZhaoLNGZGCWCLDZ21
+PLDI,2021,https://doi.org/10.1145/3453483.3454101,Execution reconstruction: harnessing failure reoccurrences for failure reproduction.,https://dblp.org/rec/conf/pldi/ZuoM0B0K21
+PLDI,2022,https://doi.org/10.1145/3519939.3523703,Semantic soundness for language interoperability.,https://dblp.org/rec/conf/pldi/0001MWA22
+PLDI,2022,https://doi.org/10.1145/3519939.3523438,PyLSE: a pulse-transfer level language for superconductor electronics.,https://dblp.org/rec/conf/pldi/0001TKVSH22
+PLDI,2022,https://doi.org/10.1145/3519939.3523722,Kleene algebra modulo theories: a framework for concrete KATs.,https://dblp.org/rec/conf/pldi/0002BC22
+PLDI,2022,https://doi.org/10.1145/3519939.3523449,Finding the dwarf: recovering precise types from WebAssembly binaries.,https://dblp.org/rec/conf/pldi/0002P22
+PLDI,2022,https://doi.org/10.1145/3519939.3523447,Progressive polynomial approximations for fast correctly rounded math libraries.,https://dblp.org/rec/conf/pldi/AanjaneyaLN22
+PLDI,2022,https://doi.org/10.1145/3519939.3523436,Efficient approximations for cache-conscious data placement.,https://dblp.org/rec/conf/pldi/AhmadiDGP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523442,Autoscheduling for sparse tensor algebra with an asymptotic cost model.,https://dblp.org/rec/conf/pldi/AhrensKA22
+PLDI,2022,https://doi.org/10.1145/3519939.3523730,Turning manual concurrent memory reclamation into automatic reference counting.,https://dblp.org/rec/conf/pldi/AndersonBW22
+PLDI,2022,https://doi.org/10.1145/3519939.3523716,&quot;Synthesizing input grammars&quot;: a replication study.,https://dblp.org/rec/conf/pldi/BendrissouGZ22
+PLDI,2022,https://doi.org/10.1145/3519939.3523721,Guaranteed bounds for posterior inference in universal probabilistic programming.,https://dblp.org/rec/conf/pldi/BeutnerOZ22
+PLDI,2022,https://doi.org/10.1145/3519939.3523452,Choosing mathematical function implementations for speed and accuracy.,https://dblp.org/rec/conf/pldi/BriggsP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523453,Abstract interpretation repair.,https://dblp.org/rec/conf/pldi/BruniGGR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523720,A study of real-world data races in Golang.,https://dblp.org/rec/conf/pldi/ChabbiR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523427,Finding typing compiler bugs.,https://dblp.org/rec/conf/pldi/ChaliasosSSGLM22
+PLDI,2022,https://doi.org/10.1145/3519939.3523701,All you need is superword-level parallelism: systematic control-flow vectorization with SLP.,https://dblp.org/rec/conf/pldi/ChenMA22
+PLDI,2022,https://doi.org/10.1145/3519939.3523709,Visualization question answering using introspective program synthesis.,https://dblp.org/rec/conf/pldi/ChenY022
+PLDI,2022,https://doi.org/10.1145/3519939.3523718,Sequential reasoning for optimizing compilers under weak memory concurrency.,https://dblp.org/rec/conf/pldi/ChoLLHL22
+PLDI,2022,https://doi.org/10.1145/3519939.3523429,Can reactive synthesis and syntax-guided synthesis be friends?,https://dblp.org/rec/conf/pldi/ChoiFPS22
+PLDI,2022,https://doi.org/10.1145/3519939.3523445,Modular information flow through ownership.,https://dblp.org/rec/conf/pldi/CrichtonPAH22
+PLDI,2022,https://doi.org/10.1145/3519939.3523451,Compass: strong and compositional library specifications in relaxed memory separation logic.,https://dblp.org/rec/conf/pldi/DangJCNMKD22
+PLDI,2022,https://doi.org/10.1145/3519939.3523733,PaC-trees: supporting parallel and compressed purely-functional collections.,https://dblp.org/rec/conf/pldi/DhulipalaB0022
+PLDI,2022,https://doi.org/10.1145/3519939.3523715,Leapfrog: certified equivalence for protocol parsers.,https://dblp.org/rec/conf/pldi/DoengesKSFM22
+PLDI,2022,https://doi.org/10.1145/3519939.3523711,WebRobot: web robotic process automation using interactive programming-by-demonstration.,https://dblp.org/rec/conf/pldi/DongHLCW22
+PLDI,2022,https://doi.org/10.1145/3519939.3523727,Sound sequentialization for concurrent program verification.,https://dblp.org/rec/conf/pldi/FarzanKP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523726,Recursion synthesis with unrealizability witnesses.,https://dblp.org/rec/conf/pldi/FarzanLN22
+PLDI,2022,https://doi.org/10.1145/3519939.3523700,IRDL: an IR definition language for SSA compilers.,https://dblp.org/rec/conf/pldi/FehrNRA0G22
+PLDI,2022,https://doi.org/10.1145/3519939.3523729,Deoptless: speculation with dispatched on-stack replacement and specialized continuations.,https://dblp.org/rec/conf/pldi/FluckigerJKV22
+PLDI,2022,https://doi.org/10.1145/3519939.3523723,Checking robustness to weak persistency models.,https://dblp.org/rec/conf/pldi/GorjiaraLLXD22
+PLDI,2022,https://doi.org/10.1145/3519939.3523430,Deep and shallow types for gradual languages.,https://dblp.org/rec/conf/pldi/Greenman22
+PLDI,2022,https://doi.org/10.1145/3519939.3523717,P4BID: information flow control in p4.,https://dblp.org/rec/conf/pldi/GrewalDH22
+PLDI,2022,https://doi.org/10.1145/3519939.3523450,Type-directed program synthesis for RESTful APIs.,https://dblp.org/rec/conf/pldi/GuoCT0SP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523725,ANOSY: approximated knowledge synthesis with refinement types for declassification.,https://dblp.org/rec/conf/pldi/GuriaVGP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523444,Adore: atomic distributed objects with certified reconfiguration.,https://dblp.org/rec/conf/pldi/HonoreSKS22
+PLDI,2022,https://doi.org/10.1145/3519939.3523426,Hamband: RDMA replicated data types.,https://dblp.org/rec/conf/pldi/HoushmandSL22
+PLDI,2022,https://doi.org/10.1145/3519939.3523446,Exocompilation for productive programming of hardware accelerators.,https://dblp.org/rec/conf/pldi/IkarashiBRGR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523731,CycleQ: an efficient basis for cyclic equational reasoning.,https://dblp.org/rec/conf/pldi/JonesOR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523724,RunTime-assisted convergence in replicated data types.,https://dblp.org/rec/conf/pldi/KakiPL22
+PLDI,2022,https://doi.org/10.1145/3519939.3523456,Software-hardware codesign for efficient in-memory regular pattern matching.,https://dblp.org/rec/conf/pldi/KongYCGHM022
+PLDI,2022,https://doi.org/10.1145/3519939.3523454,WARio: efficient code generation for intermittent computing.,https://dblp.org/rec/conf/pldi/KortbeekGHCP22
+PLDI,2022,https://doi.org/10.1145/3519939.3523441,"Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters.",https://dblp.org/rec/conf/pldi/MaLWQBBKX22
+PLDI,2022,https://doi.org/10.1145/3519939.3523704,RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code.,https://dblp.org/rec/conf/pldi/MatsushitaDJD22
+PLDI,2022,https://doi.org/10.1145/3519939.3523443,A flexible type system for fearless concurrency.,https://dblp.org/rec/conf/pldi/MilanoTM22
+PLDI,2022,https://doi.org/10.1145/3519939.3523714,Warping cache simulation of polyhedral programs.,https://dblp.org/rec/conf/pldi/MorelliR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523432,Diaframe: automated verification of fine-grained concurrent programs in Iris.,https://dblp.org/rec/conf/pldi/MulderKG22
+PLDI,2022,https://doi.org/10.1145/3519939.3523728,Quickstrom: property-based acceptance testing with LTL specifications.,https://dblp.org/rec/conf/pldi/OConnorW22
+PLDI,2022,https://doi.org/10.1145/3519939.3523707,Computing correctly with inductive relations.,https://dblp.org/rec/conf/pldi/Paraskevopoulou22
+PLDI,2022,https://doi.org/10.1145/3519939.3523705,Landmarks and regions: a robust approach to data extraction.,https://dblp.org/rec/conf/pldi/ParthasarathyPK22
+PLDI,2022,https://doi.org/10.1145/3519939.3523713,Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra.,https://dblp.org/rec/conf/pldi/PengYW22
+PLDI,2022,https://doi.org/10.1145/3519939.3523706,Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code.,https://dblp.org/rec/conf/pldi/Pit-ClaudelPJEC22
+PLDI,2022,https://doi.org/10.1145/3519939.3523457,Interpreter-guided differential JIT compiler unit testing.,https://dblp.org/rec/conf/pldi/PolitoDT22
+PLDI,2022,https://doi.org/10.1145/3519939.3523719,Lasagne: a static binary translator for weak memory model architectures.,https://dblp.org/rec/conf/pldi/RochaS0GSCB22
+PLDI,2022,https://doi.org/10.1145/3519939.3523434,Islaris: verification of machine code against authoritative ISA semantics.,https://dblp.org/rec/conf/pldi/SammlerHL0PD0S22
+PLDI,2022,https://doi.org/10.1145/3519939.3523710,A typed continuation-passing translation for lexical effect handlers.,https://dblp.org/rec/conf/pldi/SchusterB0O22
+PLDI,2022,https://doi.org/10.1145/3519939.3523735,Certified mergeable replicated data types.,https://dblp.org/rec/conf/pldi/Soundarapandian22
+PLDI,2022,https://doi.org/10.1145/3519939.3523708,Hardening attack surfaces with formally proven binary format parsers.,https://dblp.org/rec/conf/pldi/SwamyRRSNMVTCG22
+PLDI,2022,https://doi.org/10.1145/3519939.3523448,FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs.,https://dblp.org/rec/conf/pldi/TangZWJZYZ22
+PLDI,2022,https://doi.org/10.1145/3519939.3523431,Giallar: push-button verification for the qiskit Quantum compiler.,https://dblp.org/rec/conf/pldi/TaoSYLJCCG22
+PLDI,2022,https://doi.org/10.1145/3519939.3523702,Formally verified lifting of C-compiled x86-64 binaries.,https://dblp.org/rec/conf/pldi/VerbeekBFR22
+PLDI,2022,https://doi.org/10.1145/3519939.3523428,Odin: on-demand instrumentation with on-the-fly recompilation.,https://dblp.org/rec/conf/pldi/WangLZWX022
+PLDI,2022,https://doi.org/10.1145/3519939.3523439,Bind the gap: compiling real software to hardware FFT accelerators.,https://dblp.org/rec/conf/pldi/WoodruffAAO22
+PLDI,2022,https://doi.org/10.1145/3519939.3523433,Quartz: superoptimization of Quantum circuits.,https://dblp.org/rec/conf/pldi/XuLPLPHMPAAJ22
+PLDI,2022,https://doi.org/10.1145/3519939.3523437,DISTAL: the distributed tensor algebra compiler.,https://dblp.org/rec/conf/pldi/YadavAK22
+PLDI,2022,https://doi.org/10.1145/3519939.3523455,PDL: a high-level hardware design language for pipelined processors.,https://dblp.org/rec/conf/pldi/ZagieboyloSSM22
+PLDI,2022,https://doi.org/10.1145/3519939.3523734,Verifying optimizations of concurrent programs in the promising semantics.,https://dblp.org/rec/conf/pldi/ZhaL022
+PLDI,2022,https://doi.org/10.1145/3519939.3523732,Karp: a language for NP reductions.,https://dblp.org/rec/conf/pldi/ZhangHD22
+PLDI,2022,https://doi.org/10.1145/3519939.3523440,"Low-latency, high-throughput garbage collection.",https://dblp.org/rec/conf/pldi/ZhaoBM22
+PLDI,2022,https://doi.org/10.1145/3519939.3523712,Synthesizing analytical SQL queries from computation demonstration.,https://dblp.org/rec/conf/pldi/ZhouBCW22
+PLDI,2022,https://doi.org/10.1145/3519939.3523435,Differential cost analysis with simultaneous potentials and anti-potentials.,https://dblp.org/rec/conf/pldi/ZikelicCBR22

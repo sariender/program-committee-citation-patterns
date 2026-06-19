@@ -1,0 +1,7 @@
+source_canonical_researchr_id,canonical_researchr_id,canonical_name,reason
+guoqingharryxu,harryxu,Guoqing Harry Xu,Same researcher listed as Harry Xu on PLDI 2018 and Guoqing Harry Xu on OOPSLA 2019.
+vikashmansinghka1,vikashmansinghka,Vikash K. Mansinghka,Same researcher listed as Vikash Mansinghka and Vikash K. Mansinghka; both map to the same OpenAlex Author ID.
+corinapasareanu,corinaspasareanu,Corina S. Pasareanu,Same researcher listed as Corina Pasareanu and Corina S. Pasareanu; both map to the same OpenAlex Author ID.
+corinaspasareanu1,corinaspasareanu,Corina S. Pasareanu,Same researcher listed with accented and unaccented Corina S. Pasareanu profiles; both map to the same OpenAlex Author ID.
+gorelhedin1,gorelhedin,Gorel Hedin,Same researcher listed as Gorel Hedin and Görel Hedin; both map to the same OpenAlex Author ID.
+michellestrout,michellemillsstrout,Michelle Mills Strout,Same researcher listed as Michelle Strout and Michelle Mills Strout; both map to the same OpenAlex Author ID.

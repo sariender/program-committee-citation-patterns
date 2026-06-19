@@ -1,0 +1,7 @@
+group,event_units,defined_pc_year_shares,defined_pc_year_deltas,zero_total_citation_pc_years,mean_pc_year_share_pct,median_pc_year_share_pct,mean_baseline_share_pct,mean_delta_source_share_pp,median_delta_source_share_pp
+All,300,275,253,25,35.276,30.588,33.589,1.777,0.0
+ICFP,85,81,72,4,30.068,25.0,32.663,-1.155,0.0
+OOPSLA,21,20,19,1,42.434,47.581,45.151,-2.86,-15.359
+PLDI 2021 onward,84,67,60,17,38.986,35.714,34.692,4.245,7.897
+PLDI before 2021,16,14,14,2,26.513,19.643,28.997,-3.364,-11.968
+POPL,94,93,88,1,36.919,33.333,31.693,4.312,0.0

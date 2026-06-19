@@ -1,0 +1,14 @@
+researchr_id,canonical_researchr_id,name,n_rows,conferences
+bengreenman1,bengreenman,Ben Greenman,1,PLDI
+constantinenea1,constantinenea,Constantin Enea,1,OOPSLA
+filipsieczkowski1,filipsieczkowski,Filip Sieczkowski,1,ICFP
+gerwinklein1,gerwinklein,Gerwin Klein,1,ICFP
+kewang4,kewang,Ke Wang,1,PLDI
+laurenpick1,laurenpick,Lauren Pick,1,POPL
+nobukoyoshida1,nobukoyoshida,Nobuko Yoshida,3,"ICFP, OOPSLA, PLDI"
+ronghuigu1,ronghuigu,Ronghui Gu,1,PLDI
+samanamarsinghe,samanamarasinghe,Saman Amarasinghe,1,PLDI
+shazqadeer1,shazqadeer,Shaz Qadeer,3,"OOPSLA, PLDI, POPL"
+stephenkell2,stephenkell,Stephen Kell,1,PLDI
+tylersorensen1,tylersorensen,Tyler Sorensen,1,PLDI
+yudavidliu1,yudavidliu,Yu David Liu,1,PLDI

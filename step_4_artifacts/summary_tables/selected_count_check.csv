@@ -1,0 +1,201 @@
+plot_order,cell_id,researcher_id,name,selected_conference,plot_conference,pc_year,selected_event_label,event_time,year,source_group,panel_cell_available,plotted_citation_count,rebuilt_citation_count,count_matches_trace,total_citations,rebuilt_total_citations_raw,total_matches_trace,source_share_pct,pc_status_for_source
+1,0,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-2,2022,ICFP,True,1.0,1.0,True,17.0,17,True,5.88235294117647,0.0
+1,2,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-2,2022,OOPSLA,True,3.0,3.0,True,17.0,17,True,17.647058823529413,0.0
+1,3,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-2,2022,PLDI,True,6.0,6.0,True,17.0,17,True,35.294117647058826,1.0
+1,1,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-2,2022,POPL,True,7.0,7.0,True,17.0,17,True,41.17647058823529,0.0
+1,4,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-1,2023,ICFP,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+1,6,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-1,2023,OOPSLA,True,2.0,2.0,True,12.0,12,True,16.666666666666664,0.0
+1,7,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-1,2023,PLDI,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+1,5,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,-1,2023,POPL,True,4.0,4.0,True,12.0,12,True,33.33333333333333,1.0
+1,8,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,0,2024,ICFP,True,1.0,1.0,True,20.0,20,True,5.0,1.0
+1,10,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,0,2024,OOPSLA,True,2.0,2.0,True,20.0,20,True,10.0,0.0
+1,11,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,0,2024,PLDI,True,13.0,13.0,True,20.0,20,True,65.0,1.0
+1,9,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,0,2024,POPL,True,4.0,4.0,True,20.0,20,True,20.0,0.0
+1,12,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,1,2025,ICFP,True,1.0,1.0,True,20.0,20,True,5.0,0.0
+1,14,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,1,2025,OOPSLA,True,9.0,9.0,True,20.0,20,True,45.0,1.0
+1,15,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,1,2025,PLDI,True,5.0,5.0,True,20.0,20,True,25.0,0.0
+1,13,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,1,2025,POPL,True,5.0,5.0,True,20.0,20,True,25.0,1.0
+1,16,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,2,2026,ICFP,False,,,,,0,,,
+1,18,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,2,2026,OOPSLA,False,,,,,0,,,
+1,19,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,2,2026,PLDI,False,,,,,0,,,
+1,17,clementpitclaudel,Clément Pit-Claudel,PLDI,PLDI,2024,PLDI 2024,2,2026,POPL,False,,,,,0,,,
+2,20,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-2,2023,ICFP,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+2,22,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-2,2023,OOPSLA,True,2.0,2.0,True,12.0,12,True,16.666666666666664,0.0
+2,23,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-2,2023,PLDI,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+2,21,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-2,2023,POPL,True,4.0,4.0,True,12.0,12,True,33.33333333333333,1.0
+2,24,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-1,2024,ICFP,True,1.0,1.0,True,20.0,20,True,5.0,1.0
+2,26,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-1,2024,OOPSLA,True,2.0,2.0,True,20.0,20,True,10.0,0.0
+2,27,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-1,2024,PLDI,True,13.0,13.0,True,20.0,20,True,65.0,1.0
+2,25,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,-1,2024,POPL,True,4.0,4.0,True,20.0,20,True,20.0,0.0
+2,28,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,0,2025,ICFP,True,1.0,1.0,True,20.0,20,True,5.0,0.0
+2,30,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,0,2025,OOPSLA,True,9.0,9.0,True,20.0,20,True,45.0,1.0
+2,31,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,0,2025,PLDI,True,5.0,5.0,True,20.0,20,True,25.0,0.0
+2,29,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,0,2025,POPL,True,5.0,5.0,True,20.0,20,True,25.0,1.0
+2,32,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,1,2026,ICFP,False,,,,,0,,,
+2,34,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,1,2026,OOPSLA,False,,,,,0,,,
+2,35,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,1,2026,PLDI,False,,,,,0,,,
+2,33,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,1,2026,POPL,False,,,,,0,,,
+2,36,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,2,2027,ICFP,False,,,,,0,,,
+2,38,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,2,2027,OOPSLA,False,,,,,0,,,
+2,39,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,2,2027,PLDI,False,,,,,0,,,
+2,37,clementpitclaudel,Clément Pit-Claudel,OOPSLA_COMBINED,OOPSLA combined,2025,OOPSLA 2025,2,2027,POPL,False,,,,,0,,,
+3,40,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-2,2018,ICFP,True,1.0,1.0,True,30.0,30,True,3.3333333333333335,0.0
+3,42,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-2,2018,OOPSLA,True,5.0,5.0,True,30.0,30,True,16.666666666666664,0.0
+3,43,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-2,2018,PLDI,True,5.0,5.0,True,30.0,30,True,16.666666666666664,0.0
+3,41,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-2,2018,POPL,True,19.0,19.0,True,30.0,30,True,63.33333333333333,0.0
+3,44,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-1,2019,ICFP,True,2.0,2.0,True,31.0,31,True,6.451612903225806,0.0
+3,46,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-1,2019,OOPSLA,True,8.0,8.0,True,31.0,31,True,25.806451612903224,0.0
+3,47,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-1,2019,PLDI,True,11.0,11.0,True,31.0,31,True,35.483870967741936,0.0
+3,45,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,-1,2019,POPL,True,10.0,10.0,True,31.0,31,True,32.25806451612903,0.0
+3,48,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,0,2020,ICFP,True,8.0,8.0,True,37.0,37,True,21.62162162162162,0.0
+3,50,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,0,2020,OOPSLA,True,20.0,20.0,True,37.0,37,True,54.054054054054056,1.0
+3,51,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,0,2020,PLDI,True,7.0,7.0,True,37.0,37,True,18.91891891891892,0.0
+3,49,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,0,2020,POPL,True,2.0,2.0,True,37.0,37,True,5.405405405405405,0.0
+3,52,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,1,2021,ICFP,True,3.0,3.0,True,36.0,36,True,8.333333333333332,0.0
+3,54,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,1,2021,OOPSLA,True,10.0,10.0,True,36.0,36,True,27.77777777777778,1.0
+3,55,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,1,2021,PLDI,True,18.0,18.0,True,36.0,36,True,50.0,1.0
+3,53,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,1,2021,POPL,True,5.0,5.0,True,36.0,36,True,13.88888888888889,0.0
+3,56,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,2,2022,ICFP,True,0.0,0.0,True,17.0,17,True,0.0,0.0
+3,58,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,2,2022,OOPSLA,True,6.0,6.0,True,17.0,17,True,35.294117647058826,0.0
+3,59,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,2,2022,PLDI,True,5.0,5.0,True,17.0,17,True,29.411764705882355,0.0
+3,57,viktorkuncak,Viktor Kunčak,OOPSLA,OOPSLA,2020,OOPSLA 2020,2,2022,POPL,True,6.0,6.0,True,17.0,17,True,35.294117647058826,0.0
+4,60,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-2,2019,ICFP,True,2.0,2.0,True,31.0,31,True,6.451612903225806,0.0
+4,62,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-2,2019,OOPSLA,True,8.0,8.0,True,31.0,31,True,25.806451612903224,0.0
+4,63,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-2,2019,PLDI,True,11.0,11.0,True,31.0,31,True,35.483870967741936,0.0
+4,61,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-2,2019,POPL,True,10.0,10.0,True,31.0,31,True,32.25806451612903,0.0
+4,64,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-1,2020,ICFP,True,8.0,8.0,True,37.0,37,True,21.62162162162162,0.0
+4,66,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-1,2020,OOPSLA,True,20.0,20.0,True,37.0,37,True,54.054054054054056,1.0
+4,67,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-1,2020,PLDI,True,7.0,7.0,True,37.0,37,True,18.91891891891892,0.0
+4,65,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,-1,2020,POPL,True,2.0,2.0,True,37.0,37,True,5.405405405405405,0.0
+4,68,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,0,2021,ICFP,True,3.0,3.0,True,36.0,36,True,8.333333333333332,0.0
+4,70,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,0,2021,OOPSLA,True,10.0,10.0,True,36.0,36,True,27.77777777777778,1.0
+4,71,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,0,2021,PLDI,True,18.0,18.0,True,36.0,36,True,50.0,1.0
+4,69,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,0,2021,POPL,True,5.0,5.0,True,36.0,36,True,13.88888888888889,0.0
+4,72,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,1,2022,ICFP,True,0.0,0.0,True,17.0,17,True,0.0,0.0
+4,74,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,1,2022,OOPSLA,True,6.0,6.0,True,17.0,17,True,35.294117647058826,0.0
+4,75,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,1,2022,PLDI,True,5.0,5.0,True,17.0,17,True,29.411764705882355,0.0
+4,73,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,1,2022,POPL,True,6.0,6.0,True,17.0,17,True,35.294117647058826,0.0
+4,76,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,2,2023,ICFP,True,2.0,2.0,True,24.0,24,True,8.333333333333332,0.0
+4,78,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,2,2023,OOPSLA,True,11.0,11.0,True,24.0,24,True,45.83333333333333,0.0
+4,79,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,2,2023,PLDI,True,7.0,7.0,True,24.0,24,True,29.166666666666668,1.0
+4,77,viktorkuncak,Viktor Kunčak,PLDI,PLDI,2021,PLDI 2021,2,2023,POPL,True,4.0,4.0,True,24.0,24,True,16.666666666666664,0.0
+5,80,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-2,2021,ICFP,True,3.0,3.0,True,14.0,14,True,21.428571428571427,0.0
+5,82,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-2,2021,OOPSLA,True,3.0,3.0,True,14.0,14,True,21.428571428571427,0.0
+5,83,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-2,2021,PLDI,True,5.0,5.0,True,14.0,14,True,35.714285714285715,0.0
+5,81,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-2,2021,POPL,True,3.0,3.0,True,14.0,14,True,21.428571428571427,0.0
+5,84,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-1,2022,ICFP,True,2.0,2.0,True,13.0,13,True,15.384615384615383,0.0
+5,86,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-1,2022,OOPSLA,True,6.0,6.0,True,13.0,13,True,46.15384615384615,0.0
+5,87,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-1,2022,PLDI,True,3.0,3.0,True,13.0,13,True,23.076923076923077,0.0
+5,85,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,-1,2022,POPL,True,2.0,2.0,True,13.0,13,True,15.384615384615383,0.0
+5,88,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,0,2023,ICFP,True,8.0,8.0,True,21.0,21,True,38.095238095238095,1.0
+5,90,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,0,2023,OOPSLA,True,5.0,5.0,True,21.0,21,True,23.809523809523807,1.0
+5,91,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,0,2023,PLDI,True,7.0,7.0,True,21.0,21,True,33.33333333333333,0.0
+5,89,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,0,2023,POPL,True,1.0,1.0,True,21.0,21,True,4.761904761904762,0.0
+5,92,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,1,2024,ICFP,True,1.0,1.0,True,26.0,26,True,3.8461538461538463,0.0
+5,94,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,1,2024,OOPSLA,True,9.0,9.0,True,26.0,26,True,34.61538461538461,0.0
+5,95,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,1,2024,PLDI,True,7.0,7.0,True,26.0,26,True,26.923076923076923,0.0
+5,93,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,1,2024,POPL,True,9.0,9.0,True,26.0,26,True,34.61538461538461,0.0
+5,96,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,2,2025,ICFP,True,4.0,4.0,True,14.0,14,True,28.57142857142857,1.0
+5,98,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,2,2025,OOPSLA,True,8.0,8.0,True,14.0,14,True,57.14285714285714,0.0
+5,99,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,2,2025,PLDI,True,0.0,0.0,True,14.0,14,True,0.0,0.0
+5,97,peterthiemann,Peter Thiemann,ICFP,ICFP,2023,ICFP 2023,2,2025,POPL,True,2.0,2.0,True,14.0,14,True,14.285714285714285,0.0
+6,100,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-2,2021,ICFP,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+6,102,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-2,2021,OOPSLA,True,1.0,1.0,True,7.0,7,True,14.285714285714285,0.0
+6,103,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-2,2021,PLDI,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+6,101,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-2,2021,POPL,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+6,104,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-1,2022,ICFP,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+6,106,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-1,2022,OOPSLA,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+6,107,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-1,2022,PLDI,True,1.0,1.0,True,12.0,12,True,8.333333333333332,0.0
+6,105,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,-1,2022,POPL,True,8.0,8.0,True,12.0,12,True,66.66666666666666,0.0
+6,108,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,0,2023,ICFP,True,11.0,11.0,True,22.0,22,True,50.0,1.0
+6,110,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,0,2023,OOPSLA,True,3.0,3.0,True,22.0,22,True,13.636363636363637,0.0
+6,111,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,0,2023,PLDI,True,4.0,4.0,True,22.0,22,True,18.181818181818183,0.0
+6,109,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,0,2023,POPL,True,4.0,4.0,True,22.0,22,True,18.181818181818183,0.0
+6,112,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,1,2024,ICFP,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+6,114,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,1,2024,OOPSLA,True,7.0,7.0,True,13.0,13,True,53.84615384615385,0.0
+6,115,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,1,2024,PLDI,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+6,113,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,1,2024,POPL,True,6.0,6.0,True,13.0,13,True,46.15384615384615,0.0
+6,116,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,2,2025,ICFP,True,1.0,1.0,True,12.0,12,True,8.333333333333332,0.0
+6,118,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,2,2025,OOPSLA,True,5.0,5.0,True,12.0,12,True,41.66666666666667,0.0
+6,119,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,2,2025,PLDI,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+6,117,simonjgay,Simon J. Gay,ICFP,ICFP,2023,ICFP 2023,2,2025,POPL,True,6.0,6.0,True,12.0,12,True,50.0,0.0
+7,120,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-2,2017,ICFP,True,1.0,1.0,True,6.0,6,True,16.666666666666664,0.0
+7,122,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-2,2017,OOPSLA,True,3.0,3.0,True,6.0,6,True,50.0,0.0
+7,123,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-2,2017,PLDI,True,2.0,2.0,True,6.0,6,True,33.33333333333333,0.0
+7,121,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-2,2017,POPL,True,0.0,0.0,True,6.0,6,True,0.0,0.0
+7,124,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-1,2018,ICFP,True,5.0,5.0,True,8.0,8,True,62.5,0.0
+7,126,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-1,2018,OOPSLA,True,0.0,0.0,True,8.0,8,True,0.0,0.0
+7,127,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-1,2018,PLDI,True,2.0,2.0,True,8.0,8,True,25.0,0.0
+7,125,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,-1,2018,POPL,True,1.0,1.0,True,8.0,8,True,12.5,0.0
+7,128,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,0,2019,ICFP,True,7.0,7.0,True,12.0,12,True,58.333333333333336,1.0
+7,130,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,0,2019,OOPSLA,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+7,131,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,0,2019,PLDI,True,3.0,3.0,True,12.0,12,True,25.0,0.0
+7,129,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,0,2019,POPL,True,2.0,2.0,True,12.0,12,True,16.666666666666664,0.0
+7,132,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,1,2020,ICFP,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+7,134,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,1,2020,OOPSLA,True,3.0,3.0,True,7.0,7,True,42.857142857142854,0.0
+7,135,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,1,2020,PLDI,True,0.0,0.0,True,7.0,7,True,0.0,0.0
+7,133,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,1,2020,POPL,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+7,136,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,2,2021,ICFP,True,0.0,0.0,True,1.0,1,True,0.0,0.0
+7,138,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,2,2021,OOPSLA,True,0.0,0.0,True,1.0,1,True,0.0,0.0
+7,139,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,2,2021,PLDI,True,0.0,0.0,True,1.0,1,True,0.0,0.0
+7,137,ezgicicek,Ezgi Çiçek,ICFP,ICFP,2019,ICFP 2019,2,2021,POPL,True,1.0,1.0,True,1.0,1,True,100.0,0.0
+8,140,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-2,2017,ICFP,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+8,142,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-2,2017,OOPSLA,True,10.0,10.0,True,13.0,13,True,76.92307692307693,0.0
+8,143,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-2,2017,PLDI,True,3.0,3.0,True,13.0,13,True,23.076923076923077,0.0
+8,141,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-2,2017,POPL,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+8,144,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-1,2018,ICFP,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+8,146,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-1,2018,OOPSLA,True,1.0,1.0,True,13.0,13,True,7.6923076923076925,0.0
+8,147,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-1,2018,PLDI,True,12.0,12.0,True,13.0,13,True,92.3076923076923,0.0
+8,145,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,-1,2018,POPL,True,0.0,0.0,True,13.0,13,True,0.0,0.0
+8,148,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,0,2019,ICFP,True,0.0,0.0,True,46.0,46,True,0.0,0.0
+8,150,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,0,2019,OOPSLA,True,24.0,24.0,True,46.0,46,True,52.17391304347826,1.0
+8,151,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,0,2019,PLDI,True,22.0,22.0,True,46.0,46,True,47.82608695652174,0.0
+8,149,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,0,2019,POPL,True,0.0,0.0,True,46.0,46,True,0.0,0.0
+8,152,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,1,2020,ICFP,True,0.0,0.0,True,25.0,25,True,0.0,0.0
+8,154,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,1,2020,OOPSLA,True,14.0,14.0,True,25.0,25,True,56.00000000000001,0.0
+8,155,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,1,2020,PLDI,True,11.0,11.0,True,25.0,25,True,44.0,0.0
+8,153,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,1,2020,POPL,True,0.0,0.0,True,25.0,25,True,0.0,0.0
+8,156,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,2,2021,ICFP,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+8,158,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,2,2021,OOPSLA,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+8,159,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,2,2021,PLDI,True,12.0,12.0,True,12.0,12,True,100.0,1.0
+8,157,brandonlucia,Brandon Lucia,OOPSLA,OOPSLA,2019,OOPSLA 2019,2,2021,POPL,True,0.0,0.0,True,12.0,12,True,0.0,0.0
+9,160,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-2,2022,ICFP,True,0.0,0.0,True,18.0,18,True,0.0,0.0
+9,162,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-2,2022,OOPSLA,True,11.0,11.0,True,18.0,18,True,61.111111111111114,0.0
+9,163,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-2,2022,PLDI,True,7.0,7.0,True,18.0,18,True,38.88888888888889,0.0
+9,161,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-2,2022,POPL,True,0.0,0.0,True,18.0,18,True,0.0,0.0
+9,164,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-1,2023,ICFP,True,4.0,4.0,True,19.0,19,True,21.052631578947366,1.0
+9,166,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-1,2023,OOPSLA,True,14.0,14.0,True,19.0,19,True,73.68421052631578,0.0
+9,167,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-1,2023,PLDI,True,0.0,0.0,True,19.0,19,True,0.0,0.0
+9,165,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,-1,2023,POPL,True,1.0,1.0,True,19.0,19,True,5.263157894736842,0.0
+9,168,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,0,2024,ICFP,True,8.0,8.0,True,45.0,45,True,17.77777777777778,0.0
+9,170,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,0,2024,OOPSLA,True,18.0,18.0,True,45.0,45,True,40.0,1.0
+9,171,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,0,2024,PLDI,True,3.0,3.0,True,45.0,45,True,6.666666666666667,0.0
+9,169,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,0,2024,POPL,True,16.0,16.0,True,45.0,45,True,35.55555555555556,1.0
+9,172,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,1,2025,ICFP,True,6.0,6.0,True,48.0,48,True,12.5,1.0
+9,174,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,1,2025,OOPSLA,True,38.0,38.0,True,48.0,48,True,79.16666666666666,0.0
+9,175,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,1,2025,PLDI,True,2.0,2.0,True,48.0,48,True,4.166666666666666,0.0
+9,173,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,1,2025,POPL,True,2.0,2.0,True,48.0,48,True,4.166666666666666,0.0
+9,176,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,2,2026,ICFP,False,,,,,0,,,
+9,178,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,2,2026,OOPSLA,False,,,,,0,,,
+9,179,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,2,2026,PLDI,False,,,,,0,,,
+9,177,jonathanbrachthauser,Jonathan Immanuel Brachthäuser,POPL,POPL,2024,POPL 2024,2,2026,POPL,False,,,,,0,,,
+10,180,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-2,2022,ICFP,True,0.0,0.0,True,6.0,6,True,0.0,0.0
+10,182,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-2,2022,OOPSLA,True,2.0,2.0,True,6.0,6,True,33.33333333333333,0.0
+10,183,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-2,2022,PLDI,True,2.0,2.0,True,6.0,6,True,33.33333333333333,0.0
+10,181,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-2,2022,POPL,True,2.0,2.0,True,6.0,6,True,33.33333333333333,0.0
+10,184,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-1,2023,ICFP,True,0.0,0.0,True,3.0,3,True,0.0,0.0
+10,186,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-1,2023,OOPSLA,True,1.0,1.0,True,3.0,3,True,33.33333333333333,0.0
+10,187,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-1,2023,PLDI,True,2.0,2.0,True,3.0,3,True,66.66666666666666,0.0
+10,185,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,-1,2023,POPL,True,0.0,0.0,True,3.0,3,True,0.0,0.0
+10,188,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,0,2024,ICFP,True,1.0,1.0,True,25.0,25,True,4.0,0.0
+10,190,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,0,2024,OOPSLA,True,4.0,4.0,True,25.0,25,True,16.0,0.0
+10,191,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,0,2024,PLDI,True,7.0,7.0,True,25.0,25,True,28.000000000000004,0.0
+10,189,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,0,2024,POPL,True,13.0,13.0,True,25.0,25,True,52.0,1.0
+10,192,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,1,2025,ICFP,True,0.0,0.0,True,7.0,7,True,0.0,1.0
+10,194,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,1,2025,OOPSLA,True,4.0,4.0,True,7.0,7,True,57.14285714285714,0.0
+10,195,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,1,2025,PLDI,True,1.0,1.0,True,7.0,7,True,14.285714285714285,0.0
+10,193,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,1,2025,POPL,True,2.0,2.0,True,7.0,7,True,28.57142857142857,0.0
+10,196,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,2,2026,ICFP,False,,,,,0,,,
+10,198,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,2,2026,OOPSLA,False,,,,,0,,,
+10,199,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,2,2026,PLDI,False,,,,,0,,,
+10,197,fritzhenglein,Fritz Henglein,POPL,POPL,2024,POPL 2024,2,2026,POPL,False,,,,,0,,,

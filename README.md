@@ -1,90 +1,255 @@
-<h1 align="center">
-    Do PC membership influence citation decisions?
-    <br><br>
-    <img src="./assets/logo.svg" alt="logo", style="width: 40rem;">
-</h1>
+<p align="center">
+  <img src="assets/repo_logo.png" alt="Citation network cover image" width="360">
+</p>
 
-> _Investigating whether researchers are cited differently when they serve on program committees (PCs)._
-> 
+# Program Committee Service and Citation Patterns
 
 **Author:** Ender Sari
 
 **Supervisor:** Clément Pit-Claudel
 
 ## Abstract
-This project investigates whether researchers are cited differently when they serve on program committees (PCs). We use bibliographic and citation data from OpenAlex and combine it with PC information collected from public sources to construct a panel dataset at the author–year level. The study starts with a journal (PACMPL). Then, we examine how citation patterns differ between years in which researchers serve on PCs and other years.
+This project asks whether researchers are cited differently around the years when they serve on a program committee (PC). We build a researcher-conference-year panel that connects PC members, accepted papers, and OpenAlex data for selected programming languages conferences. Our results are descriptive: citation changes are small and uneven in the broader sample, but clearer for researchers with no earlier same conference service evidence. In that subset, citations to PC members' earlier work rise around the service year and then partly fade, while **the serving conference's citation share increases by about 9.2 percentage points before softening after the service year.** These patterns suggest citation movement around PC service, but not a causal effect.
 
-## Introduction
+-  [Final report](report.pdf)
 
-Before submitting a paper, authors often see who is serving on the PC. Authors' citations decisions may be affected by PC lists. Therefore, our research of interest is: Do PCs influence citation decisions?
+-  [Exploratory project website](https://sariender.github.io/citemeifyoucan/)
 
-There are several ways this could happen. Authors may cite researchers whose names they recognize from a PC list, either deliberately or without paying much attention to it. In other cases, additional citations may be introduced during the review process. In both situations, the final reference list may reflect not only scientific relevance but also the structure of the reviewing process.
+- For questions about the data or reproducibility, please email me at `ender.sari@epfl.ch`.
 
-Since we usually observe only the final version of a paper, these mechanisms cannot be separated directly. What we can observe, however, is whether researchers tend to be cited differently in years when they serve on a PC than in years when they do not.
+### Project in Numbers
 
-## Proposal
+- Scope: `4` PL conferences: ICFP, POPL, OOPSLA, and PLDI, `2017-2025`.
+- PC service data: `2,180` rows, covering `952` unique researchers.
+- Accepted paper data: `2,528` papers.
+- Citation graph input: `110,167` OpenAlex reference edges.
+- Final panel: `37,128` researcher-conference-year rows.
 
-This project examines whether researchers are cited differently in years when they serve on PCs, using citation data and publicly available PC data.
+## Repository Layout
 
-### Data Extraction
+```text
+├── README.md
+├── report.pdf
+├── requirements.txt
+├── project_setup.py
+├── config/
+│   ├── project_config.yaml
+│   └── README.md
+├── notebooks/
+│   ├── step_1_pc_service_data/
+│   ├── step_2_paper_citation_data/
+│   ├── step_3_author_panel_data/
+│   └── step_4_event_study/
+├── step_1_data/              PC service data
+│   ├── raw/
+│   ├── intermediate/
+│   └── prepared/
+├── step_2_data/              accepted papers and OpenAlex references
+│   ├── raw/
+│   ├── intermediate/
+│   └── prepared/
+├── step_3_data/              author matching and final panel
+│   ├── raw/
+│   └── prepared/
+├── step_4_data/              event window analysis rows
+│   ├── raw/
+│   └── prepared/
+├── step_1_artifacts/         PC service checks
+│   ├── figures/
+│   ├── summary_tables/
+│   ├── check_tables/
+│   └── dependency_tables/
+├── step_2_artifacts/         paper/reference checks
+│   ├── figures/
+│   ├── summary_tables/
+│   ├── check_tables/
+│   └── dependency_tables/
+├── step_3_artifacts/         author matching checks
+│   ├── figures/
+│   ├── summary_tables/
+│   └── check_tables/
+├── step_4_artifacts/         analysis figures, tables, and method notes
+│   ├── figures_t_minus_event_study/
+│   ├── figures_citation_shift_event_study/
+│   ├── main_text_figures/
+│   └── summary_tables/
+├── assets/
+│   ├── repo_logo.png
+│   └── validation_pdfs/
+├── report_latex/             report figures
+└── fonts/
+```
 
-[OpenAlex](https://openalex.org) provides an open API that can be used to retrieve bibliographic and citation data. PC information can be collected from publicly available conference pages, such as the [ICFP 2023 program track](https://icfp23.sigplan.org/track/icfp-2023-papers) and the corresponding PC lists.
+## Pipeline
 
-As a starting point, the study focuses on programming languages conferences such as [POPL](https://popl25.sigplan.org/committee/POPL-2025-popl-research-papers-program-committee) and [ICFP](https://icfp23.sigplan.org/committee/icfp-2023-papers-program-committee), whose papers are published as issues of the [Proceedings of the ACM on Programming Languages (PACMPL)](https://dl.acm.org/journal/pacmpl). Beginning with a single journal makes it easier to build the dataset and check the analysis.
+1. Step 1 builds the PC service data.
+   - Data: `step_1_data/prepared/`
+   - Main output: `step_1_data/prepared/pc_members.parquet`.
+   - Service history check: `step_1_data/prepared/pc_first_service_evidence.parquet`.
+   - Artifacts: `step_1_artifacts/`.
 
-What happens next will depend on the results from this first stage. The analysis can then be extended to other journals/areas, applied to a totally different field, or adjusted as the data becomes clearer.
+2. Step 2 builds the accepted paper and reference data.
+   - Paper data: `step_2_data/prepared/all_papers/`
+   - Main papers: `step_2_data/prepared/all_papers/all_papers_filtered.parquet`.
+   - Reference edges: `step_2_data/intermediate/references/reference_edges.parquet`.
+   - Cited author expanded references: `step_2_data/prepared/all_papers/all_ref_authors_exploded.parquet`.
+   - Cached ACM front matter PDFs for title checks: `assets/validation_pdfs/`.
 
-### Data Validation and Practical Issues
+3. Step 3 links PC names to OpenAlex author identities and builds the panel.
+   - Data: `step_3_data/prepared/`
+   - Main panel: `step_3_data/prepared/panel.parquet`.
+   - Feature panel: `step_3_data/prepared/panel_features.parquet`.
+   - Matching: `step_3_data/prepared/pc_members_openalex_match.parquet`.
 
-During the initial data collection, we observed that author names are not always consistent and that some references may be incomplete. For this reason, OpenAlex author identifiers will be used to track researchers over time instead of relying on names alone. We will also report the amount of missing data to assess whether it could introduce bias. One of our goals is to keep the data pipeline fully reproducible.
+4. Step 4 builds the event window analysis data.
+   - Data: `step_4_data/prepared/`
+   - Citation level event study: `step_4_data/prepared/t_minus_2_reference_event_window_rows.parquet`.
+   - Citation source analysis: `step_4_data/prepared/citation_source_shift_event_rows.parquet`.
+   - Career age/visibility rows: `step_4_data/prepared/career_age_event_window_rows.parquet`.
 
-To understand data quality, we will manually check a small number of records. PC memberships and publication years can be validated using publicly available sources such as authors’ CVs or webpages. Also, OpenAlex metadata will be compared with official journal proceedings (for example, PACMPL issues) to confirm that papers are correctly linked.
+## Main Data Files
 
-### Proposed Approach
-
-Before presenting our proposed approach, we first want to explain what could go wrong in the interpretation.
-
-Firstly, PC members are not a random group of people. In most cases, they are invited because they are already visible in their area. So if we observe that they receive more citations, this alone would not mean much. It could simply reflect their seniority/reputation or publication history.
-
-Secondly, there is also a time effect. Citation counts usually increase over time as papers accumulate citations and researchers become more senior. So this also needs to be considered, for example by comparing PC years to nearby years or by including year effects in the analysis.
-
-Because of this, the analysis will mainly rely on comparisons within researchers over time. The idea is simple: looking at the same researcher in years when they serve on a PC and in years when they do not. For example, some researchers serve repeatedly on conferences such as ICFP or POPL. It is possible to follow these researchers over several years and compare citation patterns across PC and non-PC years. Although this does not remove all sources of bias/confounders, it helps to avoid comparing completely different groups of people. 
-
-In practice, this means building a dataset where each row represents a researcher in a given year, and where it is recorded whether they served on a PC.
-
-For example:
-
-| author_id | author_name | year | pc_member | citations |
-|-----------|------------|------|-----------|-----------|
-| A5..      | ...        | 2019 | 0         | 12        |
-| A5..      | ...        | 2020 | 1         | 18        |
-| A5..      | ...        | 2021 | 0         | 20        |
-
-
-There is also another possible way to look at the data. Instead of focusing only on individuals, it may be possible to compare groups in a given year, for example researchers who serve on a PC in that year and similar researchers who do not. This would require observational matching, and doing that carefully is not trivial. For this reason, for now we see this as a supplementary analysis rather than the main one.
-
-We are aware that none of these approaches can answer the question perfectly on their own, but they can provide evidence in one direction or another.
+| Step | File | Rows | Why it matters |
+|---|---|---:|---|
+| Step 1 | `step_1_data/prepared/pc_members.parquet` | 2,180 | Cleaned PC service rows. |
+| Step 1 | `step_1_data/prepared/pc_first_service_evidence.parquet` | 1,496 | Earlier service history evidence. |
+| Step 2 | `step_2_data/prepared/all_papers/all_papers_filtered.parquet` | 2,528 | Accepted papers used for citation counting. |
+| Step 2 | `step_2_data/intermediate/references/reference_edges.parquet` | 110,167 | Reference edges from accepted papers to OpenAlex works. |
+| Step 2 | `step_2_data/prepared/all_papers/all_ref_authors_exploded.parquet` | 355,366 | Reference edges expanded to cited authors. |
+| Step 3 | `step_3_data/prepared/panel.parquet` | 37,128 | Final researcher-conference-year panel. |
+| Step 3 | `step_3_data/prepared/panel_features.parquet` | 37,128 | Service history and analysis features. |
+| Step 4 | `step_4_data/prepared/t_minus_2_reference_event_window_rows.parquet` | 2,015 | RQ1 event study rows. |
+| Step 4 | `step_4_data/prepared/citation_source_shift_event_rows.parquet` | 1,500 | RQ2 citation source rows. |
 
 
-## Timeline
+## Final Panel Data Dictionary
 
-| Period Weeks | What we plan to do | Outcome |
-|--------|------------------|--------|
-| 1–3 | Building the first version of the data pipeline with PACMPL (e.g., ICFP / POPL). Data Processing / Cleaning / Validating | Dataset. |
-| 4–6 | Thinking about confounders, and updating the dataset or variables if needed. | Early findings. |
-| 7–9 | Main analysis, focusing on within-researcher comparisons. Checking confounders, models, and collecting additional data if necessary. | Model results and findings. |
-| 10–13 | Depending on the results, extend the analysis to another field, or adjust the design.| Extended or validated results. |
-|  13–14 | Final presentation, documentation.| Final presentation and report.  |
+`panel.parquet` keeps the minimal final panel data:
 
-## Initial Progress
-So far, we have started collecting data for programming languages conferences such as ICFP, POPL, OOPSLA, and PLDI in order to check whether the dataset can be constructed in practice. The results so far suggest that the journals can be tracked consistently over time and that there is sufficient data to create a panel dataset. We also began collecting PC information from conference webpages and verified that authors can be tracked using OpenAlex author identifiers, which helps avoid problems caused by different name formats.
+| Column | Meaning |
+|---|---|
+| `panel_row_id` | Row identifier. |
+| `researcher_id` | Researcher identifier. |
+| `name` | Researcher display name. |
+| `conference` | Conference. |
+| `year` | Conference year. |
+| `pc_status` | `1` if the researcher is listed on the research paper PC for that conference year; otherwise `0`. |
+| `citation_count` | References from accepted papers in that conference year to the researcher's earlier work. |
 
-## Related Work
+`panel_features.parquet` adds the variables used in checks and analysis:
 
-Barnett (2025) studies whether reviewers are influenced when their own work is cited. In that study, citation data is collected using OpenAlex and the analysis relies on observational comparisons between groups of researchers.
+- identity fields: `openalex_id`, ORCID fields, match_method,
+  panel_identity_status, `citation_match_basis`;
+- service history fields: first observed PC year, prior same conference service,
+  and prior broad service evidence;
+- citation variants: citation_count_no_self, citation_count_first_author,
+  citation_count_first_or_last.
 
-The question in our project is related but different. Instead of looking at individual review decisions, our focus is on citation patterns based on PC service. Therefore, in our study, the main analysis relies on within-researcher comparisons over time, with observational matching considered as a supplementary approach.
+Join `panel.parquet` and `panel_features.parquet` on `panel_row_id`.
 
-### Resources
-[1] Barnett, A. (2025). *Are peer reviewers influenced by their work being cited?* eLife, 14:RP108748.  
-https://doi.org/10.7554/eLife.108748.4
+```python
+import pandas as pd
+from pathlib import Path
+
+DATA = Path("step_3_data/prepared")
+
+panel = pd.read_parquet(DATA / "panel.parquet")
+features = pd.read_parquet(DATA / "panel_features.parquet")
+
+panel_full = panel.merge(
+    features.drop(columns=["researcher_id", "conference", "year"]),
+    left_on="panel_row_id",
+    right_on="panel_row_id",
+    how="left",
+    validate="one_to_one",
+)
+```
+
+<!-- #region -->
+## Manual Mapping and Validation
+
+The most important manual/semimanual files are:
+
+| File | Rows | What it records |
+|---|---:|---|
+| [`name_map_used_for_source_comparison.csv`](step_1_artifacts/dependency_tables/name_map_used_for_source_comparison.csv) | 128 | Name variants used when comparing PC list sources. |
+| [`pc_researcher_identity_merges.csv`](step_1_artifacts/dependency_tables/pc_researcher_identity_merges.csv) | 6 | Duplicate profile merges for PC researchers. |
+| `step_3_data/prepared/pc_members_openalex_match.parquet` | 952 | OpenAlex/ORCID match status for each PC researcher. |
+| [`manual_selection.csv`](step_3_artifacts/check_tables/manual_update/manual_selection.csv) | 522 | Manual author candidate review decisions. |
+| [`researchers_matched_how.csv`](step_3_artifacts/summary_tables/researchers_matched_how.csv) | 952 | How each PC researcher is counted in the final panel. |
+
+Key matching numbers:
+
+- `793` of `952` PC researchers match exactly to one OpenAlex author ID.
+- Citation outcomes can be constructed for `942` of `952` PC researchers.
+- `10` PC researchers remain unresolved for citation counting.
+
+## Notebooks for Figures and Tables
+
+**Step 1: PC service checks**  
+Base path: `notebooks/step_1_pc_service_data/`
+
+- [`04_compare_hotcrp_researchr_sources.ipynb`](notebooks/step_1_pc_service_data/04_compare_hotcrp_researchr_sources.ipynb)
+- [`05_pc_members_bar_chart_breakdown.ipynb`](notebooks/step_1_pc_service_data/05_pc_members_bar_chart_breakdown.ipynb)
+- [`06_build_pc_members.ipynb`](notebooks/step_1_pc_service_data/06_build_pc_members.ipynb)
+- [`07_true_first_pc_service.ipynb`](notebooks/step_1_pc_service_data/07_true_first_pc_service.ipynb)
+- [`08_pc_service_overlap_plots.ipynb`](notebooks/step_1_pc_service_data/08_pc_service_overlap_plots.ipynb)
+
+**Step 2: Paper and OpenAlex checks**  
+Base path: `notebooks/step_2_paper_citation_data/`
+
+- [`02_title_checks.ipynb`](notebooks/step_2_paper_citation_data/02_title_checks.ipynb)
+- [`03_paper_counts_plot.ipynb`](notebooks/step_2_paper_citation_data/03_paper_counts_plot.ipynb)
+- [`05_reference_check_plots.ipynb`](notebooks/step_2_paper_citation_data/05_reference_check_plots.ipynb)
+
+**Step 3: Author matching and panel checks**  
+Base path: `notebooks/step_3_author_panel_data/`
+
+- [`01_match_pc_members_to_openalex.ipynb`](notebooks/step_3_author_panel_data/01_match_pc_members_to_openalex.ipynb)
+- [`02_build_identity_validation_table.ipynb`](notebooks/step_3_author_panel_data/02_build_identity_validation_table.ipynb)
+- [`03_review_unmatched_name_candidates.ipynb`](notebooks/step_3_author_panel_data/03_review_unmatched_name_candidates.ipynb)
+- [`04_build_panel.ipynb`](notebooks/step_3_author_panel_data/04_build_panel.ipynb)
+- [`05_cohort1_zero_share_plot.ipynb`](notebooks/step_3_author_panel_data/05_cohort1_zero_share_plot.ipynb)
+
+**Step 4: Event study and citation source figures**  
+Base path: `notebooks/step_4_event_study/`
+
+- [`01_career_age_event_study.ipynb`](notebooks/step_4_event_study/01_career_age_event_study.ipynb)
+- [`02_citation_source_shift_extension.ipynb`](notebooks/step_4_event_study/02_citation_source_shift_extension.ipynb)
+- [`03_t_minus_2_reference_event_study.ipynb`](notebooks/step_4_event_study/03_t_minus_2_reference_event_study.ipynb)
+- [`04_selected_source_share_analysis.ipynb`](notebooks/step_4_event_study/04_selected_source_share_analysis.ipynb)
+- [`04_t_minus_conference_comparison.ipynb`](notebooks/step_4_event_study/04_t_minus_conference_comparison.ipynb)
+- [`05_selected_source_share_trace_audit.ipynb`](notebooks/step_4_event_study/05_selected_source_share_trace_audit.ipynb)
+- [`06_t_minus_pooled_conference_breakdowns.ipynb`](notebooks/step_4_event_study/06_t_minus_pooled_conference_breakdowns.ipynb)
+
+## Raw Fetch Notebooks
+
+These notebooks build the cached Step 1 and Step 2 inputs.  
+*They are not needed when reproducing figures and tables.*
+
+**Step 1: Raw PC service fetches**  
+Base path: `notebooks/step_1_pc_service_data/`
+
+- [`01_fetch_hotcrp_members.ipynb`](notebooks/step_1_pc_service_data/01_fetch_hotcrp_members.ipynb)
+- [`02_fetch_researchr_pc_members.ipynb`](notebooks/step_1_pc_service_data/02_fetch_researchr_pc_members.ipynb)
+- [`03_fetch_researchr_external_members.ipynb`](notebooks/step_1_pc_service_data/03_fetch_researchr_external_members.ipynb)
+
+**Step 2: Raw OpenAlex fetches**  
+Base path: `notebooks/step_2_paper_citation_data/`
+
+- [`01_fetch_papers.ipynb`](notebooks/step_2_paper_citation_data/01_fetch_papers.ipynb)
+- [`04_fetch_reference_authors.ipynb`](notebooks/step_2_paper_citation_data/04_fetch_reference_authors.ipynb)
+
+
+## What Is Not Included
+
+- Researchr screenshot assets;
+- Raw website snapshots;
+- Raw OpenAlex JSON caches;
+- Previous experiments.
+  
+## Notes
+
+- OpenAlex metadata changes over time; this project uses citation metadata cached on June 11, 2026.
+- The included cached data are enough to reproduce the main tables, statistics, and regenerated analysis artifacts.
+<!-- #endregion -->
