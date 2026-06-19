@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="assets/repo_logo.png" alt="Citation network cover image" width="360">
-</p>
-
 # Program Committee Service and Citation Patterns
 
-**Author:** Ender Sari
+<p align="center">
+  <img src="assets/report_cover.png" alt="Citation network cover image" width="360">
+</p>
 
+**Author:** Ender Sari  
 **Supervisor:** Clément Pit-Claudel
 
 ## Abstract
 This project asks whether researchers are cited differently around the years when they serve on a program committee (PC). We build a researcher-conference-year panel that connects PC members, accepted papers, and OpenAlex data for selected programming languages conferences. Our results are descriptive: citation changes are small and uneven in the broader sample, but clearer for researchers with no earlier same conference service evidence. In that subset, citations to PC members' earlier work rise around the service year and then partly fade, while **the serving conference's citation share increases by about 9.2 percentage points before softening after the service year.** These patterns suggest citation movement around PC service, but not a causal effect.
 
 -  [Final report](report.pdf)
-
 -  [Exploratory project website](https://sariender.github.io/citemeifyoucan/)
-
 - For questions about the data or reproducibility, please email me at `ender.sari@epfl.ch`.
 
 ### Project in Numbers
@@ -74,7 +71,7 @@ This project asks whether researchers are cited differently around the years whe
 │   ├── main_text_figures/
 │   └── summary_tables/
 ├── assets/
-│   ├── repo_logo.png
+│   ├── report_cover.png
 │   └── validation_pdfs/
 ├── report_latex/             report figures
 └── fonts/
@@ -109,7 +106,7 @@ This project asks whether researchers are cited differently around the years whe
 
 ## Main Data Files
 
-| Step | File | Rows | Why it matters |
+| Step | File | Rows | Info |
 |---|---|---:|---|
 |  1 | `step_1_data/prepared/pc_members.parquet` | 2,180 | Cleaned PC service rows. |
 |  1 | `step_1_data/prepared/pc_first_service_evidence.parquet` | 1,496 | Earlier service history evidence. |
@@ -126,7 +123,7 @@ This project asks whether researchers are cited differently around the years whe
 
 `panel.parquet` keeps the minimal final panel data:
 
-| Column | Meaning |
+| Column | Info |
 |---|---|
 | `panel_row_id` | Row identifier. |
 | `researcher_id` | Researcher identifier. |
@@ -165,12 +162,11 @@ panel_full = panel.merge(
 )
 ```
 
-<!-- #region -->
 ## Manual Mapping and Validation
 
 The most important manual/semimanual files are:
 
-| File | Rows | What it records |
+| File | Rows | Info |
 |---|---:|---|
 | [`name_map_used_for_source_comparison.csv`](step_1_artifacts/dependency_tables/name_map_used_for_source_comparison.csv) | 128 | Name variants used when comparing PC list sources. |
 | [`pc_researcher_identity_merges.csv`](step_1_artifacts/dependency_tables/pc_researcher_identity_merges.csv) | 6 | Duplicate profile merges for PC researchers. |
@@ -252,4 +248,3 @@ Base path: `notebooks/step_2_paper_citation_data/`
 
 - OpenAlex metadata changes over time; this project uses citation metadata cached on June 11, 2026.
 - The included cached data are enough to reproduce the main tables, statistics, and regenerated analysis artifacts.
-<!-- #endregion -->
