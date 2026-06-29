@@ -8,9 +8,10 @@
 **Supervisor:** Clément Pit-Claudel
 
 ## Abstract
-This project asks whether researchers are cited differently around the years when they serve on a program committee (PC). We build a researcher-conference-year panel that connects PC members, accepted papers, and OpenAlex data for selected programming languages conferences. Our results are descriptive: citation changes are small and uneven in the broader sample, but clearer for researchers with no earlier same conference service evidence. In that subset, citations to PC members' earlier work rise around the service year and then partly fade, while **the serving conference's citation share increases by about 9.2 percentage points before softening after the service year.** These patterns suggest citation movement around PC service, but not a causal effect.
+**This project asks whether researchers are cited differently around the years when they serve on a program committee (PC).** We build a researcher-conference-year panel that connects PC members, accepted papers, and OpenAlex data for selected programming languages conferences. Our results are descriptive: citation changes are small and uneven in the broader sample, but clearer for researchers with no earlier same conference service evidence. In that subset, citations to PC members' earlier work rise around the service year and then partly fade, while **the serving conference's citation share increases by about 9.2 percentage points before softening after the service year.** These patterns suggest citation movement around PC service, but not a causal effect.
 
 -  [Final report](report.pdf)
+-  [Project presentation](2026-26-06-Ender-Sari.pdf)
 -  [Exploratory project website](https://sariender.github.io/citemeifyoucan/)
 - For questions about the data or reproducibility, please email me at `ender.sari@epfl.ch`.
 
