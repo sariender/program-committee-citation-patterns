@@ -1,0 +1,2 @@
+# Treat archived scrape outputs as data so GitHub does not count them as source HTML.
+step_1_data/raw/**/*.html linguist-generated=true
